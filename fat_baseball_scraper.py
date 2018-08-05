@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[2]:
+# In[1]:
 
 
 import pandas as pd
@@ -238,67 +238,67 @@ df_h_w
 df_h_w.to_csv('player_hw.csv')
 
 
-# In[22]:
+# In[4]:
 
 
-df_stats = pd.read_csv('player_hw.csv', index_col = 0)
+df_stats = pd.read_csv('~/fat_baseball/player_hw.csv', index_col = 0)
 
 
-# In[23]:
+# In[5]:
 
 
 df_stats['car_length'] = df_stats['lastyear'] - df_stats['firstyear']
 
 
-# In[24]:
+# In[6]:
 
 
 df_stats.info()
 
 
-# In[25]:
+# In[7]:
 
 
 df_stats = df_stats[df_stats.weight != 'Unknown']
 
 
-# In[26]:
+# In[8]:
 
 
 df_stats.weight = df_stats.weight.astype('int64')
 
 
-# In[27]:
+# In[9]:
 
 
 df_stats.corr()
 
 
-# In[28]:
+# In[10]:
 
 
 df_stats = df_stats[df_stats['firstyear'] > 1959]
 
 
-# In[29]:
+# In[11]:
 
 
 df_stats.corr()
 
 
-# In[30]:
+# In[12]:
 
 
 df_stats = df_stats[df_stats['lastyear'] != 2018]
 
 
-# In[31]:
+# In[13]:
 
 
 df_stats.corr()
 
 
-# In[32]:
+# In[14]:
 
 
 
@@ -311,163 +311,163 @@ def inches(x):
     return height
 
 
-# In[33]:
+# In[15]:
 
 
 df_stats['height'] = df_stats.height.apply(inches)
 
 
-# In[34]:
+# In[16]:
 
 
 df_stats['bmi'] = (df_stats['weight'] / df_stats['height'] / df_stats['height']) * 703
 
 
-# In[35]:
+# In[17]:
 
 
 df_stats = df_stats.sort_values('bmi', ascending = False).reset_index(drop = True)
 
 
-# In[36]:
+# In[18]:
 
 
 df_stats[df_stats['name'].str.contains('Colon')]
 
 
-# In[37]:
+# In[19]:
 
 
 df_stats.sort_values('car_length', ascending = False)
 
 
-# In[38]:
+# In[20]:
 
 
 df_pitchers = df_stats[df_stats['primary_pos'] == 'P']
 
 
-# In[39]:
+# In[21]:
 
 
 df_pitchers.corr()
 
 
-# In[40]:
+# In[31]:
 
 
 df_p_obese = df_pitchers[df_pitchers['bmi'] > 30]
 
 
-# In[41]:
+# In[32]:
 
 
 df_p_obese.car_length.mean()
 
 
-# In[42]:
+# In[33]:
 
 
 df_p_obese.car_length.hist()
 
 
-# In[43]:
+# In[34]:
 
 
 df_p_fit = df_pitchers[df_pitchers['bmi'] <= 30]
 
 
-# In[44]:
+# In[35]:
 
 
 df_p_fit.car_length.hist()
 
 
-# In[45]:
+# In[36]:
 
 
 df_p_fit.car_length.mean()
 
 
-# In[46]:
+# In[37]:
 
 
 df_pitchers.reset_index(drop = True, inplace = True)
 
 
-# In[47]:
+# In[38]:
 
 
 df_pitchers
 
 
-# In[48]:
+# In[39]:
 
 
 stats.ttest_ind(df_p_fit.car_length, df_p_obese.car_length, equal_var = False)
 
 
-# In[49]:
+# In[45]:
 
 
 df_matcher = pd.read_csv('~/Downloads/people.csv')[['name_first', 'name_last', 'key_fangraphs']]
 
 
-# In[50]:
+# In[46]:
 
 
 df_matcher.columns
 
 
-# In[51]:
+# In[47]:
 
 
 df_matcher['name'] = (df_matcher['name_first'] + ' ' + df_matcher['name_last'])
 
 
-# In[52]:
+# In[48]:
 
 
 df_matcher['name']
 
 
-# In[53]:
+# In[49]:
 
 
 df_matched = pd.merge(df_matcher, df_pitchers, how = 'outer', on = 'name').dropna(subset = ['height'])
 
 
-# In[54]:
+# In[50]:
 
 
 df_pitchers
 
 
-# In[55]:
+# In[51]:
 
 
 df_matched.dropna(subset = ['height', 'name_first', 'key_fangraphs'], inplace = True)
 
 
-# In[56]:
+# In[52]:
 
 
 df_matched.reset_index(drop = True, inplace = True)
 
 
-# In[57]:
+# In[53]:
 
 
 df_matched[df_matched.name_last == 'Pichardo']
 
 
-# In[58]:
+# In[54]:
 
 
 df_matched
 
 
-# In[59]:
+# In[55]:
 
 
 df_duped= df_matched[df_matched['name'].duplicated(keep = False)]
@@ -479,7 +479,32 @@ df_duped= df_matched[df_matched['name'].duplicated(keep = False)]
 df_duped.drop_duplicates(subset = ['name', 'firstyear', 'lastyear'])
 
 
-# In[61]:
+# In[57]:
+
+
+f = requests.get('https://www.fangraphs.com/statss.aspx?playerid=13801.0')
+    
+f_soup = BeautifulSoup(f.content.decode('utf-8'), 'html.parser')
+
+tables = f_soup.find_all('table', {'class': 'rgMasterTable', 'id': 'SeasonStats1_dgSeason11_ctl00'})
+
+war_table = tables[0]
+
+trs = war_table.find_all('tr')
+
+for tr in trs:
+
+    if tr:
+        tds = tr.find_all('td')
+
+
+# In[58]:
+
+
+tds
+
+
+# In[60]:
 
 
 
@@ -507,30 +532,41 @@ def war_scraper(name, player_id):
                         'year': tds[0].text,
                         'war': tds[-1].text,
                         'team': tds[1].text,
-                        'name': name
+                        'name': name,
+                        'games': tds[5].text,
+                        'gs': tds[6].text
                     })
-    df_player = pd.DataFrame(df_list)
-    
-    df_player = df_player[~df_player['team'].str.contains('Depth Charts|Steamer|Fans|Zips|ZiPS|- - -')]
-    
-    df_player = df_player.drop_duplicates(subset = ['name','year'], keep = 'first').reset_index(drop = True)
-    
-    df_player.war = pd.to_numeric(df_player.war, errors = 'coerce')
 
-
-# In[62]:
-
-
-df_list = []
-for name, key, n in zip(df_matched.name[3377:], df_matched.key_fangraphs[3377:], range(0, len(df_matched))):
-    print(name)
-    print(str(n) + '/' + str(len(df_matched)))
-    war_scraper(name, key)
 
 
 # In[ ]:
 
 
+#df_list = []
+for name, key, n in zip(df_matched.name[3059:], df_matched.key_fangraphs[3059:], range(0, len(df_matched))):
+#    time.sleep(.25)
+    print(name)
+    print(str(n) + '/' + str(len(df_matched)))
+    war_scraper(name, key)
+    
+#%%
+df_matched[df_matched.name == 'Joe Nathan']
+#%%
+len(df_list)
+#%%
+df_player = pd.DataFrame(df_list)
+
+df_player = df_player[~df_player['team'].str.contains('Depth Charts|Steamer|Fans|Zips|ZiPS|- - -')]
+
+df_player = df_player.drop_duplicates(subset = ['name','year'], keep = 'first').reset_index(drop = True)
+
+df_player.war = pd.to_numeric(df_player.war, errors = 'coerce')
+
+#%% 
+df_player
+#%% 
+
+df_player_saved = pd.DataFrame()
 df_player_saved = pd.concat([df_player_saved, df_player])
 
 
@@ -538,6 +574,11 @@ df_player_saved = pd.concat([df_player_saved, df_player])
 
 
 df_player
+
+#%%
+df_player_saved.war = pd.to_numeric(df_player_saved.war, errors = 'coerce')
+df_player_saved.games = pd.to_numeric(df_player_saved.games, errors = 'coerce')
+df_player_saved.gs = pd.to_numeric(df_player_saved.gs, errors = 'coerce')
 
 
 # In[64]:
@@ -555,22 +596,24 @@ df_player_saved.to_csv('~/Downloads/pitcher_war.csv')
 # In[155]:
 
 
-df_player.war = pd.to_numeric(df_player.war, errors = 'coerce')
 
 
-# In[3]:
+# In[59]:
 
 
 df_pwar = pd.read_csv('pitcher_war.csv', index_col = 0)
 
 
-# In[4]:
+# In[31]:
 
 
-df_pwar
+#%%
+df_pwar['gs'].astype(float, inplace = True, errors = 'ignore')
+df_pwar['games'].astype(float, inplace = True, errors = 'ignore')
 
-
-# In[65]:
+#%%
+df_pwar['starter'] = np.where(df_pwar['gs'] / df_pwar['games'] >= 0.5, 'sp', 'rp')
+# In[45]:
 
 
 def drop_duplicate_players(player):
@@ -593,299 +636,267 @@ def drop_duplicate_players(player):
         df_pwar = df_pwar.drop(drop_mask.index)
 
 
-# In[66]:
+# In[46]:
 
 
 df_pwar
 
 
-# In[ ]:
+# In[47]:
 
 
 for n in df_pwar.name.unique():
     drop_duplicate_players(n)
 
 
-# In[ ]:
+# In[48]:
 
 
 df_pwar.year = df_pwar.year.astype(int)
 
 
-# In[9]:
+# In[49]:
 
 
 df_pwar[df_pwar.year < 1960]
 
 
-# In[10]:
+# In[136]:
 
 
 df_combined = pd.merge(df_pwar, df_pitchers, on = 'name', how = 'outer').drop(['firstyear', 'lastyear', 'primary_pos', 'car_length', 'url'], axis = 1)
 
 
-# In[11]:
+# In[137]:
 
 
 df_combined['yoc'] = np.NaN
 
 
-# In[196]:
+# In[138]:
 
 
-for p in df_combined.name.unique():
+df_combined[df_combined.name == 'Bob Malloy']
+
+
+# In[139]:
+
+
+df_combined.drop_duplicates(subset = ['name', 'yoc', 'year', 'war', 'team'], keep = False, inplace = True)
+
+
+# In[140]:
+
+
+df_combined = df_combined[~df_combined.name.str.contains('Dave Roberts|Henry Rodriguez')]
+
+
+# In[141]:
+
+
+df_yoc = df_combined
+
+len(df_yoc)
+# In[142]:
+
+
+for p in df_yoc.name.unique():
     df_p = df_combined[df_combined.name == p]
+    
     df_p = df_p.reset_index()
     df_p['yoc'] = df_p.index
     df_p = df_p.set_index('index')
     for i, row in df_p.iterrows():
         
-        df_combined.loc[i, ['yoc']] = (row['year'] - df_p.iloc[0, 3]) + 1
+        df_yoc.loc[i, ['yoc']] = (row['year'] - df_p.iloc[0, 5]) + 1
           
 
 
-# In[197]:
+# In[143]:
 
 
-df_combined
+df_yoc = df_yoc[df_yoc.yoc > 0]
 
 
-# In[198]:
+# In[144]:
 
 
-df_co = df_combined[df_combined.bmi >= 30]
+df_yoc.dropna(subset = ['yoc'], inplace = True)
 
 
-# In[199]:
+# In[226]:
 
 
-len(df_co)
+df_co = df_yoc[df_yoc.bmi >= 25]
 
-
-# In[200]:
-
-
-df_sv = df_combined[df_combined.bmi < 30]
-
-
-# In[202]:
-
-
-len(df_sv)
-
-
-# In[220]:
-
-
-df_sv.yoc.max()
-
-
-# In[275]:
-
-
-one = []
-two = []
-three = []
-four = []
-five = []
-six=[]
-seven=[]
-eight=[]
-nine=[]
-ten=[]
-eleven=[]
-twelve=[]
-thirteen=[]
-fourteen=[]
-fifteen=[]
-sixteen=[]
-seventeen = []
-eighteen = []
-nineteen = []
-twenty = []
-
-
-# In[286]:
-
-
-players_one = 0
-players_two = 0
-players_three = 0
-players_four = 0
-players_five = 0
-players_six = 0
-players_seven = 0
-players_eight = 0
-players_nine = 0
-players_ten = 0
-players_eleven = 0
-players_twelve = 0
-players_thirteen = 0
-players_fourteen = 0
-players_fifteen = 0
-players_sixteen = 0
-players_seventeen = 0
-players_eighteen = 0
-players_nineteen = 0
-players_twenty = 0
-
-
-# In[292]:
-
-
-year_list = [one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen]
-players_list = [players_one, 
-                players_two, 
-                players_three, 
-                players_five, 
-                players_six, 
-                players_seven, 
-                players_eight,
-                players_nine,
-                players_ten,
-                players_eleven,
-                players_twelve,
-                players_thirteen,
-                players_fourteen,
-                players_fifteen,
-                players_sixteen,
-                players_seventeen,
-                players_eighteen,
-                players_nineteen,
-                players_twenty
-               ]
-
-
-# In[288]:
-
-
-for i, row in df_sv.iterrows():
-    
-    if row['yoc'] == 1:
-        one.append(row['war'])
-        players_one += 1
-        
-    if row['yoc'] == 2:
-        two.append(row['war'])
-        players_two += 1
-        
-    if row['yoc'] == 3:
-        three.append(row['war'])
-        players_three += 1
-        
-    if row['yoc'] == 4:
-        four.append(row['war'])
-        players_four += 1
-        
-    if row['yoc'] == 5:
-        five.append(row['war'])
-        players_five += 1
-        
-    if row['yoc'] == 6:
-        six.append(row['war'])
-        players_six += 1
-        
-    if row['yoc'] == 7:
-        seven.append(row['war'])
-        players_seven += 1
-        
-    if row['yoc'] == 8:
-        eight.append(row['war'])
-        players_eight += 1
-        
-    if row['yoc'] == 9:
-        nine.append(row['war'])
-        players_nine += 1
-        
-    if row['yoc'] == 10:
-        ten.append(row['war'])
-        players_ten += 1
-        
-    if row['yoc'] == 11:
-        eleven.append(row['war'])
-        players_eleven += 1
-        
-    if row['yoc'] == 12:
-        twelve.append(row['war'])
-        players_twelve += 1
-        
-    if row['yoc'] == 13:
-        thirteen.append(row['war'])
-        players_thirteen += 1
-        
-    if row['yoc'] == 14:
-        fourteen.append(row['war'])
-        players_fourteen += 1
-        
-    if row['yoc'] == 15:
-        fifteen.append(row['war'])
-        players_fifteen += 1
-        
-    if row['yoc'] == 16:
-        sixteen.append(row['war'])
-        players_sixteen += 1
-        
-    if row['yoc'] == 17:
-        seventeen.append(row['war'])
-        players_seventeen += 1
-        
-    if row['yoc'] == 18:
-        eighteen.append(row['war'])
-        players_eighteen += 1
-        
-    if row['yoc'] == 19:
-        nineteen.append(row['war'])
-        players_nineteen += 1
-        
-    if row['yoc'] == 20:
-        twenty.append(row['war'])
-        players_twenty += 1
-
-
-# In[289]:
-
-
-sv_year_mean_list = []
-for y in year_list:
-    sv_year_mean_list.append(np.mean(y))
-
-
-# In[290]:
-
-
-players_one
-
-
-# In[293]:
-
-
-players_list
-
-
-# In[294]:
-
-
-for p in enumerate(players_list[1:]):
-    print(p)
-    drops = players_list[p[0]] - p[1]
-    print(drops / players_list[0])
-
-
+df_co_starters = df_co[df_co['starter'] == 'sp']
 # In[227]:
 
 
-co_year_mean_list
+len(df_co_starters)
+
+
+# In[228]:
+
+
+df_sv = df_yoc[df_yoc.bmi < 25]
+
+df_sv_starters = df_sv[df_sv.starter == 'sp']
 
 
 # In[229]:
 
 
-sv_year_mean_list
+len(df_sv_starters)
 
 
 # In[230]:
 
 
-plt.plot(co_year_mean_list)
-plt.plot(sv_year_mean_list)
+sv_year_counts = pd.DataFrame(df_sv.yoc.value_counts())
+svstarter_year_counts = pd.DataFrame(df_sv_starters.yoc.value_counts())
+
+# In[231]:
+
+
+co_year_counts = pd.DataFrame(df_co.yoc.value_counts())
+costarter_year_counts = pd.DataFrame(df_co_starters.yoc.value_counts())
+
+
+# In[232]:
+
+
+co_year_counts
+
+
+# In[233]:
+
+
+co_war = []
+sv_war = []
+cos_war = []
+svs_war = []
+
+# In[234]:
+
+
+import math
+def war_means(df, war_list):
+    for i in df.yoc.unique():
+        print(i)
+        df_y = df[df.yoc == i]
+        y_mean = df_y.war.mean()
+        if math.isnan(y_mean):
+            print(df_y, i)
+        war_list.append(y_mean)
+    return war_list
+
+
+# In[235]:
+
+
+co_war = war_means(df_co, co_war)
+cos_war = war_means(df_co_starters, cos_war)
+
+# In[236]:
+
+
+sv_war = war_means(df_sv, sv_war)
+svs_war = war_means(df_sv_starters, svs_war)
+
+# In[237]:
+
+sv_war = [x for x in sv_war if x > 0]
+
+len(sv_war)
+
+# In[245]:
+
+
+co_year_counts['war'] = co_war
+sv_year_counts['war'] = sv_war
+svstarter_year_counts['war'] = svs_war
+costarter_year_counts['war'] = cos_war
+
+
+
+# In[248]:
+
+
+co_year_counts = co_year_counts[co_year_counts.index > 0]
+sv_year_counts = sv_year_counts[sv_year_counts.index > 0]
+
+# In[249]:
+
+
+sv_year_counts['ar'] = sv_year_counts['yoc'].pct_change()
+svstarter_year_counts['ar'] = svstarter_year_counts['yoc'].pct_change()
+
+# In[250]:
+
+
+co_year_counts['ar'] = co_year_counts['yoc'].pct_change()
+costarter_year_counts['ar'] = costarter_year_counts['yoc'].pct_change()
+
+
+# In[251]:
+
+
+co_year_counts
+
+
+# In[260]:
+
+
+df_sv_plot = sv_year_counts.loc[:15]
+df_co_plot = co_year_counts.loc[:15]
+df_svs_plot = svstarter_year_counts.loc[:15]
+df_cos_plot = costarter_year_counts.loc[:15]
+
+# In[261]:
+
+
+plt.plot(df_sv_plot['ar'])
+plt.plot(df_co_plot['ar'])
+
+
+# In[262]:
+
+
+plt.plot(df_sv_plot['war'])
+plt.plot(df_co_plot['war'])
+
+#%%
+plt.plot(df_svs_plot['ar'], label = 'thin')
+plt.plot(df_cos_plot['ar'], label = 'fat')
+plt.legend()
+
+#%%
+plt.plot(df_svs_plot['war'], label = 'thin')
+plt.plot(df_cos_plot['war'], label = 'fat')
+plt.legend()
+#%%
+df_yoc.reset_index(drop = True, inplace = True)
+
+#%%
+df_yoc.to_csv('full_data.csv')
+
+#%%
+df_yoc['last_year'] = np.nan
+for i, row in df_yoc.iterrows():
+    
+    if row['name'] == df_yoc.loc[i, 'name']:
+        df_yoc.loc['last_year'] = 'no'
+    else:
+        df_yoc.loc['last_year'] = 'yes'
+
+
+
+
+
+
+
+
+
+
 

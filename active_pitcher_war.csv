@@ -1,0 +1,3644 @@
+,games,gs,name,team,war,year
+0,31,0,Jason Adam,Royals,-0.4,2018
+1,6,0,Austin Adams,Nationals,0.0,2017
+2,2,0,Austin Adams,Nationals,-0.2,2018
+3,6,0,Austin Adams,Indians,0.0,2014
+4,28,0,Austin Adams,Indians,0.1,2015
+5,19,0,Austin Adams,Indians,-0.2,2016
+6,4,2,Matt Albers,Astros,0.3,2006
+7,31,18,Matt Albers,Astros,0.0,2007
+8,28,3,Matt Albers,Orioles,0.2,2008
+9,56,0,Matt Albers,Orioles,0.7,2009
+10,62,0,Matt Albers,Orioles,0.1,2010
+11,56,0,Matt Albers,Red Sox,0.0,2011
+12,63,0,Matt Albers,2 Teams,-0.4,2012
+13,40,0,Matt Albers,Red Sox,-0.4,    2012
+14,56,0,Matt Albers,Indians,0.3,2013
+15,8,0,Matt Albers,Astros,0.2,2014
+16,30,0,Matt Albers,White Sox,0.4,2015
+17,58,1,Matt Albers,White Sox,-0.9,2016
+18,63,0,Matt Albers,Nationals,0.8,2017
+19,29,0,Matt Albers,Brewers,-0.7,2018
+20,8,0,Sandy Alcantara,Cardinals,-0.1,2017
+21,1,1,Sandy Alcantara,Marlins,0.0,2018
+22,6,0,Victor Alcantara,Tigers,-0.1,2017
+23,14,0,Victor Alcantara,Tigers,0.3,2018
+24,4,0,Scott Alexander,Royals,0.0,2015
+25,17,0,Scott Alexander,Royals,0.2,2016
+26,58,0,Scott Alexander,Royals,1.1,2017
+27,57,1,Scott Alexander,Dodgers,0.5,2018
+28,27,0,Cody Allen,Indians,0.2,2012
+29,77,0,Cody Allen,Indians,1.0,2013
+30,76,0,Cody Allen,Indians,1.2,2014
+31,70,0,Cody Allen,Indians,2.6,2015
+32,67,0,Cody Allen,Indians,1.0,2016
+33,69,0,Cody Allen,Indians,1.5,2017
+34,53,0,Cody Allen,Indians,0.0,2018
+35,9,0,Miguel Almonte,Royals,-0.4,2015
+36,2,0,Miguel Almonte,Royals,0.0,2017
+37,1,0,Miguel Almonte,Angels,-0.1,2018
+38,7,0,Yency Almonte,Rockies,0.2,2018
+39,15,0,Dan Altavilla,Mariners,0.3,2016
+40,41,0,Dan Altavilla,Mariners,0.0,2017
+41,22,0,Dan Altavilla,Mariners,-0.1,2018
+42,14,6,Jose Alvarez,Tigers,-0.2,2013
+43,2,0,Jose Alvarez,Angels,0.0,2014
+44,64,0,Jose Alvarez,Angels,0.4,2015
+45,64,0,Jose Alvarez,Angels,0.8,2016
+46,64,0,Jose Alvarez,Angels,0.4,2017
+47,64,0,Jose Alvarez,Angels,0.9,2018
+48,1,0,Jose Alvarez,Braves,0.0,1981
+49,7,0,Jose Alvarez,Braves,0.0,1982
+50,60,0,Jose Alvarez,Braves,0.0,1988
+51,30,0,Jose Alvarez,Braves,0.3,1989
+52,30,30,Brett Anderson,Athletics,3.5,2009
+53,19,19,Brett Anderson,Athletics,2.5,2010
+54,13,13,Brett Anderson,Athletics,0.9,2011
+55,6,6,Brett Anderson,Athletics,0.9,2012
+56,16,5,Brett Anderson,Athletics,0.3,2013
+57,8,8,Brett Anderson,Rockies,1.0,2014
+58,31,31,Brett Anderson,Dodgers,1.6,2015
+59,4,3,Brett Anderson,Dodgers,-0.3,2016
+60,13,13,Brett Anderson,2 Teams,0.8,2017
+61,6,6,Brett Anderson,Cubs,0.2,    2017
+62,12,12,Brett Anderson,Athletics,0.7,2018
+63,21,21,Chase Anderson,Diamondbacks,0.8,2014
+64,27,27,Chase Anderson,Diamondbacks,1.7,2015
+65,31,30,Chase Anderson,Brewers,0.5,2016
+66,25,25,Chase Anderson,Brewers,3.3,2017
+67,25,25,Chase Anderson,Brewers,0.4,2018
+68,3,0,Drew Anderson,Brewers,-0.1,2006
+69,2,0,Drew Anderson,Phillies,0.0,2017
+70,2,1,Drew Anderson,Phillies,0.2,2018
+71,46,0,Justin Anderson,Angels,0.5,2018
+72,2,0,Tanner Anderson,Pirates,-0.1,2018
+73,19,19,Tyler Anderson,Rockies,2.5,2016
+74,17,15,Tyler Anderson,Rockies,1.1,2017
+75,26,26,Tyler Anderson,Rockies,1.5,2018
+76,25,8,Matt Andriese,Rays,0.4,2015
+77,29,19,Matt Andriese,Rays,2.0,2016
+78,18,17,Matt Andriese,Rays,0.5,2017
+79,35,4,Matt Andriese,2 Teams,0.4,2018
+80,27,4,Matt Andriese,Rays,0.6,    2018
+81,10,0,Victor Arano,Phillies,0.3,2017
+82,46,0,Victor Arano,Phillies,0.9,2018
+83,20,0,Pedro Araujo,Orioles,-0.6,2018
+84,6,4,Chris Archer,Rays,0.5,2012
+85,23,23,Chris Archer,Rays,1.3,2013
+86,32,32,Chris Archer,Rays,3.2,2014
+87,34,34,Chris Archer,Rays,5.2,2015
+88,33,33,Chris Archer,Rays,3.2,2016
+89,34,34,Chris Archer,Rays,4.6,2017
+90,21,21,Chris Archer,2 Teams,2.0,2018
+91,17,17,Chris Archer,Rays,1.7,    2018
+92,18,18,Jake Arrieta,Orioles,0.9,2010
+93,22,22,Jake Arrieta,Orioles,0.0,2011
+94,24,18,Jake Arrieta,Orioles,1.6,2012
+95,14,14,Jake Arrieta,2 Teams,0.1,2013
+96,5,5,Jake Arrieta,Orioles,0.2,    2013
+97,25,25,Jake Arrieta,Cubs,5.0,2014
+98,33,33,Jake Arrieta,Cubs,7.3,2015
+99,31,31,Jake Arrieta,Cubs,3.8,2016
+100,30,30,Jake Arrieta,Cubs,2.4,2017
+101,24,24,Jake Arrieta,Phillies,2.3,2018
+102,7,7,Alec Asher,Phillies,-0.4,2015
+103,5,5,Alec Asher,Phillies,0.6,2016
+104,24,6,Alec Asher,Orioles,0.2,2017
+105,2,0,Alec Asher,Brewers,0.0,2018
+106,31,0,Luis Avilan,Braves,0.7,2012
+107,75,0,Luis Avilan,Braves,0.5,2013
+108,62,0,Luis Avilan,Braves,-0.3,2014
+109,73,0,Luis Avilan,2 Teams,0.2,2015
+110,50,0,Luis Avilan,Braves,0.1,    2015
+111,27,0,Luis Avilan,Dodgers,0.5,2016
+112,61,0,Luis Avilan,Dodgers,0.7,2017
+113,58,0,Luis Avilan,White Sox,1.0,2018
+114,7,0,John Axford,Brewers,0.1,2009
+115,50,0,John Axford,Brewers,1.8,2010
+116,74,0,John Axford,Brewers,1.9,2011
+117,75,0,John Axford,Brewers,0.2,2012
+118,75,0,John Axford,2 Teams,-0.3,2013
+119,62,0,John Axford,Brewers,-0.5,    2013
+120,62,0,John Axford,2 Teams,-0.4,2014
+121,49,0,John Axford,Indians,-0.5,    2014
+122,60,0,John Axford,Rockies,0.6,2015
+123,68,0,John Axford,Athletics,0.3,2016
+124,22,0,John Axford,Athletics,-0.2,2017
+125,48,1,John Axford,2 Teams,0.2,2018
+126,45,1,John Axford,Blue Jays,0.2,    2018
+127,20,0,Pedro Baez,Dodgers,0.1,2014
+128,52,0,Pedro Baez,Dodgers,1.1,2015
+129,73,0,Pedro Baez,Dodgers,0.5,2016
+130,66,0,Pedro Baez,Dodgers,0.2,2017
+131,40,0,Pedro Baez,Dodgers,0.6,2018
+132,1,0,Sandy Baez,Tigers,0.0,2018
+133,9,9,Homer Bailey,Reds,0.5,2007
+134,8,8,Homer Bailey,Reds,-0.2,2008
+135,20,20,Homer Bailey,Reds,1.3,2009
+136,19,19,Homer Bailey,Reds,1.9,2010
+137,22,22,Homer Bailey,Reds,1.5,2011
+138,33,33,Homer Bailey,Reds,2.7,2012
+139,32,32,Homer Bailey,Reds,4.1,2013
+140,23,23,Homer Bailey,Reds,1.6,2014
+141,2,2,Homer Bailey,Reds,-0.2,2015
+142,6,6,Homer Bailey,Reds,0.6,2016
+143,18,18,Homer Bailey,Reds,0.7,2017
+144,17,17,Homer Bailey,Reds,-0.3,2018
+145,8,4,Anthony Banda,Diamondbacks,0.5,2017
+146,3,1,Anthony Banda,Rays,0.2,2018
+147,13,0,Johnny Barbato,Yankees,0.0,2016
+148,24,0,Johnny Barbato,Pirates,-0.3,2017
+149,7,0,Johnny Barbato,Tigers,-0.4,2018
+150,8,0,Luke Bard,Angels,-0.3,2018
+151,6,0,Scott Barlow,Royals,0.2,2018
+152,12,0,Danny Barnes,Blue Jays,0.4,2016
+153,60,0,Danny Barnes,Blue Jays,0.2,2017
+154,35,0,Danny Barnes,Blue Jays,-0.2,2018
+155,27,0,Jacob Barnes,Brewers,0.5,2016
+156,73,0,Jacob Barnes,Brewers,0.7,2017
+157,41,0,Jacob Barnes,Brewers,0.4,2018
+158,5,0,Matt Barnes,Red Sox,0.0,2014
+159,32,2,Matt Barnes,Red Sox,-0.4,2015
+160,62,0,Matt Barnes,Red Sox,0.4,2016
+161,70,0,Matt Barnes,Red Sox,1.0,2017
+162,53,0,Matt Barnes,Red Sox,1.5,2018
+163,53,0,Tony Barnette,Rangers,0.8,2016
+164,50,0,Tony Barnette,Rangers,0.4,2017
+165,22,0,Tony Barnette,Rangers,0.3,2018
+166,25,0,Kyle Barraclough,Marlins,0.2,2015
+167,75,0,Kyle Barraclough,Marlins,2.1,2016
+168,66,0,Kyle Barraclough,Marlins,0.6,2017
+169,51,0,Kyle Barraclough,Marlins,-0.3,2018
+170,68,0,Jake Barrett,Diamondbacks,0.3,2016
+171,28,0,Jake Barrett,Diamondbacks,-0.4,2017
+172,5,0,Jake Barrett,Diamondbacks,0.0,2018
+173,19,19,Jaime Barria,Angels,0.8,2018
+174,13,0,Tyler Bashlor,Mets,0.0,2018
+175,27,3,Anthony Bass,Padres,0.0,2011
+176,24,15,Anthony Bass,Padres,0.9,2012
+177,24,0,Anthony Bass,Padres,-0.2,2013
+178,21,0,Anthony Bass,Astros,-1.0,2014
+179,33,0,Anthony Bass,Rangers,0.3,2015
+180,2,0,Anthony Bass,Rangers,0.0,2017
+181,16,0,Anthony Bass,Cubs,0.2,2018
+182,6,5,Chris Bassitt,White Sox,0.6,2014
+183,18,13,Chris Bassitt,Athletics,1.4,2015
+184,5,5,Chris Bassitt,Athletics,0.0,2016
+185,6,6,Chris Bassitt,Athletics,0.6,2018
+186,4,4,Trevor Bauer,Diamondbacks,0.0,2012
+187,4,4,Trevor Bauer,Indians,-0.3,2013
+188,26,26,Trevor Bauer,Indians,1.4,2014
+189,31,30,Trevor Bauer,Indians,1.8,2015
+190,35,28,Trevor Bauer,Indians,2.7,2016
+191,32,31,Trevor Bauer,Indians,3.2,2017
+192,25,25,Trevor Bauer,Indians,5.9,2018
+193,11,0,Buddy Baumann,Padres,0.3,2016
+194,23,0,Buddy Baumann,Padres,-0.2,2017
+195,4,0,Buddy Baumann,2 Teams,-0.2,2018
+196,1,0,Buddy Baumann,Padres,-0.1,    2018
+197,5,0,Gerson Bautista,Mets,-0.3,2018
+198,1,1,Chris Beck,White Sox,0.1,2015
+199,25,0,Chris Beck,White Sox,-0.2,2016
+200,57,0,Chris Beck,White Sox,-1.2,2017
+201,20,0,Chris Beck,2 Teams,-0.5,2018
+202,14,0,Chris Beck,White Sox,-0.2,    2018
+203,17,0,Cam Bedrosian,Angels,0.0,2014
+204,34,0,Cam Bedrosian,Angels,-0.1,2015
+205,45,0,Cam Bedrosian,Angels,1.0,2016
+206,48,0,Cam Bedrosian,Angels,0.7,2017
+207,60,0,Cam Bedrosian,Angels,0.2,2018
+208,2,2,Tyler Beede,Giants,0.1,2018
+209,7,1,Jalen Beeks,2 Teams,0.0,2018
+210,2,1,Jalen Beeks,Red Sox,-0.1,    2018
+211,6,0,Matt Belisle,Reds,0.0,2003
+212,60,5,Matt Belisle,Reds,0.4,2005
+213,30,2,Matt Belisle,Reds,0.0,2006
+214,30,30,Matt Belisle,Reds,2.4,2007
+215,6,6,Matt Belisle,Reds,0.3,2008
+216,24,0,Matt Belisle,Rockies,0.0,2009
+217,76,0,Matt Belisle,Rockies,2.0,2010
+218,74,0,Matt Belisle,Rockies,1.1,2011
+219,80,0,Matt Belisle,Rockies,1.6,2012
+220,72,0,Matt Belisle,Rockies,1.2,2013
+221,66,1,Matt Belisle,Rockies,0.3,2014
+222,34,0,Matt Belisle,Cardinals,0.1,2015
+223,40,0,Matt Belisle,Nationals,0.7,2016
+224,62,0,Matt Belisle,Twins,0.6,2017
+225,27,0,Matt Belisle,2 Teams,-0.2,2018
+226,8,0,Matt Belisle,Indians,0.0,    2018
+227,22,0,Jeff Beliveau,Cubs,-0.4,2012
+228,1,0,Jeff Beliveau,Rays,0.0,2013
+229,30,0,Jeff Beliveau,Rays,0.5,2014
+230,5,0,Jeff Beliveau,Rays,-0.1,2015
+231,19,0,Jeff Beliveau,Blue Jays,-0.2,2017
+232,9,0,Jeff Beliveau,Indians,-0.3,2018
+233,28,4,Chad Bell,Tigers,-0.3,2017
+234,3,0,Chad Bell,Tigers,0.0,2018
+235,10,10,Christian Bergman,Rockies,0.2,2014
+236,30,4,Christian Bergman,Rockies,0.3,2015
+237,15,1,Christian Bergman,Rockies,-0.2,2016
+238,13,8,Christian Bergman,Mariners,-0.2,2017
+239,3,2,Christian Bergman,Mariners,-0.2,2018
+240,14,14,Jose Berrios,Twins,-0.4,2016
+241,26,25,Jose Berrios,Twins,2.8,2017
+242,26,26,Jose Berrios,Twins,2.8,2018
+243,2,1,Dellin Betances,Yankees,0.0,2011
+244,6,0,Dellin Betances,Yankees,0.0,2013
+245,70,0,Dellin Betances,Yankees,3.2,2014
+246,74,0,Dellin Betances,Yankees,2.4,2015
+247,73,0,Dellin Betances,Yankees,2.9,2016
+248,66,0,Dellin Betances,Yankees,1.2,2017
+249,51,0,Dellin Betances,Yankees,1.5,2018
+250,16,8,Chad Bettis,Rockies,0.1,2013
+251,21,0,Chad Bettis,Rockies,-0.4,2014
+252,20,20,Chad Bettis,Rockies,1.8,2015
+253,32,32,Chad Bettis,Rockies,2.5,2016
+254,9,9,Chad Bettis,Rockies,0.4,2017
+255,19,19,Chad Bettis,Rockies,0.4,2018
+256,60,0,Joe Biagini,Blue Jays,1.2,2016
+257,44,18,Joe Biagini,Blue Jays,1.4,2017
+258,38,4,Joe Biagini,Blue Jays,-0.6,2018
+259,24,6,Austin Bibens-Dirkx,Rangers,-0.3,2017
+260,10,6,Austin Bibens-Dirkx,Rangers,0.1,2018
+261,43,0,Jesse Biddle,Braves,0.4,2018
+262,13,13,Shane Bieber,Indians,1.9,2018
+263,4,2,Ty Blach,Giants,0.2,2016
+264,34,24,Ty Blach,Giants,1.2,2017
+265,37,13,Ty Blach,Giants,0.6,2018
+266,16,0,Ray Black,Giants,0.0,2018
+267,10,10,Paul Blackburn,Athletics,0.6,2017
+268,6,6,Paul Blackburn,Athletics,0.5,2018
+269,14,8,Alex Blandino,Reds,-0.1,2018
+270,2,0,Jeremy Bleich,Athletics,0.0,2018
+271,23,0,Richard Bleier,Yankees,0.3,2016
+272,57,0,Richard Bleier,Orioles,0.2,2017
+273,31,0,Richard Bleier,Orioles,0.8,2018
+274,6,0,Jerry Blevins,Athletics,0.0,2007
+275,36,0,Jerry Blevins,Athletics,0.6,2008
+276,20,0,Jerry Blevins,Athletics,0.3,2009
+277,63,0,Jerry Blevins,Athletics,0.1,2010
+278,26,0,Jerry Blevins,Athletics,0.2,2011
+279,63,0,Jerry Blevins,Athletics,0.0,2012
+280,67,0,Jerry Blevins,Athletics,0.3,2013
+281,64,0,Jerry Blevins,Nationals,0.8,2014
+282,7,0,Jerry Blevins,Mets,0.2,2015
+283,73,0,Jerry Blevins,Mets,0.7,2016
+284,75,0,Jerry Blevins,Mets,1.0,2017
+285,50,1,Jerry Blevins,Mets,0.0,2018
+286,10,10,Ryan Borucki,Blue Jays,1.2,2018
+287,24,0,Brad Boxberger,Padres,-0.1,2012
+288,18,0,Brad Boxberger,Padres,-0.1,2013
+289,63,0,Brad Boxberger,Rays,0.9,2014
+290,69,0,Brad Boxberger,Rays,0.0,2015
+291,27,0,Brad Boxberger,Rays,-0.3,2016
+292,30,0,Brad Boxberger,Rays,0.3,2017
+293,47,0,Brad Boxberger,Diamondbacks,0.1,2018
+294,13,12,Matt Boyd,2 Teams,-0.6,2015
+295,2,2,Matt Boyd,Blue Jays,-0.4,    2015
+296,20,18,Matt Boyd,Tigers,0.9,2016
+297,26,25,Matt Boyd,Tigers,1.9,2017
+298,24,24,Matt Boyd,Tigers,2.2,2018
+299,43,0,Blaine Boyer,Braves,0.6,2005
+300,2,0,Blaine Boyer,Braves,0.0,2006
+301,5,0,Blaine Boyer,Braves,0.1,2007
+302,76,0,Blaine Boyer,Braves,0.2,2008
+303,48,0,Blaine Boyer,3 Teams,0.3,2009
+304,3,0,Blaine Boyer,Braves,-0.1,    2009
+305,54,0,Blaine Boyer,Diamondbacks,0.0,2010
+306,5,0,Blaine Boyer,Mets,-0.3,2011
+307,32,0,Blaine Boyer,Padres,0.3,2014
+308,68,0,Blaine Boyer,Twins,0.3,2015
+309,61,0,Blaine Boyer,Brewers,0.4,2016
+310,32,0,Blaine Boyer,Red Sox,0.4,2017
+311,21,0,Blaine Boyer,Royals,-0.9,2018
+312,9,0,Brad Brach,Padres,0.1,2011
+313,67,0,Brad Brach,Padres,-0.5,2012
+314,33,0,Brad Brach,Padres,-0.1,2013
+315,46,0,Brad Brach,Orioles,0.2,2014
+316,62,0,Brad Brach,Orioles,0.9,2015
+317,71,0,Brad Brach,Orioles,1.6,2016
+318,67,0,Brad Brach,Orioles,1.1,2017
+319,52,0,Brad Brach,2 Teams,0.7,2018
+320,42,0,Brad Brach,Orioles,0.4,    2018
+321,13,0,Silvino Bracho,Diamondbacks,0.1,2015
+322,26,0,Silvino Bracho,Diamondbacks,-0.6,2016
+323,21,0,Silvino Bracho,Diamondbacks,0.0,2017
+324,18,0,Silvino Bracho,Diamondbacks,0.5,2018
+325,8,8,Archie Bradley,Diamondbacks,0.0,2015
+326,26,26,Archie Bradley,Diamondbacks,1.8,2016
+327,63,0,Archie Bradley,Diamondbacks,2.1,2017
+328,60,0,Archie Bradley,Diamondbacks,0.6,2018
+329,7,0,Ryan Brasier,Angels,0.0,2013
+330,17,0,Ryan Brasier,Red Sox,0.5,2018
+331,8,7,Steven Brault,Pirates,0.1,2016
+332,11,4,Steven Brault,Pirates,0.2,2017
+333,32,5,Steven Brault,Pirates,-0.3,2018
+334,50,0,John Brebbia,Cardinals,0.1,2017
+335,33,0,John Brebbia,Cardinals,0.5,2018
+336,4,0,Colten Brewer,Padres,0.0,2018
+337,15,0,Austin Brice,Marlins,0.0,2016
+338,22,0,Austin Brice,Reds,0.0,2017
+339,32,0,Austin Brice,Reds,-0.4,2018
+340,2,0,Parker Bridwell,Orioles,-0.1,2016
+341,21,20,Parker Bridwell,Angels,1.0,2017
+342,1,1,Parker Bridwell,Angels,-0.3,2018
+343,28,28,Zach Britton,Orioles,2.0,2011
+344,12,11,Zach Britton,Orioles,0.6,2012
+345,8,7,Zach Britton,Orioles,0.1,2013
+346,71,0,Zach Britton,Orioles,1.0,2014
+347,64,0,Zach Britton,Orioles,2.1,2015
+348,69,0,Zach Britton,Orioles,2.5,2016
+349,38,0,Zach Britton,Orioles,0.6,2017
+350,27,0,Zach Britton,2 Teams,-0.1,2018
+351,16,0,Zach Britton,Orioles,0.0,    2018
+352,48,0,Rex Brothers,Rockies,0.7,2011
+353,75,0,Rex Brothers,Rockies,1.0,2012
+354,72,0,Rex Brothers,Rockies,0.9,2013
+355,74,0,Rex Brothers,Rockies,-0.6,2014
+356,17,0,Rex Brothers,Rockies,0.0,2015
+357,27,0,Rex Brothers,Braves,0.2,2017
+358,1,0,Rex Brothers,Braves,0.0,2018
+359,4,3,Clay Buchholz,Red Sox,0.7,2007
+360,16,15,Clay Buchholz,Red Sox,0.4,2008
+361,16,16,Clay Buchholz,Red Sox,0.6,2009
+362,28,28,Clay Buchholz,Red Sox,3.0,2010
+363,14,14,Clay Buchholz,Red Sox,0.7,2011
+364,29,29,Clay Buchholz,Red Sox,0.8,2012
+365,16,16,Clay Buchholz,Red Sox,2.8,2013
+366,28,28,Clay Buchholz,Red Sox,1.6,2014
+367,18,18,Clay Buchholz,Red Sox,3.2,2015
+368,37,21,Clay Buchholz,Red Sox,0.4,2016
+369,2,2,Clay Buchholz,Phillies,0.1,2017
+370,12,12,Clay Buchholz,Diamondbacks,1.3,2018
+371,1,0,Ryan Buchter,Braves,0.0,2014
+372,67,0,Ryan Buchter,Padres,1.1,2016
+373,71,0,Ryan Buchter,2 Teams,0.1,2017
+374,42,0,Ryan Buchter,Padres,0.0,    2017
+375,37,0,Ryan Buchter,Athletics,0.2,2018
+376,8,0,Walker Buehler,Dodgers,-0.1,2017
+377,16,15,Walker Buehler,Dodgers,1.7,2018
+378,4,1,Madison Bumgarner,Giants,0.0,2009
+379,18,18,Madison Bumgarner,Giants,1.7,2010
+380,33,33,Madison Bumgarner,Giants,4.9,2011
+381,32,32,Madison Bumgarner,Giants,3.1,2012
+382,31,31,Madison Bumgarner,Giants,3.8,2013
+383,33,33,Madison Bumgarner,Giants,4.0,2014
+384,32,32,Madison Bumgarner,Giants,5.2,2015
+385,34,34,Madison Bumgarner,Giants,4.9,2016
+386,17,17,Madison Bumgarner,Giants,1.7,2017
+387,14,14,Madison Bumgarner,Giants,1.1,2018
+388,30,0,Aaron Bummer,White Sox,-0.5,2017
+389,26,0,Aaron Bummer,White Sox,0.5,2018
+390,2,0,Dylan Bundy,Orioles,0.0,2012
+391,36,14,Dylan Bundy,Orioles,1.0,2016
+392,28,28,Dylan Bundy,Orioles,2.7,2017
+393,24,24,Dylan Bundy,Orioles,0.4,2018
+394,15,0,Corbin Burnes,Brewers,0.1,2018
+395,28,0,Alan Busenitz,Twins,0.1,2017
+396,12,0,Alan Busenitz,Twins,-0.2,2018
+397,58,0,Matt Bush,Rangers,1.5,2016
+398,57,0,Matt Bush,Rangers,0.6,2017
+399,21,0,Matt Bush,Rangers,-0.2,2018
+400,12,13,Drew Butera,Twins,0.1,2010
+401,19,23,Drew Butera,Twins,-1.0,2011
+402,7,5,Drew Butera,Twins,-0.2,2012
+403,0,0,Drew Butera,2 Teams,-0.1,2013
+404,0,0,Drew Butera,Twins,0.0,    2013
+405,16,14,Drew Butera,Dodgers,0.2,2014
+406,9,5,Drew Butera,2 Teams,-0.1,2015
+407,3,0,Drew Butera,Angels,0.0,    2015
+408,18,16,Drew Butera,Royals,0.7,2016
+409,18,14,Drew Butera,Royals,0.2,2017
+410,10,17,Drew Butera,Royals,-0.4,2018
+411,3,3,Eddie Butler,Rockies,-0.1,2014
+412,16,16,Eddie Butler,Rockies,-0.4,2015
+413,17,9,Eddie Butler,Rockies,0.0,2016
+414,13,11,Eddie Butler,Cubs,0.6,2017
+415,16,0,Eddie Butler,2 Teams,-0.5,2018
+416,8,0,Eddie Butler,Cubs,0.1,    2018
+417,32,32,Trevor Cahill,Athletics,0.2,2009
+418,30,30,Trevor Cahill,Athletics,1.9,2010
+419,34,34,Trevor Cahill,Athletics,1.8,2011
+420,32,32,Trevor Cahill,Diamondbacks,2.6,2012
+421,26,25,Trevor Cahill,Diamondbacks,0.8,2013
+422,32,17,Trevor Cahill,Diamondbacks,0.8,2014
+423,26,3,Trevor Cahill,2 Teams,0.1,2015
+424,15,3,Trevor Cahill,Braves,-0.1,    2015
+425,50,1,Trevor Cahill,Cubs,0.0,2016
+426,21,14,Trevor Cahill,2 Teams,0.3,2017
+427,11,11,Trevor Cahill,Padres,1.3,    2017
+428,15,15,Trevor Cahill,Athletics,2.1,2018
+429,3,0,Shane Carle,Rockies,0.0,2017
+430,44,0,Shane Carle,Braves,0.6,2018
+431,5,4,Ryan Carpenter,Tigers,-0.4,2018
+432,5,5,Carlos Carrasco,Indians,-0.4,2009
+433,7,7,Carlos Carrasco,Indians,0.4,2010
+434,21,21,Carlos Carrasco,Indians,1.0,2011
+435,15,7,Carlos Carrasco,Indians,0.2,2013
+436,40,14,Carlos Carrasco,Indians,3.2,2014
+437,30,30,Carlos Carrasco,Indians,4.8,2015
+438,25,25,Carlos Carrasco,Indians,2.5,2016
+439,32,32,Carlos Carrasco,Indians,5.5,2017
+440,24,23,Carlos Carrasco,Indians,3.7,2018
+441,4,0,Santiago Casilla,Athletics,-0.3,2004
+442,3,0,Santiago Casilla,Athletics,0.0,2005
+443,2,0,Santiago Casilla,Athletics,0.0,2006
+444,46,0,Santiago Casilla,Athletics,0.4,2007
+445,51,0,Santiago Casilla,Athletics,0.3,2008
+446,46,0,Santiago Casilla,Athletics,-0.2,2009
+447,52,0,Santiago Casilla,Giants,0.6,2010
+448,49,0,Santiago Casilla,Giants,0.5,2011
+449,73,0,Santiago Casilla,Giants,-0.4,2012
+450,57,0,Santiago Casilla,Giants,0.0,2013
+451,54,0,Santiago Casilla,Giants,0.5,2014
+452,67,0,Santiago Casilla,Giants,0.2,2015
+453,62,0,Santiago Casilla,Giants,0.3,2016
+454,63,0,Santiago Casilla,Athletics,0.1,2017
+455,26,0,Santiago Casilla,Athletics,0.1,2018
+456,30,1,Diego Castillo,Rays,0.4,2018
+457,23,0,Jose Castillo,Padres,0.4,2018
+458,44,39,Jose Castillo,Pirates,-1.0,2004
+459,49,53,Jose Castillo,Pirates,0.1,2005
+460,54,65,Jose Castillo,Pirates,-0.8,2006
+461,18,24,Jose Castillo,Pirates,-0.9,2007
+462,46,37,Jose Castillo,2 Teams,-0.3,2008
+463,42,35,Jose Castillo,Giants,-0.3,    2008
+464,26,8,Luis Castillo,Marlins,1.0,1996
+465,27,8,Luis Castillo,Marlins,-0.7,1997
+466,21,10,Luis Castillo,Marlins,-0.4,1998
+467,76,28,Luis Castillo,Marlins,1.8,1999
+468,101,17,Luis Castillo,Marlins,3.8,2000
+469,76,45,Luis Castillo,Marlins,1.2,2001
+470,86,39,Luis Castillo,Marlins,2.5,2002
+471,99,39,Luis Castillo,Marlins,4.9,2003
+472,91,47,Luis Castillo,Marlins,3.2,2004
+473,72,30,Luis Castillo,Marlins,3.8,2005
+474,84,49,Luis Castillo,Twins,2.2,2006
+475,91,38,Luis Castillo,2 Teams,2.8,2007
+476,54,18,Luis Castillo,Twins,1.4,    2007
+477,46,28,Luis Castillo,Mets,0.4,2008
+478,77,40,Luis Castillo,Mets,1.5,2009
+479,28,17,Luis Castillo,Mets,0.5,2010
+480,15,15,Luis Castillo,Reds,1.7,2017
+481,25,25,Luis Castillo,Reds,1.4,2018
+482,18,0,Miguel Castro,2 Teams,-0.3,2015
+483,13,0,Miguel Castro,Blue Jays,-0.1,    2015
+484,19,0,Miguel Castro,Rockies,-0.1,2016
+485,39,1,Miguel Castro,Orioles,-0.1,2017
+486,50,1,Miguel Castro,Orioles,-0.2,2018
+487,18,17,Brett Cecil,Blue Jays,0.2,2009
+488,28,28,Brett Cecil,Blue Jays,2.5,2010
+489,20,20,Brett Cecil,Blue Jays,0.3,2011
+490,21,9,Brett Cecil,Blue Jays,0.2,2012
+491,60,0,Brett Cecil,Blue Jays,0.9,2013
+492,66,0,Brett Cecil,Blue Jays,1.1,2014
+493,63,0,Brett Cecil,Blue Jays,1.4,2015
+494,54,0,Brett Cecil,Blue Jays,0.4,2016
+495,73,0,Brett Cecil,Cardinals,1.1,2017
+496,30,0,Brett Cecil,Cardinals,-0.3,2018
+497,3,0,Xavier Cedeno,Astros,-0.3,2011
+498,44,0,Xavier Cedeno,Astros,0.4,2012
+499,16,0,Xavier Cedeno,2 Teams,0.0,2013
+500,5,0,Xavier Cedeno,Astros,-0.1,    2013
+501,9,0,Xavier Cedeno,Nationals,0.0,2014
+502,66,0,Xavier Cedeno,2 Teams,0.5,2015
+503,5,0,Xavier Cedeno,Nationals,-0.2,    2015
+504,54,0,Xavier Cedeno,Rays,0.9,2016
+505,9,0,Xavier Cedeno,Rays,-0.9,2017
+506,29,0,Xavier Cedeno,White Sox,0.3,2018
+507,17,9,Luis Cessa,Yankees,0.0,2016
+508,10,5,Luis Cessa,Yankees,-0.1,2017
+509,9,4,Luis Cessa,Yankees,0.1,2018
+510,9,1,Jhoulys Chacin,Rockies,0.0,2009
+511,28,21,Jhoulys Chacin,Rockies,2.7,2010
+512,31,31,Jhoulys Chacin,Rockies,2.0,2011
+513,14,14,Jhoulys Chacin,Rockies,0.3,2012
+514,31,31,Jhoulys Chacin,Rockies,3.9,2013
+515,11,11,Jhoulys Chacin,Rockies,0.2,2014
+516,5,4,Jhoulys Chacin,Diamondbacks,0.1,2015
+517,34,22,Jhoulys Chacin,2 Teams,1.7,2016
+518,5,5,Jhoulys Chacin,Braves,0.4,    2016
+519,32,32,Jhoulys Chacin,Padres,2.3,2017
+520,27,27,Jhoulys Chacin,Brewers,2.1,2018
+521,3,3,Andrew Chafin,Diamondbacks,0.2,2014
+522,66,0,Andrew Chafin,Diamondbacks,0.7,2015
+523,32,0,Andrew Chafin,Diamondbacks,0.4,2016
+524,71,0,Andrew Chafin,Diamondbacks,0.7,2017
+525,60,0,Andrew Chafin,Diamondbacks,0.9,2018
+526,15,0,Aroldis Chapman,Reds,0.6,2010
+527,54,0,Aroldis Chapman,Reds,0.5,2011
+528,68,0,Aroldis Chapman,Reds,3.3,2012
+529,68,0,Aroldis Chapman,Reds,1.7,2013
+530,54,0,Aroldis Chapman,Reds,2.8,2014
+531,65,0,Aroldis Chapman,Reds,2.5,2015
+532,59,0,Aroldis Chapman,2 Teams,2.7,2016
+533,31,0,Aroldis Chapman,Yankees,1.4,    2016
+534,52,0,Aroldis Chapman,Yankees,1.6,2017
+535,50,0,Aroldis Chapman,Yankees,1.9,2018
+536,27,25,Tyler Chatwood,Angels,0.1,2011
+537,19,12,Tyler Chatwood,Rockies,0.0,2012
+538,20,20,Tyler Chatwood,Rockies,1.8,2013
+539,4,4,Tyler Chatwood,Rockies,0.0,2014
+540,27,27,Tyler Chatwood,Rockies,2.0,2016
+541,33,25,Tyler Chatwood,Rockies,1.1,2017
+542,23,20,Tyler Chatwood,Cubs,-0.4,2018
+543,15,0,Jesse Chavez,Pirates,0.0,2008
+544,73,0,Jesse Chavez,Pirates,-0.2,2009
+545,51,0,Jesse Chavez,2 Teams,-0.5,2010
+546,28,0,Jesse Chavez,Braves,-0.1,    2010
+547,4,0,Jesse Chavez,Royals,-0.2,2011
+548,13,2,Jesse Chavez,2 Teams,-0.3,2012
+549,9,2,Jesse Chavez,Blue Jays,-0.2,    2012
+550,35,0,Jesse Chavez,Athletics,0.7,2013
+551,32,21,Jesse Chavez,Athletics,1.3,2014
+552,30,26,Jesse Chavez,Athletics,2.3,2015
+553,62,0,Jesse Chavez,2 Teams,0.0,2016
+554,39,0,Jesse Chavez,Blue Jays,-0.1,    2016
+555,38,21,Jesse Chavez,Angels,0.3,2017
+556,43,0,Jesse Chavez,2 Teams,0.5,2018
+557,30,0,Jesse Chavez,Rangers,0.1,    2018
+558,32,32,Wei-Yin Chen,Orioles,2.3,2012
+559,23,23,Wei-Yin Chen,Orioles,2.0,2013
+560,31,31,Wei-Yin Chen,Orioles,2.4,2014
+561,31,31,Wei-Yin Chen,Orioles,2.7,2015
+562,22,22,Wei-Yin Chen,Marlins,0.9,2016
+563,9,5,Wei-Yin Chen,Marlins,0.5,2017
+564,20,20,Wei-Yin Chen,Marlins,0.2,2018
+565,11,7,Yonny Chirinos,Rays,0.8,2018
+566,54,0,Adam Cimber,2 Teams,0.8,2018
+567,42,0,Adam Cimber,Padres,1.1,    2018
+568,3,0,Tony Cingrani,Reds,0.0,2012
+569,23,18,Tony Cingrani,Reds,1.5,2013
+570,13,11,Tony Cingrani,Reds,-0.2,2014
+571,35,1,Tony Cingrani,Reds,-0.1,2015
+572,65,0,Tony Cingrani,Reds,0.0,2016
+573,47,0,Tony Cingrani,2 Teams,0.0,2017
+574,25,0,Tony Cingrani,Reds,-0.5,    2017
+575,28,0,Tony Cingrani,Dodgers,0.6,2018
+576,15,0,Alex Claudio,Rangers,0.2,2014
+577,18,0,Alex Claudio,Rangers,-0.3,2015
+578,39,0,Alex Claudio,Rangers,0.8,2016
+579,70,1,Alex Claudio,Rangers,1.6,2017
+580,51,0,Alex Claudio,Rangers,0.7,2018
+581,17,10,Mike Clevinger,Indians,0.3,2016
+582,27,21,Mike Clevinger,Indians,2.2,2017
+583,25,25,Mike Clevinger,Indians,3.3,2018
+584,6,6,Tyler Clippard,Yankees,-0.2,2007
+585,2,2,Tyler Clippard,Nationals,0.0,2008
+586,41,0,Tyler Clippard,Nationals,0.1,2009
+587,78,0,Tyler Clippard,Nationals,1.4,2010
+588,72,0,Tyler Clippard,Nationals,1.7,2011
+589,74,0,Tyler Clippard,Nationals,1.2,2012
+590,72,0,Tyler Clippard,Nationals,0.4,2013
+591,75,0,Tyler Clippard,Nationals,1.5,2014
+592,69,0,Tyler Clippard,2 Teams,0.2,2015
+593,37,0,Tyler Clippard,Athletics,0.3,    2015
+594,69,0,Tyler Clippard,2 Teams,0.6,2016
+595,40,0,Tyler Clippard,Diamondbacks,0.2,    2016
+596,67,0,Tyler Clippard,3 Teams,0.2,2017
+597,40,0,Tyler Clippard,Yankees,0.0,    2017
+598,61,1,Tyler Clippard,Blue Jays,0.4,2018
+599,6,6,Tyler Cloyd,Phillies,0.0,2012
+600,13,11,Tyler Cloyd,Phillies,0.3,2013
+601,1,0,Tyler Cloyd,Mariners,0.0,2017
+602,7,0,Tyler Cloyd,Marlins,-0.2,2018
+603,9,9,Alex Cobb,Rays,0.8,2011
+604,23,23,Alex Cobb,Rays,2.2,2012
+605,22,22,Alex Cobb,Rays,2.5,2013
+606,27,27,Alex Cobb,Rays,2.8,2014
+607,5,5,Alex Cobb,Rays,-0.1,2016
+608,29,29,Alex Cobb,Rays,2.4,2017
+609,23,23,Alex Cobb,Orioles,1.5,2018
+610,19,19,Gerrit Cole,Pirates,2.5,2013
+611,22,22,Gerrit Cole,Pirates,2.3,2014
+612,32,32,Gerrit Cole,Pirates,5.5,2015
+613,21,21,Gerrit Cole,Pirates,2.5,2016
+614,33,33,Gerrit Cole,Pirates,3.1,2017
+615,26,26,Gerrit Cole,Astros,5.4,2018
+616,1,0,Taylor Cole,Blue Jays,0.0,2017
+617,10,2,Taylor Cole,Angels,0.0,2018
+618,48,0,Louis Coleman,Royals,0.2,2011
+619,42,0,Louis Coleman,Royals,0.0,2012
+620,27,0,Louis Coleman,Royals,0.7,2013
+621,31,0,Louis Coleman,Royals,-0.6,2014
+622,4,0,Louis Coleman,Royals,0.0,2015
+623,61,0,Louis Coleman,Dodgers,0.0,2016
+624,37,0,Louis Coleman,Tigers,0.2,2018
+625,68,0,Tim Collins,Royals,-0.2,2011
+626,72,0,Tim Collins,Royals,0.7,2012
+627,66,0,Tim Collins,Royals,0.6,2013
+628,22,0,Tim Collins,Royals,-0.2,2014
+629,21,0,Tim Collins,Nationals,-0.1,2018
+630,3,3,Alex Colome,Rays,0.0,2013
+631,5,3,Alex Colome,Rays,0.3,2014
+632,43,13,Alex Colome,Rays,1.8,2015
+633,57,0,Alex Colome,Rays,1.1,2016
+634,65,0,Alex Colome,Rays,1.2,2017
+635,57,0,Alex Colome,2 Teams,0.7,2018
+636,23,0,Alex Colome,Rays,0.6,    2018
+637,19,17,Bartolo Colon,Indians,0.7,1997
+638,31,31,Bartolo Colon,Indians,4.4,1998
+639,32,32,Bartolo Colon,Indians,3.8,1999
+640,30,30,Bartolo Colon,Indians,4.3,2000
+641,34,34,Bartolo Colon,Indians,3.9,2001
+642,33,33,Bartolo Colon,2 Teams,4.4,2002
+643,16,16,Bartolo Colon,Indians,2.2,    2002
+644,34,34,Bartolo Colon,White Sox,4.7,2003
+645,34,34,Bartolo Colon,Angels,1.4,2004
+646,33,33,Bartolo Colon,Angels,4.1,2005
+647,10,10,Bartolo Colon,Angels,0.3,2006
+648,19,18,Bartolo Colon,Angels,1.0,2007
+649,7,7,Bartolo Colon,Red Sox,0.5,2008
+650,12,12,Bartolo Colon,White Sox,0.2,2009
+651,29,26,Bartolo Colon,Yankees,2.7,2011
+652,24,24,Bartolo Colon,Athletics,2.4,2012
+653,30,30,Bartolo Colon,Athletics,3.8,2013
+654,31,31,Bartolo Colon,Mets,2.9,2014
+655,33,31,Bartolo Colon,Mets,2.5,2015
+656,34,33,Bartolo Colon,Mets,2.8,2016
+657,28,28,Bartolo Colon,2 Teams,0.6,2017
+658,13,13,Bartolo Colon,Braves,0.3,    2017
+659,25,23,Bartolo Colon,Rangers,0.2,2018
+660,15,11,Adam Conley,Marlins,1.0,2015
+661,25,25,Adam Conley,Marlins,1.5,2016
+662,22,20,Adam Conley,Marlins,-0.1,2017
+663,38,0,Adam Conley,Marlins,0.0,2018
+664,12,0,Ryan Cook,Diamondbacks,0.0,2011
+665,71,0,Ryan Cook,Athletics,1.5,2012
+666,71,0,Ryan Cook,Athletics,1.5,2013
+667,54,0,Ryan Cook,Athletics,0.3,2014
+668,9,0,Ryan Cook,2 Teams,-0.4,2015
+669,4,0,Ryan Cook,Athletics,0.0,    2015
+670,11,0,Ryan Cook,Mariners,-0.3,2018
+671,5,3,Scott Copeland,Blue Jays,0.3,2015
+672,1,0,Scott Copeland,Mets,0.0,2018
+673,22,17,Patrick Corbin,Diamondbacks,1.1,2012
+674,32,32,Patrick Corbin,Diamondbacks,3.5,2013
+675,16,16,Patrick Corbin,Diamondbacks,1.5,2015
+676,36,24,Patrick Corbin,Diamondbacks,0.5,2016
+677,33,32,Patrick Corbin,Diamondbacks,3.0,2017
+678,26,26,Patrick Corbin,Diamondbacks,5.3,2018
+679,5,3,Daniel Corcino,Reds,0.2,2014
+680,2,0,Daniel Corcino,Dodgers,0.0,2018
+681,18,12,Dylan Covey,White Sox,-1.1,2017
+682,18,17,Dylan Covey,White Sox,0.6,2018
+683,30,0,Kyle Crick,Giants,0.1,2017
+684,51,0,Kyle Crick,Pirates,1.0,2018
+685,43,0,Kyle Crockett,Indians,0.3,2014
+686,31,0,Kyle Crockett,Indians,0.1,2015
+687,29,0,Kyle Crockett,Indians,0.3,2016
+688,4,0,Kyle Crockett,Indians,0.0,2017
+689,15,0,Kyle Crockett,Reds,0.2,2018
+690,52,0,Rhiner Cruz,Astros,-0.4,2012
+691,20,0,Rhiner Cruz,Astros,-0.1,2013
+692,2,0,Rhiner Cruz,Blue Jays,0.0,2018
+693,31,31,Johnny Cueto,Reds,1.5,2008
+694,30,30,Johnny Cueto,Reds,1.6,2009
+695,31,31,Johnny Cueto,Reds,2.6,2010
+696,24,24,Johnny Cueto,Reds,2.9,2011
+697,33,33,Johnny Cueto,Reds,4.7,2012
+698,11,11,Johnny Cueto,Reds,0.8,2013
+699,34,34,Johnny Cueto,Reds,4.6,2014
+700,32,32,Johnny Cueto,2 Teams,4.0,2015
+701,19,19,Johnny Cueto,Reds,3.0,    2015
+702,32,32,Johnny Cueto,Giants,5.5,2016
+703,25,25,Johnny Cueto,Giants,1.2,2017
+704,9,9,Johnny Cueto,Giants,0.2,2018
+705,3,0,William Cuevas,Red Sox,0.0,2016
+706,1,0,William Cuevas,Tigers,0.0,2017
+707,2,0,William Cuevas,Red Sox,-0.2,2018
+708,21,0,Zac Curtis,Diamondbacks,-0.4,2016
+709,6,0,Zac Curtis,2 Teams,0.0,2017
+710,3,0,Zac Curtis,Mariners,-0.1,    2017
+711,7,0,Zac Curtis,Phillies,0.0,2018
+712,9,0,John Curtiss,Twins,0.0,2017
+713,2,0,John Curtiss,Twins,0.0,2018
+714,29,29,Yu Darvish,Rangers,4.6,2012
+715,32,32,Yu Darvish,Rangers,4.5,2013
+716,22,22,Yu Darvish,Rangers,3.7,2014
+717,17,17,Yu Darvish,Rangers,2.7,2016
+718,31,31,Yu Darvish,2 Teams,3.5,2017
+719,22,22,Yu Darvish,Rangers,2.4,    2017
+720,8,8,Yu Darvish,Cubs,0.2,2018
+721,8,12,Matt Davidson,Diamondbacks,0.3,2013
+722,1,1,Matt Davidson,White Sox,0.0,2016
+723,43,68,Matt Davidson,White Sox,-0.9,2017
+724,41,47,Matt Davidson,White Sox,1.0,2018
+725,6,6,Zach Davies,Brewers,0.5,2015
+726,28,28,Zach Davies,Brewers,2.7,2016
+727,33,33,Zach Davies,Brewers,2.8,2017
+728,8,8,Zach Davies,Brewers,0.0,2018
+729,22,0,Austin Davis,Phillies,0.5,2018
+730,51,55,Chris Davis,Rangers,0.8,2008
+731,48,59,Chris Davis,Rangers,-0.6,2009
+732,7,4,Chris Davis,Rangers,-0.7,2010
+733,25,19,Chris Davis,2 Teams,-0.5,2011
+734,9,6,Chris Davis,Rangers,-0.2,    2011
+735,75,85,Chris Davis,Orioles,1.8,2012
+736,103,138,Chris Davis,Orioles,7.0,2013
+737,65,72,Chris Davis,Orioles,0.9,2014
+738,100,117,Chris Davis,Orioles,5.4,2015
+739,99,84,Chris Davis,Orioles,2.8,2016
+740,65,61,Chris Davis,Orioles,0.1,2017
+741,34,41,Chris Davis,Orioles,-2.5,2018
+742,6,6,Wade Davis,Rays,1.1,2009
+743,29,29,Wade Davis,Rays,1.0,2010
+744,29,29,Wade Davis,Rays,1.1,2011
+745,54,0,Wade Davis,Rays,1.1,2012
+746,31,24,Wade Davis,Royals,1.4,2013
+747,71,0,Wade Davis,Royals,3.1,2014
+748,69,0,Wade Davis,Royals,2.0,2015
+749,45,0,Wade Davis,Royals,1.3,2016
+750,59,0,Wade Davis,Cubs,1.1,2017
+751,56,0,Wade Davis,Rockies,0.2,2018
+752,5,5,Jorge De La Rosa,Brewers,0.1,2004
+753,38,0,Jorge De La Rosa,Brewers,0.3,2005
+754,28,13,Jorge De La Rosa,2 Teams,-0.3,2006
+755,18,3,Jorge De La Rosa,Brewers,0.0,    2006
+756,26,23,Jorge De La Rosa,Royals,0.4,2007
+757,28,23,Jorge De La Rosa,Rockies,2.2,2008
+758,33,32,Jorge De La Rosa,Rockies,3.3,2009
+759,20,20,Jorge De La Rosa,Rockies,1.3,2010
+760,10,10,Jorge De La Rosa,Rockies,1.4,2011
+761,3,3,Jorge De La Rosa,Rockies,-0.3,2012
+762,30,30,Jorge De La Rosa,Rockies,2.6,2013
+763,32,32,Jorge De La Rosa,Rockies,1.6,2014
+764,26,26,Jorge De La Rosa,Rockies,1.7,2015
+765,27,24,Jorge De La Rosa,Rockies,0.4,2016
+766,65,0,Jorge De La Rosa,Diamondbacks,0.0,2017
+767,46,0,Jorge De La Rosa,2 Teams,-0.3,2018
+768,42,0,Jorge De La Rosa,Diamondbacks,-0.5,    2018
+769,3,2,Enyel De Los Santos,Phillies,0.0,2018
+770,22,22,Jacob deGrom,Mets,3.5,2014
+771,30,30,Jacob deGrom,Mets,5.2,2015
+772,24,24,Jacob deGrom,Mets,3.2,2016
+773,31,31,Jacob deGrom,Mets,4.4,2017
+774,25,25,Jacob deGrom,Mets,6.6,2018
+775,7,7,Randall Delgado,Braves,-0.1,2011
+776,18,17,Randall Delgado,Braves,0.9,2012
+777,20,19,Randall Delgado,Diamondbacks,0.0,2013
+778,47,4,Randall Delgado,Diamondbacks,0.7,2014
+779,64,1,Randall Delgado,Diamondbacks,0.5,2015
+780,79,0,Randall Delgado,Diamondbacks,0.2,2016
+781,26,5,Randall Delgado,Diamondbacks,1.2,2017
+782,6,0,Randall Delgado,Diamondbacks,-0.2,2018
+783,13,5,Anthony DeSclafani,Marlins,0.1,2014
+784,31,31,Anthony DeSclafani,Reds,3.1,2015
+785,20,20,Anthony DeSclafani,Reds,1.9,2016
+786,13,13,Anthony DeSclafani,Reds,0.3,2018
+787,16,16,Odrisamer Despaigne,Padres,1.0,2014
+788,34,18,Odrisamer Despaigne,Padres,-0.1,2015
+789,19,0,Odrisamer Despaigne,2 Teams,-0.1,2016
+790,16,0,Odrisamer Despaigne,Orioles,-0.1,    2016
+791,18,8,Odrisamer Despaigne,Marlins,0.7,2017
+792,12,2,Odrisamer Despaigne,2 Teams,0.3,2018
+793,11,1,Odrisamer Despaigne,Marlins,0.2,    2018
+794,48,5,Chris Devenski,Astros,2.9,2016
+795,62,0,Chris Devenski,Astros,1.4,2017
+796,42,0,Chris Devenski,Astros,0.2,2018
+797,49,0,Edwin Diaz,Mariners,1.9,2016
+798,66,0,Edwin Diaz,Mariners,1.0,2017
+799,62,0,Edwin Diaz,Mariners,3.2,2018
+800,0,0,Edwin Diaz,Diamondbacks,-0.4,1998
+801,2,1,Edwin Diaz,Diamondbacks,0.2,1999
+802,31,3,Miguel Diaz,Padres,-0.7,2017
+803,2,0,Miguel Diaz,Padres,0.2,2018
+804,32,0,Jake Diekman,Phillies,0.2,2012
+805,45,0,Jake Diekman,Phillies,0.7,2013
+806,73,0,Jake Diekman,Phillies,1.3,2014
+807,67,0,Jake Diekman,2 Teams,0.4,2015
+808,41,0,Jake Diekman,Phillies,0.2,    2015
+809,66,0,Jake Diekman,Rangers,0.7,2016
+810,11,0,Jake Diekman,Rangers,0.0,2017
+811,53,0,Jake Diekman,2 Teams,0.6,2018
+812,47,0,Jake Diekman,Rangers,0.6,    2018
+813,39,0,Seranthony Dominguez,Phillies,1.3,2018
+814,44,0,Sean Doolittle,Athletics,1.6,2012
+815,70,0,Sean Doolittle,Athletics,1.6,2013
+816,61,0,Sean Doolittle,Athletics,2.4,2014
+817,12,0,Sean Doolittle,Athletics,0.3,2015
+818,44,0,Sean Doolittle,Athletics,0.6,2016
+819,53,0,Sean Doolittle,2 Teams,1.7,2017
+820,23,0,Sean Doolittle,Athletics,0.7,    2017
+821,35,0,Sean Doolittle,Nationals,1.6,2018
+822,13,0,Oliver Drake,Orioles,0.1,2015
+823,14,0,Oliver Drake,Orioles,0.2,2016
+824,64,0,Oliver Drake,2 Teams,0.6,2017
+825,3,0,Oliver Drake,Orioles,0.0,    2017
+826,31,0,Oliver Drake,5 Teams,0.5,2018
+827,11,0,Oliver Drake,Brewers,0.2,    2018
+828,10,10,Tyler Duffey,Twins,1.3,2015
+829,26,26,Tyler Duffey,Twins,1.1,2016
+830,56,0,Tyler Duffey,Twins,0.7,2017
+831,11,0,Tyler Duffey,Twins,-0.3,2018
+832,20,20,Danny Duffy,Royals,0.5,2011
+833,6,6,Danny Duffy,Royals,0.5,2012
+834,5,5,Danny Duffy,Royals,0.5,2013
+835,31,25,Danny Duffy,Royals,1.9,2014
+836,30,24,Danny Duffy,Royals,1.1,2015
+837,42,26,Danny Duffy,Royals,2.7,2016
+838,24,24,Danny Duffy,Royals,3.4,2017
+839,25,25,Danny Duffy,Royals,0.8,2018
+840,14,14,Zach Duke,Pirates,2.2,2005
+841,34,34,Zach Duke,Pirates,3.2,2006
+842,20,19,Zach Duke,Pirates,0.7,2007
+843,31,31,Zach Duke,Pirates,2.0,2008
+844,32,32,Zach Duke,Pirates,2.4,2009
+845,29,29,Zach Duke,Pirates,0.1,2010
+846,21,9,Zach Duke,Diamondbacks,0.6,2011
+847,8,0,Zach Duke,Nationals,0.2,2012
+848,26,1,Zach Duke,2 Teams,0.0,2013
+849,12,1,Zach Duke,Nationals,-0.1,    2013
+850,74,0,Zach Duke,Brewers,1.4,2014
+851,71,0,Zach Duke,White Sox,-0.4,2015
+852,81,0,Zach Duke,2 Teams,1.3,2016
+853,53,0,Zach Duke,White Sox,0.8,    2016
+854,27,0,Zach Duke,Cardinals,-0.2,2017
+855,56,0,Zach Duke,2 Teams,0.7,2018
+856,45,0,Zach Duke,Twins,0.8,    2018
+857,13,0,Ryan Dull,Athletics,-0.3,2015
+858,70,0,Ryan Dull,Athletics,1.1,2016
+859,49,0,Ryan Dull,Athletics,0.0,2017
+860,21,0,Ryan Dull,Athletics,0.1,2018
+861,4,0,Mike Dunn,Yankees,-0.1,2009
+862,25,0,Mike Dunn,Braves,0.2,2010
+863,72,0,Mike Dunn,Marlins,-0.2,2011
+864,60,0,Mike Dunn,Marlins,0.1,2012
+865,75,0,Mike Dunn,Marlins,0.8,2013
+866,75,0,Mike Dunn,Marlins,0.9,2014
+867,72,0,Mike Dunn,Marlins,0.1,2015
+868,51,0,Mike Dunn,Marlins,0.3,2016
+869,68,0,Mike Dunn,Rockies,0.2,2017
+870,25,0,Mike Dunn,Rockies,-0.2,2018
+871,2,0,Sam Dyson,Blue Jays,0.0,2012
+872,5,1,Sam Dyson,Marlins,-0.3,2013
+873,31,0,Sam Dyson,Marlins,0.2,2014
+874,75,0,Sam Dyson,2 Teams,1.2,2015
+875,44,0,Sam Dyson,Marlins,0.2,    2015
+876,73,0,Sam Dyson,Rangers,1.0,2016
+877,55,0,Sam Dyson,2 Teams,-0.9,2017
+878,17,0,Sam Dyson,Rangers,-1.0,    2017
+879,61,0,Sam Dyson,Giants,0.4,2018
+880,11,11,Zach Eflin,Phillies,0.1,2016
+881,11,11,Zach Eflin,Phillies,-0.2,2017
+882,17,17,Zach Eflin,Phillies,1.8,2018
+883,29,29,Roenis Elias,Mariners,1.4,2014
+884,22,20,Roenis Elias,Mariners,0.7,2015
+885,3,1,Roenis Elias,Red Sox,-0.2,2016
+886,1,0,Roenis Elias,Red Sox,0.0,2017
+887,14,2,Roenis Elias,Mariners,0.5,2018
+888,10,6,Nathan Eovaldi,Dodgers,0.2,2011
+889,22,22,Nathan Eovaldi,2 Teams,1.1,2012
+890,10,10,Nathan Eovaldi,Dodgers,0.6,    2012
+891,18,18,Nathan Eovaldi,Marlins,1.4,2013
+892,33,33,Nathan Eovaldi,Marlins,2.9,2014
+893,27,27,Nathan Eovaldi,Yankees,3.2,2015
+894,24,21,Nathan Eovaldi,Yankees,0.7,2016
+895,15,15,Nathan Eovaldi,2 Teams,1.3,2018
+896,10,10,Nathan Eovaldi,Rays,0.7,    2018
+897,11,9,Robbie Erlin,Padres,0.7,2013
+898,13,11,Robbie Erlin,Padres,0.7,2014
+899,3,3,Robbie Erlin,Padres,0.3,2015
+900,3,2,Robbie Erlin,Padres,0.1,2016
+901,33,6,Robbie Erlin,Padres,1.2,2018
+902,11,0,Marco Estrada,Nationals,-0.3,2008
+903,4,1,Marco Estrada,Nationals,0.1,2009
+904,7,1,Marco Estrada,Brewers,-0.2,2010
+905,43,7,Marco Estrada,Brewers,0.9,2011
+906,29,23,Marco Estrada,Brewers,3.3,2012
+907,21,21,Marco Estrada,Brewers,1.8,2013
+908,39,18,Marco Estrada,Brewers,-0.1,2014
+909,34,28,Marco Estrada,Blue Jays,1.8,2015
+910,29,29,Marco Estrada,Blue Jays,3.0,2016
+911,33,33,Marco Estrada,Blue Jays,2.6,2017
+912,22,22,Marco Estrada,Blue Jays,1.0,2018
+913,8,1,Jeurys Familia,Mets,0.0,2012
+914,9,0,Jeurys Familia,Mets,-0.3,2013
+915,76,0,Jeurys Familia,Mets,0.8,2014
+916,76,0,Jeurys Familia,Mets,1.6,2015
+917,78,0,Jeurys Familia,Mets,2.2,2016
+918,26,0,Jeurys Familia,Mets,0.3,2017
+919,53,0,Jeurys Familia,2 Teams,1.6,2018
+920,40,0,Jeurys Familia,Mets,1.2,    2018
+921,4,2,Buck Farmer,Tigers,-0.1,2014
+922,14,5,Buck Farmer,Tigers,-0.6,2015
+923,14,1,Buck Farmer,Tigers,-0.1,2016
+924,11,11,Buck Farmer,Tigers,0.3,2017
+925,53,1,Buck Farmer,Tigers,0.0,2018
+926,3,0,Danny Farquhar,Blue Jays,0.0,2011
+927,46,0,Danny Farquhar,Mariners,1.8,2013
+928,66,0,Danny Farquhar,Mariners,0.9,2014
+929,43,0,Danny Farquhar,Mariners,-0.2,2015
+930,35,0,Danny Farquhar,Rays,-0.4,2016
+931,52,0,Danny Farquhar,2 Teams,0.4,2017
+932,37,0,Danny Farquhar,Rays,0.2,    2017
+933,8,0,Danny Farquhar,White Sox,-0.1,2018
+934,10,1,Luke Farrell,2 Teams,-0.1,2017
+935,1,1,Luke Farrell,Royals,-0.1,    2017
+936,20,2,Luke Farrell,Cubs,-0.2,2018
+937,3,3,Erick Fedde,Nationals,-0.3,2017
+938,6,6,Erick Fedde,Nationals,0.0,2018
+939,5,0,Michael Feliz,Astros,-0.1,2015
+940,47,0,Michael Feliz,Astros,0.8,2016
+941,46,0,Michael Feliz,Astros,0.4,2017
+942,40,0,Michael Feliz,Pirates,0.0,2018
+943,18,3,Caleb Ferguson,Dodgers,0.3,2018
+944,2,0,Matt Festa,Mariners,0.0,2018
+945,22,15,Johnny Field,2 Teams,-0.2,2018
+946,20,14,Johnny Field,Rays,0.1,    2018
+947,4,2,Josh Fields,White Sox,0.2,2006
+948,54,67,Josh Fields,White Sox,0.6,2007
+949,3,2,Josh Fields,White Sox,-0.4,2008
+950,29,30,Josh Fields,White Sox,-0.7,2009
+951,5,6,Josh Fields,Royals,0.1,2010
+952,41,0,Josh Fields,Astros,-0.3,2013
+953,54,0,Josh Fields,Astros,1.5,2014
+954,54,0,Josh Fields,Astros,1.2,2015
+955,37,0,Josh Fields,2 Teams,0.5,2016
+956,15,0,Josh Fields,Astros,0.2,    2016
+957,57,0,Josh Fields,Dodgers,0.3,2017
+958,37,0,Josh Fields,Dodgers,0.2,2018
+959,2,0,Mike Fiers,Brewers,0.0,2011
+960,23,22,Mike Fiers,Brewers,3.1,2012
+961,11,3,Mike Fiers,Brewers,-0.5,2013
+962,14,10,Mike Fiers,Brewers,1.7,2014
+963,31,30,Mike Fiers,2 Teams,2.4,2015
+964,21,21,Mike Fiers,Brewers,1.9,    2015
+965,31,30,Mike Fiers,Astros,1.8,2016
+966,29,28,Mike Fiers,Astros,0.1,2017
+967,24,24,Mike Fiers,2 Teams,1.8,2018
+968,21,21,Mike Fiers,Tigers,1.2,    2018
+969,11,7,Heath Fillmyer,Royals,-0.3,2018
+970,7,0,Brandon Finnegan,Royals,0.3,2014
+971,20,4,Brandon Finnegan,2 Teams,-0.1,2015
+972,14,0,Brandon Finnegan,Royals,-0.1,    2015
+973,31,31,Brandon Finnegan,Reds,0.3,2016
+974,4,4,Brandon Finnegan,Reds,0.1,2017
+975,5,5,Brandon Finnegan,Reds,-0.4,2018
+976,11,10,Doug Fister,Mariners,0.2,2009
+977,28,28,Doug Fister,Mariners,2.9,2010
+978,32,31,Doug Fister,2 Teams,5.1,2011
+979,21,21,Doug Fister,Mariners,2.9,    2011
+980,26,26,Doug Fister,Tigers,3.4,2012
+981,33,32,Doug Fister,Tigers,4.2,2013
+982,25,25,Doug Fister,Nationals,1.4,2014
+983,25,15,Doug Fister,Nationals,0.2,2015
+984,32,32,Doug Fister,Astros,1.1,2016
+985,18,15,Doug Fister,Red Sox,1.4,2017
+986,12,12,Doug Fister,Rangers,0.2,2018
+987,6,5,Jack Flaherty,Cardinals,0.0,2017
+988,20,20,Jack Flaherty,Cardinals,1.7,2018
+989,15,19,Ryan Flaherty,Orioles,-0.5,2012
+990,28,27,Ryan Flaherty,Orioles,1.2,2013
+991,33,32,Ryan Flaherty,Orioles,0.7,2014
+992,34,31,Ryan Flaherty,Orioles,0.2,2015
+993,16,15,Ryan Flaherty,Orioles,0.0,2016
+994,5,4,Ryan Flaherty,Orioles,-0.1,2017
+995,16,13,Ryan Flaherty,Braves,-0.3,2018
+996,14,9,Chris Flexen,Mets,-0.7,2017
+997,4,1,Chris Flexen,Mets,-0.3,2018
+998,12,0,Dylan Floro,Rays,0.4,2016
+999,3,0,Dylan Floro,Cubs,-0.1,2017
+1000,43,0,Dylan Floro,2 Teams,0.7,2018
+1001,25,0,Dylan Floro,Reds,0.4,    2018
+1002,4,4,Brian Flynn,Marlins,-0.3,2013
+1003,2,1,Brian Flynn,Marlins,0.1,2014
+1004,36,1,Brian Flynn,Royals,0.2,2016
+1005,1,0,Brian Flynn,Royals,0.0,2017
+1006,37,0,Brian Flynn,Royals,-0.1,2018
+1007,3,0,Wilmer Font,Rangers,-0.1,2012
+1008,2,0,Wilmer Font,Rangers,0.0,2013
+1009,3,0,Wilmer Font,Dodgers,-0.2,2017
+1010,19,5,Wilmer Font,3 Teams,-0.3,2018
+1011,6,0,Wilmer Font,Dodgers,-0.5,    2018
+1012,38,45,Nick Franklin,Mariners,1.4,2013
+1013,7,6,Nick Franklin,2 Teams,0.0,2014
+1014,3,2,Nick Franklin,Mariners,-0.1,    2014
+1015,11,7,Nick Franklin,Rays,-0.8,2015
+1016,18,26,Nick Franklin,Rays,0.1,2016
+1017,9,12,Nick Franklin,2 Teams,-0.2,2017
+1018,7,10,Nick Franklin,Brewers,-0.2,    2017
+1019,0,0,Nick Franklin,Brewers,0.0,2018
+1020,33,28,Kyle Freeland,Rockies,2.0,2017
+1021,25,25,Kyle Freeland,Rockies,2.7,2018
+1022,24,0,Sam Freeman,Cardinals,0.0,2012
+1023,13,0,Sam Freeman,Cardinals,0.1,2013
+1024,44,0,Sam Freeman,Cardinals,0.0,2014
+1025,54,0,Sam Freeman,Rangers,-0.1,2015
+1026,7,0,Sam Freeman,Brewers,-0.2,2016
+1027,58,0,Sam Freeman,Braves,0.7,2017
+1028,50,0,Sam Freeman,Braves,0.0,2018
+1029,9,4,Max Fried,Braves,0.1,2017
+1030,10,5,Max Fried,Braves,0.3,2018
+1031,11,0,Jace Fry,White Sox,-0.1,2017
+1032,45,0,Jace Fry,White Sox,1.2,2018
+1033,20,0,Paul Fry,Orioles,0.3,2018
+1034,8,0,Carson Fulmer,White Sox,-0.2,2016
+1035,7,5,Carson Fulmer,White Sox,0.0,2017
+1036,9,8,Carson Fulmer,White Sox,-0.6,2018
+1037,26,26,Michael Fulmer,Tigers,3.0,2016
+1038,25,25,Michael Fulmer,Tigers,3.5,2017
+1039,19,19,Michael Fulmer,Tigers,1.4,2018
+1040,1,1,Drew Gagnon,Mets,-0.2,2018
+1041,20,17,Yovani Gallardo,Brewers,2.6,2007
+1042,4,4,Yovani Gallardo,Brewers,0.4,2008
+1043,30,30,Yovani Gallardo,Brewers,2.8,2009
+1044,31,31,Yovani Gallardo,Brewers,4.6,2010
+1045,33,33,Yovani Gallardo,Brewers,3.6,2011
+1046,33,33,Yovani Gallardo,Brewers,2.6,2012
+1047,31,31,Yovani Gallardo,Brewers,2.2,2013
+1048,32,32,Yovani Gallardo,Brewers,2.0,2014
+1049,33,33,Yovani Gallardo,Rangers,2.4,2015
+1050,23,23,Yovani Gallardo,Orioles,0.6,2016
+1051,28,22,Yovani Gallardo,Mariners,0.0,2017
+1052,14,11,Yovani Gallardo,2 Teams,0.1,2018
+1053,3,0,Yovani Gallardo,Reds,-0.1,    2018
+1054,16,0,Giovanny Gallegos,Yankees,0.2,2017
+1055,4,0,Giovanny Gallegos,Yankees,0.0,2018
+1056,20,7,John Gant,Braves,0.2,2016
+1057,7,2,John Gant,Cardinals,-0.2,2017
+1058,19,12,John Gant,Cardinals,1.1,2018
+1059,2,1,Greg Garcia,Cardinals,0.0,2014
+1060,7,4,Greg Garcia,Cardinals,0.3,2015
+1061,33,17,Greg Garcia,Cardinals,1.6,2016
+1062,27,20,Greg Garcia,Cardinals,0.8,2017
+1063,14,12,Greg Garcia,Cardinals,0.4,2018
+1064,10,1,Jaime Garcia,Cardinals,-0.4,2008
+1065,28,28,Jaime Garcia,Cardinals,2.7,2010
+1066,32,32,Jaime Garcia,Cardinals,3.4,2011
+1067,20,20,Jaime Garcia,Cardinals,2.8,2012
+1068,9,9,Jaime Garcia,Cardinals,0.6,2013
+1069,7,7,Jaime Garcia,Cardinals,0.4,2014
+1070,20,20,Jaime Garcia,Cardinals,2.8,2015
+1071,32,30,Jaime Garcia,Cardinals,1.2,2016
+1072,27,27,Jaime Garcia,3 Teams,2.1,2017
+1073,18,18,Jaime Garcia,Braves,1.5,    2017
+1074,25,13,Jaime Garcia,Blue Jays,0.0,2018
+1075,68,0,Jarlin Garcia,Marlins,0.3,2017
+1076,19,6,Jarlin Garcia,Marlins,-0.9,2018
+1077,10,2,Leury Garcia,2 Teams,-0.5,2013
+1078,8,1,Leury Garcia,Rangers,-0.5,    2013
+1079,13,6,Leury Garcia,White Sox,-1.3,2014
+1080,0,1,Leury Garcia,White Sox,-0.1,2015
+1081,6,5,Leury Garcia,White Sox,0.0,2016
+1082,41,33,Leury Garcia,White Sox,1.1,2017
+1083,23,31,Leury Garcia,White Sox,0.2,2018
+1084,0,0,Luis Garcia,Orioles,0.0,2002
+1085,0,0,Luis Garcia,Tigers,-0.2,1999
+1086,24,0,Luis Garcia,Phillies,-0.4,2013
+1087,13,0,Luis Garcia,Phillies,-0.3,2014
+1088,72,0,Luis Garcia,Phillies,0.4,2015
+1089,17,0,Luis Garcia,Phillies,-0.1,2016
+1090,66,0,Luis Garcia,Phillies,1.2,2017
+1091,44,0,Luis Garcia,Phillies,0.6,2018
+1092,8,0,Yimi Garcia,Dodgers,0.0,2014
+1093,59,1,Yimi Garcia,Dodgers,0.8,2015
+1094,9,0,Yimi Garcia,Dodgers,0.2,2016
+1095,20,0,Yimi Garcia,Dodgers,-0.4,2018
+1096,12,0,Nick Gardewine,Rangers,-0.1,2017
+1097,3,0,Nick Gardewine,Rangers,0.1,2018
+1098,16,14,Amir Garrett,Reds,-1.2,2017
+1099,56,0,Amir Garrett,Reds,0.5,2018
+1100,20,5,Kevin Gausman,Orioles,0.4,2013
+1101,20,20,Kevin Gausman,Orioles,2.1,2014
+1102,25,17,Kevin Gausman,Orioles,1.5,2015
+1103,30,30,Kevin Gausman,Orioles,3.0,2016
+1104,34,34,Kevin Gausman,Orioles,2.5,2017
+1105,25,25,Kevin Gausman,2 Teams,1.9,2018
+1106,21,21,Kevin Gausman,Orioles,1.3,    2018
+1107,16,13,Sam Gaviglio,2 Teams,-0.2,2017
+1108,12,11,Sam Gaviglio,Mariners,-0.4,    2017
+1109,20,18,Sam Gaviglio,Blue Jays,0.8,2018
+1110,29,21,Scooter Gennett,Brewers,2.0,2013
+1111,55,54,Scooter Gennett,Brewers,1.7,2014
+1112,42,29,Scooter Gennett,Brewers,0.2,2015
+1113,58,56,Scooter Gennett,Brewers,0.2,2016
+1114,80,97,Scooter Gennett,Reds,2.3,2017
+1115,74,75,Scooter Gennett,Reds,3.8,2018
+1116,4,1,Craig Gentry,Rangers,-0.2,2009
+1117,4,3,Craig Gentry,Rangers,-0.2,2010
+1118,26,13,Craig Gentry,Rangers,1.6,2011
+1119,31,26,Craig Gentry,Rangers,2.5,2012
+1120,39,22,Craig Gentry,Rangers,3.0,2013
+1121,38,12,Craig Gentry,Athletics,1.3,2014
+1122,6,3,Craig Gentry,Athletics,-0.7,2015
+1123,2,2,Craig Gentry,Angels,-0.3,2016
+1124,17,11,Craig Gentry,Orioles,0.1,2017
+1125,10,8,Craig Gentry,Orioles,0.5,2018
+1126,7,0,Domingo German,Yankees,0.1,2017
+1127,19,13,Domingo German,Yankees,0.7,2018
+1128,10,10,Kyle Gibson,Twins,-0.1,2013
+1129,31,31,Kyle Gibson,Twins,2.3,2014
+1130,32,32,Kyle Gibson,Twins,2.6,2015
+1131,25,25,Kyle Gibson,Twins,1.1,2016
+1132,29,29,Kyle Gibson,Twins,1.1,2017
+1133,25,25,Kyle Gibson,Twins,2.7,2018
+1134,44,0,Ken Giles,Phillies,1.7,2014
+1135,69,0,Ken Giles,Phillies,2.0,2015
+1136,69,0,Ken Giles,Astros,1.5,2016
+1137,63,0,Ken Giles,Astros,1.9,2017
+1138,42,0,Ken Giles,2 Teams,0.4,2018
+1139,34,0,Ken Giles,Astros,0.8,    2018
+1140,6,4,Lucas Giolito,Nationals,-0.6,2016
+1141,7,7,Lucas Giolito,White Sox,0.3,2017
+1142,25,25,Lucas Giolito,White Sox,-0.3,2018
+1143,22,0,Mychal Givens,Orioles,0.9,2015
+1144,66,0,Mychal Givens,Orioles,1.2,2016
+1145,69,0,Mychal Givens,Orioles,1.2,2017
+1146,54,0,Mychal Givens,Orioles,1.4,2018
+1147,7,4,Tyler Glasnow,Pirates,0.1,2016
+1148,15,13,Tyler Glasnow,Pirates,-0.6,2017
+1149,38,4,Tyler Glasnow,2 Teams,0.5,2018
+1150,34,0,Tyler Glasnow,Pirates,0.2,    2018
+1151,9,6,Zack Godley,Diamondbacks,0.1,2015
+1152,27,9,Zack Godley,Diamondbacks,0.0,2016
+1153,26,25,Zack Godley,Diamondbacks,3.5,2017
+1154,26,25,Zack Godley,Diamondbacks,2.5,2018
+1155,6,0,Erik Goeddel,Mets,0.0,2014
+1156,35,0,Erik Goeddel,Mets,0.5,2015
+1157,36,0,Erik Goeddel,Mets,0.0,2016
+1158,33,0,Erik Goeddel,Mets,-0.3,2017
+1159,31,0,Erik Goeddel,2 Teams,0.3,2018
+1160,5,0,Erik Goeddel,Mariners,0.2,    2018
+1161,5,5,Luiz Gohara,Braves,1.0,2017
+1162,9,1,Luiz Gohara,Braves,0.0,2018
+1163,11,8,Ryan Goins,Blue Jays,0.1,2013
+1164,14,15,Ryan Goins,Blue Jays,-0.6,2014
+1165,52,45,Ryan Goins,Blue Jays,1.3,2015
+1166,13,12,Ryan Goins,Blue Jays,-0.9,2016
+1167,37,62,Ryan Goins,Blue Jays,-0.3,2017
+1168,10,6,Ryan Goins,Royals,-0.2,2018
+1169,22,5,Austin Gomber,Cardinals,0.3,2018
+1170,11,11,Jeanmar Gomez,Indians,0.3,2010
+1171,11,10,Jeanmar Gomez,Indians,0.7,2011
+1172,20,17,Jeanmar Gomez,Indians,-0.3,2012
+1173,34,8,Jeanmar Gomez,Pirates,0.2,2013
+1174,44,0,Jeanmar Gomez,Pirates,-0.4,2014
+1175,65,0,Jeanmar Gomez,Phillies,0.8,2015
+1176,70,0,Jeanmar Gomez,Phillies,0.5,2016
+1177,18,0,Jeanmar Gomez,Phillies,-0.5,2017
+1178,16,0,Jeanmar Gomez,White Sox,0.0,2018
+1179,4,0,Roberto Gomez,Giants,0.1,2017
+1180,5,0,Roberto Gomez,Giants,0.2,2018
+1181,10,5,Marco Gonzales,Cardinals,0.0,2014
+1182,1,1,Marco Gonzales,Cardinals,-0.1,2015
+1183,11,8,Marco Gonzales,2 Teams,0.1,2017
+1184,1,1,Marco Gonzales,Cardinals,-0.2,    2017
+1185,24,24,Marco Gonzales,Mariners,2.7,2018
+1186,10,7,Gio Gonzalez,Athletics,-0.7,2008
+1187,20,17,Gio Gonzalez,Athletics,1.0,2009
+1188,33,33,Gio Gonzalez,Athletics,3.1,2010
+1189,32,32,Gio Gonzalez,Athletics,3.1,2011
+1190,32,32,Gio Gonzalez,Nationals,5.0,2012
+1191,32,32,Gio Gonzalez,Nationals,3.2,2013
+1192,27,27,Gio Gonzalez,Nationals,3.2,2014
+1193,31,31,Gio Gonzalez,Nationals,3.7,2015
+1194,32,32,Gio Gonzalez,Nationals,2.9,2016
+1195,32,32,Gio Gonzalez,Nationals,3.3,2017
+1196,25,25,Gio Gonzalez,Nationals,1.3,2018
+1197,8,1,Merandy Gonzalez,Marlins,-0.1,2018
+1198,0,0,Miguel Gonzalez,White Sox,-0.1,2013
+1199,18,15,Miguel Gonzalez,Orioles,1.1,2012
+1200,27,26,Miguel Gonzalez,Orioles,0.5,2014
+1201,26,26,Miguel Gonzalez,Orioles,0.5,2015
+1202,24,23,Miguel Gonzalez,White Sox,2.6,2016
+1203,27,27,Miguel Gonzalez,2 Teams,1.4,2017
+1204,22,22,Miguel Gonzalez,White Sox,1.6,    2017
+1205,3,3,Miguel Gonzalez,White Sox,-0.3,2018
+1206,7,0,Nick Goody,Yankees,0.0,2015
+1207,27,0,Nick Goody,Yankees,-0.1,2016
+1208,56,0,Nick Goody,Indians,0.7,2017
+1209,12,0,Nick Goody,Indians,-0.4,2018
+1210,18,18,Daniel Gossett,Athletics,-0.1,2017
+1211,5,5,Daniel Gossett,Athletics,-0.2,2018
+1212,48,0,Trevor Gott,Angels,0.2,2015
+1213,9,0,Trevor Gott,Nationals,0.1,2016
+1214,4,0,Trevor Gott,Nationals,-0.1,2017
+1215,20,0,Trevor Gott,Nationals,-0.4,2018
+1216,26,0,Matt Grace,Nationals,0.3,2015
+1217,5,0,Matt Grace,Nationals,0.1,2016
+1218,40,1,Matt Grace,Nationals,0.3,2017
+1219,40,0,Matt Grace,Nationals,0.3,2018
+1220,5,0,Kendall Graveman,Blue Jays,0.1,2014
+1221,21,21,Kendall Graveman,Athletics,0.5,2015
+1222,31,31,Kendall Graveman,Athletics,1.7,2016
+1223,19,19,Kendall Graveman,Athletics,1.2,2017
+1224,7,7,Kendall Graveman,Athletics,-0.4,2018
+1225,11,0,Brett Graves,Marlins,0.0,2018
+1226,9,9,Jon Gray,Rockies,0.8,2015
+1227,29,29,Jon Gray,Rockies,3.6,2016
+1228,20,20,Jon Gray,Rockies,3.2,2017
+1229,23,23,Jon Gray,Rockies,3.5,2018
+1230,12,10,Sonny Gray,Athletics,1.5,2013
+1231,33,33,Sonny Gray,Athletics,3.1,2014
+1232,31,31,Sonny Gray,Athletics,3.8,2015
+1233,22,22,Sonny Gray,Athletics,0.8,2016
+1234,27,27,Sonny Gray,2 Teams,2.8,2017
+1235,16,16,Sonny Gray,Athletics,2.3,    2017
+1236,25,21,Sonny Gray,Yankees,1.3,2018
+1237,12,8,Chad Green,Yankees,0.0,2016
+1238,40,1,Chad Green,Yankees,2.4,2017
+1239,50,0,Chad Green,Yankees,1.2,2018
+1240,15,14,Shane Greene,Yankees,1.1,2014
+1241,18,16,Shane Greene,Tigers,0.2,2015
+1242,50,3,Shane Greene,Tigers,1.3,2016
+1243,71,0,Shane Greene,Tigers,0.6,2017
+1244,53,0,Shane Greene,Tigers,0.5,2018
+1245,72,0,Luke Gregerson,Padres,2.0,2009
+1246,80,0,Luke Gregerson,Padres,1.4,2010
+1247,61,0,Luke Gregerson,Padres,0.5,2011
+1248,77,0,Luke Gregerson,Padres,0.7,2012
+1249,73,0,Luke Gregerson,Padres,1.2,2013
+1250,72,0,Luke Gregerson,Athletics,0.8,2014
+1251,64,0,Luke Gregerson,Astros,1.2,2015
+1252,59,0,Luke Gregerson,Astros,1.2,2016
+1253,65,0,Luke Gregerson,Astros,0.0,2017
+1254,17,0,Luke Gregerson,Cardinals,-0.1,2018
+1255,24,24,Zack Greinke,Royals,1.8,2004
+1256,33,33,Zack Greinke,Royals,2.0,2005
+1257,3,0,Zack Greinke,Royals,0.0,2006
+1258,52,14,Zack Greinke,Royals,2.1,2007
+1259,32,32,Zack Greinke,Royals,4.2,2008
+1260,33,33,Zack Greinke,Royals,8.6,2009
+1261,33,33,Zack Greinke,Royals,4.7,2010
+1262,28,28,Zack Greinke,Brewers,3.9,2011
+1263,34,34,Zack Greinke,2 Teams,5.0,2012
+1264,21,21,Zack Greinke,Brewers,3.7,    2012
+1265,28,28,Zack Greinke,Dodgers,3.4,2013
+1266,32,32,Zack Greinke,Dodgers,4.3,2014
+1267,32,32,Zack Greinke,Dodgers,5.8,2015
+1268,26,26,Zack Greinke,Diamondbacks,2.2,2016
+1269,32,32,Zack Greinke,Diamondbacks,5.1,2017
+1270,26,26,Zack Greinke,Diamondbacks,2.9,2018
+1271,5,2,Justin Grimm,Rangers,0.2,2012
+1272,27,17,Justin Grimm,2 Teams,0.6,2013
+1273,17,17,Justin Grimm,Rangers,0.3,    2013
+1274,73,0,Justin Grimm,Cubs,0.6,2014
+1275,62,0,Justin Grimm,Cubs,0.6,2015
+1276,68,0,Justin Grimm,Cubs,0.6,2016
+1277,50,0,Justin Grimm,Cubs,-0.4,2017
+1278,16,0,Justin Grimm,Royals,-0.5,2018
+1279,8,7,Robert Gsellman,Mets,1.4,2016
+1280,25,22,Robert Gsellman,Mets,0.7,2017
+1281,55,0,Robert Gsellman,Mets,0.2,2018
+1282,22,0,Reymin Guduan,Astros,0.0,2017
+1283,1,0,Reymin Guduan,Astros,0.0,2018
+1284,0,0,Javy Guerra,Padres,0.0,2018
+1285,47,0,Javy Guerra,Dodgers,0.5,2011
+1286,45,0,Javy Guerra,Dodgers,0.4,2012
+1287,9,0,Javy Guerra,Dodgers,0.0,2013
+1288,42,0,Javy Guerra,White Sox,0.1,2014
+1289,3,0,Javy Guerra,White Sox,0.0,2015
+1290,7,0,Javy Guerra,Angels,-0.2,2016
+1291,16,0,Javy Guerra,Marlins,0.1,2017
+1292,3,0,Junior Guerra,White Sox,0.0,2015
+1293,20,20,Junior Guerra,Brewers,2.4,2016
+1294,21,14,Junior Guerra,Brewers,-0.6,2017
+1295,24,24,Junior Guerra,Brewers,1.7,2018
+1296,1,0,Tayron Guerrero,Padres,0.0,2016
+1297,50,0,Tayron Guerrero,Marlins,0.2,2018
+1298,4,0,Preston Guilmet,Indians,0.0,2013
+1299,10,0,Preston Guilmet,Orioles,0.0,2014
+1300,5,0,Preston Guilmet,2 Teams,-0.1,2015
+1301,3,0,Preston Guilmet,Rays,0.0,    2015
+1302,8,0,Preston Guilmet,2 Teams,-0.4,2018
+1303,2,0,Preston Guilmet,Cardinals,-0.2,    2018
+1304,7,3,Brandon Guyer,Rays,0.3,2011
+1305,2,1,Brandon Guyer,Rays,0.0,2012
+1306,37,26,Brandon Guyer,Rays,1.7,2014
+1307,51,28,Brandon Guyer,Rays,1.9,2015
+1308,39,32,Brandon Guyer,2 Teams,1.4,2016
+1309,27,18,Brandon Guyer,Rays,0.7,    2016
+1310,23,20,Brandon Guyer,Indians,0.0,2017
+1311,19,22,Brandon Guyer,Indians,0.0,2018
+1312,35,0,Josh Hader,Brewers,1.1,2017
+1313,41,0,Josh Hader,Brewers,2.8,2018
+1314,2,2,David Hale,Braves,0.6,2013
+1315,45,6,David Hale,Braves,-0.2,2014
+1316,17,12,David Hale,Rockies,0.3,2015
+1317,2,0,David Hale,Rockies,-0.1,2016
+1318,4,0,David Hale,2 Teams,-0.2,2018
+1319,3,0,David Hale,Yankees,0.0,    2018
+1320,10,0,Justin Haley,Twins,0.0,2017
+1321,4,0,Justin Haley,Red Sox,-0.2,2018
+1322,23,23,Cole Hamels,Phillies,2.6,2006
+1323,28,28,Cole Hamels,Phillies,3.9,2007
+1324,33,33,Cole Hamels,Phillies,4.8,2008
+1325,32,32,Cole Hamels,Phillies,3.9,2009
+1326,33,33,Cole Hamels,Phillies,3.5,2010
+1327,32,31,Cole Hamels,Phillies,4.9,2011
+1328,31,31,Cole Hamels,Phillies,4.6,2012
+1329,33,33,Cole Hamels,Phillies,4.5,2013
+1330,30,30,Cole Hamels,Phillies,4.3,2014
+1331,32,32,Cole Hamels,2 Teams,4.2,2015
+1332,20,20,Cole Hamels,Phillies,2.9,    2015
+1333,32,32,Cole Hamels,Rangers,3.0,2016
+1334,24,24,Cole Hamels,Rangers,1.5,2017
+1335,24,24,Cole Hamels,2 Teams,1.1,2018
+1336,20,20,Cole Hamels,Rangers,0.3,    2018
+1337,9,9,Jason Hammel,Devil Rays,0.3,2006
+1338,24,14,Jason Hammel,Devil Rays,0.3,2007
+1339,40,5,Jason Hammel,Rays,-0.3,2008
+1340,34,30,Jason Hammel,Rockies,3.5,2009
+1341,30,30,Jason Hammel,Rockies,3.2,2010
+1342,32,27,Jason Hammel,Rockies,0.9,2011
+1343,20,20,Jason Hammel,Orioles,2.6,2012
+1344,26,23,Jason Hammel,Orioles,0.6,2013
+1345,30,29,Jason Hammel,2 Teams,1.7,2014
+1346,17,17,Jason Hammel,Cubs,2.0,    2014
+1347,31,31,Jason Hammel,Cubs,2.4,2015
+1348,30,30,Jason Hammel,Cubs,1.5,2016
+1349,32,32,Jason Hammel,Royals,2.1,2017
+1350,29,18,Jason Hammel,Royals,0.9,2018
+1351,10,0,Justin Hancock,Cubs,0.0,2018
+1352,12,12,Brad Hand,Marlins,-0.5,2011
+1353,1,1,Brad Hand,Marlins,-0.2,2012
+1354,7,2,Brad Hand,Marlins,0.1,2013
+1355,32,16,Brad Hand,Marlins,0.2,2014
+1356,38,12,Brad Hand,Marlins,0.2,2015
+1357,82,0,Brad Hand,Padres,1.5,2016
+1358,72,0,Brad Hand,Padres,1.7,2017
+1359,54,0,Brad Hand,2 Teams,1.2,2018
+1360,41,0,Brad Hand,Padres,0.7,    2018
+1361,62,68,Ian Happ,Cubs,1.8,2017
+1362,48,34,Ian Happ,Cubs,1.3,2018
+1363,38,0,Blaine Hardy,Tigers,0.3,2014
+1364,70,0,Blaine Hardy,Tigers,1.1,2015
+1365,21,0,Blaine Hardy,Tigers,0.1,2016
+1366,35,0,Blaine Hardy,Tigers,-0.2,2017
+1367,23,13,Blaine Hardy,Tigers,1.0,2018
+1368,20,0,Will Harris,Rockies,0.0,2012
+1369,61,0,Will Harris,Diamondbacks,0.8,2013
+1370,29,0,Will Harris,Diamondbacks,0.2,2014
+1371,68,0,Will Harris,Astros,0.5,2015
+1372,66,0,Will Harris,Astros,1.8,2016
+1373,46,0,Will Harris,Astros,0.9,2017
+1374,50,0,Will Harris,Astros,0.9,2018
+1375,21,16,Josh Harrison,Pirates,0.8,2011
+1376,34,16,Josh Harrison,Pirates,0.0,2012
+1377,10,14,Josh Harrison,Pirates,0.2,2013
+1378,77,52,Josh Harrison,Pirates,4.8,2014
+1379,57,28,Josh Harrison,Pirates,1.3,2015
+1380,57,59,Josh Harrison,Pirates,1.1,2016
+1381,66,47,Josh Harrison,Pirates,2.6,2017
+1382,39,32,Josh Harrison,Pirates,0.4,2018
+1383,22,0,Donnie Hart,Orioles,0.2,2016
+1384,51,0,Donnie Hart,Orioles,0.1,2017
+1385,15,0,Donnie Hart,Orioles,-0.1,2018
+1386,10,10,Matt Harvey,Mets,1.3,2012
+1387,26,26,Matt Harvey,Mets,6.5,2013
+1388,29,29,Matt Harvey,Mets,4.4,2015
+1389,17,17,Matt Harvey,Mets,1.9,2016
+1390,19,18,Matt Harvey,Mets,-0.8,2017
+1391,25,21,Matt Harvey,2 Teams,0.9,2018
+1392,8,4,Matt Harvey,Mets,-0.1,    2018
+1393,7,5,Andrew Heaney,Marlins,-0.3,2014
+1394,18,18,Andrew Heaney,Angels,1.7,2015
+1395,1,1,Andrew Heaney,Angels,0.0,2016
+1396,5,5,Andrew Heaney,Angels,-0.7,2017
+1397,23,23,Andrew Heaney,Angels,2.3,2018
+1398,10,4,Jeremy Hellickson,Rays,0.5,2010
+1399,29,29,Jeremy Hellickson,Rays,1.7,2011
+1400,31,31,Jeremy Hellickson,Rays,1.2,2012
+1401,32,31,Jeremy Hellickson,Rays,1.5,2013
+1402,13,13,Jeremy Hellickson,Rays,0.4,2014
+1403,27,27,Jeremy Hellickson,Diamondbacks,0.9,2015
+1404,32,32,Jeremy Hellickson,Phillies,3.3,2016
+1405,30,30,Jeremy Hellickson,2 Teams,0.2,2017
+1406,20,20,Jeremy Hellickson,Phillies,0.4,    2017
+1407,18,18,Jeremy Hellickson,Nationals,1.1,2018
+1408,9,0,Heath Hembree,Giants,0.2,2013
+1409,6,0,Heath Hembree,Red Sox,-0.1,2014
+1410,22,0,Heath Hembree,Red Sox,-0.2,2015
+1411,38,0,Heath Hembree,Red Sox,0.3,2016
+1412,62,0,Heath Hembree,Red Sox,0.5,2017
+1413,53,0,Heath Hembree,Red Sox,0.4,2018
+1414,13,13,Kyle Hendricks,Cubs,1.5,2014
+1415,32,32,Kyle Hendricks,Cubs,3.4,2015
+1416,31,30,Kyle Hendricks,Cubs,4.5,2016
+1417,24,24,Kyle Hendricks,Cubs,2.5,2017
+1418,26,26,Kyle Hendricks,Cubs,1.9,2018
+1419,4,4,Liam Hendriks,Twins,0.2,2011
+1420,16,16,Liam Hendriks,Twins,-0.3,2012
+1421,10,8,Liam Hendriks,Twins,-0.2,2013
+1422,9,6,Liam Hendriks,2 Teams,0.4,2014
+1423,3,3,Liam Hendriks,Blue Jays,-0.2,    2014
+1424,58,0,Liam Hendriks,Blue Jays,1.5,2015
+1425,53,0,Liam Hendriks,Athletics,1.3,2016
+1426,70,0,Liam Hendriks,Athletics,1.0,2017
+1427,13,0,Liam Hendriks,Athletics,-0.2,2018
+1428,20,19,David Hernandez,Orioles,-0.6,2009
+1429,41,8,David Hernandez,Orioles,0.9,2010
+1430,74,0,David Hernandez,Diamondbacks,1.3,2011
+1431,72,0,David Hernandez,Diamondbacks,2.1,2012
+1432,62,0,David Hernandez,Diamondbacks,-0.3,2013
+1433,40,0,David Hernandez,Diamondbacks,-0.2,2015
+1434,70,0,David Hernandez,Phillies,0.2,2016
+1435,64,0,David Hernandez,2 Teams,1.1,2017
+1436,38,0,David Hernandez,Angels,1.0,    2017
+1437,42,0,David Hernandez,Reds,0.7,2018
+1438,26,5,Elieser Hernandez,Marlins,-0.1,2018
+1439,12,12,Felix Hernandez,Mariners,2.3,2005
+1440,31,31,Felix Hernandez,Mariners,3.3,2006
+1441,30,30,Felix Hernandez,Mariners,3.5,2007
+1442,31,31,Felix Hernandez,Mariners,3.3,2008
+1443,34,34,Felix Hernandez,Mariners,6.2,2009
+1444,34,34,Felix Hernandez,Mariners,5.9,2010
+1445,33,33,Felix Hernandez,Mariners,4.8,2011
+1446,33,33,Felix Hernandez,Mariners,6.1,2012
+1447,31,31,Felix Hernandez,Mariners,5.7,2013
+1448,34,34,Felix Hernandez,Mariners,6.1,2014
+1449,31,31,Felix Hernandez,Mariners,2.9,2015
+1450,25,25,Felix Hernandez,Mariners,1.0,2016
+1451,16,16,Felix Hernandez,Mariners,0.4,2017
+1452,25,24,Felix Hernandez,Mariners,0.4,2018
+1453,2,0,Kelvin Herrera,Royals,-0.2,2011
+1454,76,0,Kelvin Herrera,Royals,1.8,2012
+1455,59,0,Kelvin Herrera,Royals,0.5,2013
+1456,70,0,Kelvin Herrera,Royals,1.2,2014
+1457,72,0,Kelvin Herrera,Royals,0.6,2015
+1458,72,0,Kelvin Herrera,Royals,2.0,2016
+1459,64,0,Kelvin Herrera,Royals,0.1,2017
+1460,47,0,Kelvin Herrera,2 Teams,0.3,2018
+1461,27,0,Kelvin Herrera,Royals,0.7,    2018
+1462,14,12,David Hess,Orioles,-0.5,2018
+1463,58,0,Jordan Hicks,Cardinals,0.6,2018
+1464,37,0,Trevor Hildenberger,Twins,0.8,2017
+1465,58,0,Trevor Hildenberger,Twins,-0.1,2018
+1466,10,4,Rich Hill,Cubs,0.0,2005
+1467,17,16,Rich Hill,Cubs,1.4,2006
+1468,32,32,Rich Hill,Cubs,3.1,2007
+1469,5,5,Rich Hill,Cubs,0.0,2008
+1470,14,13,Rich Hill,Orioles,0.5,2009
+1471,6,0,Rich Hill,Red Sox,0.1,2010
+1472,9,0,Rich Hill,Red Sox,0.2,2011
+1473,25,0,Rich Hill,Red Sox,0.3,2012
+1474,63,0,Rich Hill,Indians,0.1,2013
+1475,16,0,Rich Hill,2 Teams,0.1,2014
+1476,2,0,Rich Hill,Angels,0.0,    2014
+1477,4,4,Rich Hill,Red Sox,1.1,2015
+1478,20,20,Rich Hill,2 Teams,3.8,2016
+1479,14,14,Rich Hill,Athletics,2.5,    2016
+1480,25,25,Rich Hill,Dodgers,2.6,2017
+1481,18,17,Rich Hill,Dodgers,0.8,2018
+1482,55,0,Tim Hill,Royals,0.2,2018
+1483,59,0,Yoshihisa Hirano,Diamondbacks,0.3,2018
+1484,8,6,Jeff Hoffman,Rockies,-0.3,2016
+1485,23,16,Jeff Hoffman,Rockies,1.1,2017
+1486,6,1,Jeff Hoffman,Rockies,0.0,2018
+1487,8,0,Jonathan Holder,Yankees,0.0,2016
+1488,37,0,Jonathan Holder,Yankees,0.5,2017
+1489,47,0,Jonathan Holder,Yankees,1.2,2018
+1490,33,21,Derek Holland,Rangers,0.7,2009
+1491,14,10,Derek Holland,Rangers,0.8,2010
+1492,32,32,Derek Holland,Rangers,3.0,2011
+1493,29,27,Derek Holland,Rangers,1.3,2012
+1494,33,33,Derek Holland,Rangers,4.3,2013
+1495,6,5,Derek Holland,Rangers,1.2,2014
+1496,10,10,Derek Holland,Rangers,0.0,2015
+1497,22,20,Derek Holland,Rangers,0.9,2016
+1498,29,26,Derek Holland,White Sox,-0.9,2017
+1499,28,24,Derek Holland,Giants,1.7,2018
+1500,15,0,Greg Holland,Royals,0.0,2010
+1501,46,0,Greg Holland,Royals,1.7,2011
+1502,67,0,Greg Holland,Royals,2.1,2012
+1503,68,0,Greg Holland,Royals,3.0,2013
+1504,65,0,Greg Holland,Royals,2.2,2014
+1505,48,0,Greg Holland,Royals,0.7,2015
+1506,61,0,Greg Holland,Rockies,1.1,2017
+1507,39,0,Greg Holland,2 Teams,0.1,2018
+1508,32,0,Greg Holland,Cardinals,0.0,    2018
+1509,6,3,Clay Holmes,Pirates,0.0,2018
+1510,2,0,Adrian Houser,Brewers,0.0,2015
+1511,7,0,Adrian Houser,Brewers,0.1,2018
+1512,1,0,Sam Howard,Rockies,0.0,2018
+1513,22,0,James Hoyt,Astros,-0.1,2016
+1514,43,0,James Hoyt,Astros,0.6,2017
+1515,1,0,James Hoyt,Astros,0.0,2018
+1516,6,0,Chih-Wei Hu,Rays,-0.1,2017
+1517,3,0,Chih-Wei Hu,Rays,0.1,2018
+1518,6,2,Daniel Hudson,White Sox,0.1,2009
+1519,14,14,Daniel Hudson,2 Teams,2.2,2010
+1520,3,3,Daniel Hudson,White Sox,0.2,    2010
+1521,33,33,Daniel Hudson,Diamondbacks,4.6,2011
+1522,9,9,Daniel Hudson,Diamondbacks,0.1,2012
+1523,3,0,Daniel Hudson,Diamondbacks,0.1,2014
+1524,64,1,Daniel Hudson,Diamondbacks,0.7,2015
+1525,70,0,Daniel Hudson,Diamondbacks,0.7,2016
+1526,71,0,Daniel Hudson,Pirates,0.1,2017
+1527,40,1,Daniel Hudson,Dodgers,-0.1,2018
+1528,12,0,Jared Hughes,Pirates,0.0,2011
+1529,66,0,Jared Hughes,Pirates,-0.1,2012
+1530,29,0,Jared Hughes,Pirates,-0.1,2013
+1531,63,0,Jared Hughes,Pirates,-0.3,2014
+1532,76,0,Jared Hughes,Pirates,0.2,2015
+1533,67,0,Jared Hughes,Pirates,-0.3,2016
+1534,67,0,Jared Hughes,Brewers,0.5,2017
+1535,56,0,Jared Hughes,Reds,1.2,2018
+1536,13,13,Phil Hughes,Yankees,1.0,2007
+1537,8,8,Phil Hughes,Yankees,0.4,2008
+1538,51,7,Phil Hughes,Yankees,2.4,2009
+1539,31,29,Phil Hughes,Yankees,2.6,2010
+1540,17,14,Phil Hughes,Yankees,0.7,2011
+1541,32,32,Phil Hughes,Yankees,2.4,2012
+1542,30,29,Phil Hughes,Yankees,1.2,2013
+1543,32,32,Phil Hughes,Twins,5.9,2014
+1544,27,25,Phil Hughes,Twins,1.1,2015
+1545,12,11,Phil Hughes,Twins,0.3,2016
+1546,14,9,Phil Hughes,Twins,0.1,2017
+1547,23,2,Phil Hughes,2 Teams,-0.6,2018
+1548,7,2,Phil Hughes,Twins,-0.3,    2018
+1549,3,3,Tommy Hunter,Rangers,-0.1,2008
+1550,19,19,Tommy Hunter,Rangers,1.7,2009
+1551,23,22,Tommy Hunter,Rangers,0.9,2010
+1552,20,11,Tommy Hunter,2 Teams,0.6,2011
+1553,8,0,Tommy Hunter,Rangers,0.1,    2011
+1554,33,20,Tommy Hunter,Orioles,-0.4,2012
+1555,68,0,Tommy Hunter,Orioles,0.7,2013
+1556,60,0,Tommy Hunter,Orioles,0.7,2014
+1557,58,0,Tommy Hunter,2 Teams,0.3,2015
+1558,39,0,Tommy Hunter,Orioles,0.5,    2015
+1559,33,0,Tommy Hunter,2 Teams,0.5,2016
+1560,21,0,Tommy Hunter,Indians,0.3,    2016
+1561,61,0,Tommy Hunter,Rays,1.2,2017
+1562,50,0,Tommy Hunter,Phillies,0.7,2018
+1563,11,11,Drew Hutchison,Blue Jays,0.5,2012
+1564,32,32,Drew Hutchison,Blue Jays,2.3,2014
+1565,30,28,Drew Hutchison,Blue Jays,1.4,2015
+1566,9,3,Drew Hutchison,2 Teams,0.0,2016
+1567,3,2,Drew Hutchison,Blue Jays,-0.1,    2016
+1568,14,3,Drew Hutchison,2 Teams,-0.4,2018
+1569,11,0,Drew Hutchison,Phillies,-0.3,    2018
+1570,18,16,Raisel Iglesias,Reds,1.6,2015
+1571,37,5,Raisel Iglesias,Reds,1.4,2016
+1572,63,0,Raisel Iglesias,Reds,1.8,2017
+1573,51,0,Raisel Iglesias,Reds,0.6,2018
+1574,4,3,Edwin Jackson,Dodgers,0.2,2003
+1575,8,5,Edwin Jackson,Dodgers,-0.3,2004
+1576,7,6,Edwin Jackson,Dodgers,0.2,2005
+1577,23,1,Edwin Jackson,Devil Rays,0.1,2006
+1578,32,31,Edwin Jackson,Devil Rays,1.2,2007
+1579,32,31,Edwin Jackson,Rays,1.3,2008
+1580,33,33,Edwin Jackson,Tigers,3.3,2009
+1581,32,32,Edwin Jackson,2 Teams,3.2,2010
+1582,21,21,Edwin Jackson,Diamondbacks,1.3,    2010
+1583,32,31,Edwin Jackson,2 Teams,3.5,2011
+1584,19,19,Edwin Jackson,White Sox,2.8,    2011
+1585,31,31,Edwin Jackson,Nationals,2.1,2012
+1586,31,31,Edwin Jackson,Cubs,2.0,2013
+1587,28,27,Edwin Jackson,Cubs,0.5,2014
+1588,47,0,Edwin Jackson,2 Teams,0.0,2015
+1589,23,0,Edwin Jackson,Cubs,0.3,    2015
+1590,21,13,Edwin Jackson,2 Teams,-0.3,2016
+1591,8,0,Edwin Jackson,Marlins,-0.2,    2016
+1592,16,13,Edwin Jackson,2 Teams,-0.3,2017
+1593,3,0,Edwin Jackson,Orioles,-0.2,    2017
+1594,10,10,Edwin Jackson,Athletics,0.7,2018
+1595,7,0,Luke Jackson,Rangers,0.0,2015
+1596,8,0,Luke Jackson,Rangers,-0.5,2016
+1597,43,0,Luke Jackson,Braves,0.1,2017
+1598,23,0,Luke Jackson,Braves,0.2,2018
+1599,25,0,Kenley Jansen,Dodgers,0.8,2010
+1600,51,0,Kenley Jansen,Dodgers,1.5,2011
+1601,65,0,Kenley Jansen,Dodgers,2.0,2012
+1602,75,0,Kenley Jansen,Dodgers,2.4,2013
+1603,68,0,Kenley Jansen,Dodgers,2.1,2014
+1604,54,0,Kenley Jansen,Dodgers,1.7,2015
+1605,71,0,Kenley Jansen,Dodgers,3.2,2016
+1606,65,0,Kenley Jansen,Dodgers,3.6,2017
+1607,52,0,Kenley Jansen,Dodgers,0.8,2018
+1608,47,27,Jon Jay,Cardinals,1.1,2010
+1609,56,37,Jon Jay,Cardinals,2.3,2011
+1610,70,40,Jon Jay,Cardinals,2.9,2012
+1611,75,67,Jon Jay,Cardinals,1.8,2013
+1612,52,46,Jon Jay,Cardinals,1.7,2014
+1613,25,10,Jon Jay,Cardinals,-0.3,2015
+1614,49,26,Jon Jay,Padres,1.0,2016
+1615,65,34,Jon Jay,Cubs,1.7,2017
+1616,70,37,Jon Jay,2 Teams,1.2,2018
+1617,28,18,Jon Jay,Royals,1.1,    2018
+1618,10,0,Jeremy Jeffress,Brewers,0.1,2010
+1619,14,0,Jeremy Jeffress,Royals,-0.1,2011
+1620,13,0,Jeremy Jeffress,Royals,0.0,2012
+1621,10,0,Jeremy Jeffress,Blue Jays,0.1,2013
+1622,32,0,Jeremy Jeffress,2 Teams,0.5,2014
+1623,3,0,Jeremy Jeffress,Blue Jays,0.0,    2014
+1624,72,0,Jeremy Jeffress,Brewers,0.8,2015
+1625,59,0,Jeremy Jeffress,2 Teams,0.9,2016
+1626,47,0,Jeremy Jeffress,Brewers,0.8,    2016
+1627,61,1,Jeremy Jeffress,2 Teams,-0.4,2017
+1628,39,0,Jeremy Jeffress,Rangers,-0.5,    2017
+1629,58,0,Jeremy Jeffress,Brewers,1.5,2018
+1630,22,0,Dan Jennings,Marlins,-0.4,2012
+1631,47,0,Dan Jennings,Marlins,0.6,2013
+1632,47,0,Dan Jennings,Marlins,0.1,2014
+1633,53,0,Dan Jennings,White Sox,0.5,2015
+1634,64,0,Dan Jennings,White Sox,0.9,2016
+1635,77,0,Dan Jennings,2 Teams,-0.1,2017
+1636,48,0,Dan Jennings,White Sox,0.0,    2017
+1637,60,0,Dan Jennings,Brewers,0.2,2018
+1638,9,0,Kevin Jepsen,Angels,0.2,2008
+1639,54,0,Kevin Jepsen,Angels,1.2,2009
+1640,68,0,Kevin Jepsen,Angels,1.0,2010
+1641,16,0,Kevin Jepsen,Angels,-0.5,2011
+1642,49,0,Kevin Jepsen,Angels,0.7,2012
+1643,45,0,Kevin Jepsen,Angels,0.3,2013
+1644,74,0,Kevin Jepsen,Angels,0.9,2014
+1645,75,0,Kevin Jepsen,2 Teams,0.7,2015
+1646,46,0,Kevin Jepsen,Rays,0.0,    2015
+1647,58,0,Kevin Jepsen,2 Teams,-0.9,2016
+1648,33,0,Kevin Jepsen,Twins,-0.5,    2016
+1649,21,0,Kevin Jepsen,Rangers,-0.7,2018
+1650,3,0,Jake Jewell,Angels,-0.1,2018
+1651,24,0,Joe Jimenez,Tigers,-0.2,2017
+1652,57,0,Joe Jimenez,Tigers,0.9,2018
+1653,1,1,Brian Johnson,Red Sox,0.0,2015
+1654,5,5,Brian Johnson,Red Sox,0.2,2017
+1655,31,9,Brian Johnson,Red Sox,0.6,2018
+1656,7,16,Brian Johnson,Padres,0.2,1994
+1657,20,29,Brian Johnson,Padres,0.0,1995
+1658,18,35,Brian Johnson,Padres,0.6,1996
+1659,32,45,Brian Johnson,2 Teams,1.0,1997
+1660,13,18,Brian Johnson,Tigers,-0.4,    1997
+1661,34,34,Brian Johnson,Giants,1.1,1998
+1662,12,18,Brian Johnson,Reds,0.0,1999
+1663,9,18,Brian Johnson,Royals,-0.9,2000
+1664,0,1,Brian Johnson,Dodgers,0.0,2001
+1665,1,1,Jim Johnson,Orioles,-0.1,2006
+1666,1,0,Jim Johnson,Orioles,0.0,2007
+1667,54,0,Jim Johnson,Orioles,1.0,2008
+1668,64,0,Jim Johnson,Orioles,0.4,2009
+1669,26,0,Jim Johnson,Orioles,0.6,2010
+1670,69,0,Jim Johnson,Orioles,1.3,2011
+1671,71,0,Jim Johnson,Orioles,1.2,2012
+1672,74,0,Jim Johnson,Orioles,0.9,2013
+1673,54,0,Jim Johnson,2 Teams,-0.7,2014
+1674,38,0,Jim Johnson,Athletics,-0.6,    2014
+1675,72,0,Jim Johnson,2 Teams,0.2,2015
+1676,49,0,Jim Johnson,Braves,0.5,    2015
+1677,65,0,Jim Johnson,Braves,1.4,2016
+1678,61,0,Jim Johnson,Braves,0.2,2017
+1679,48,0,Jim Johnson,Angels,-0.1,2018
+1680,3,0,Jim Johnson,Giants,0.0,1970
+1681,1,0,Pierce Johnson,Cubs,0.0,2017
+1682,31,0,Pierce Johnson,Giants,-0.1,2018
+1683,65,0,Nate Jones,White Sox,1.0,2012
+1684,70,0,Nate Jones,White Sox,2.0,2013
+1685,2,0,Nate Jones,White Sox,0.0,2014
+1686,19,0,Nate Jones,White Sox,-0.1,2015
+1687,71,0,Nate Jones,White Sox,1.8,2016
+1688,11,0,Nate Jones,White Sox,0.2,2017
+1689,27,0,Nate Jones,White Sox,0.0,2018
+1690,6,6,Ariel Jurado,Rangers,-0.1,2018
+1691,54,0,Tommy Kahnle,Rockies,0.1,2014
+1692,36,0,Tommy Kahnle,Rockies,-0.1,2015
+1693,29,0,Tommy Kahnle,White Sox,0.0,2016
+1694,69,0,Tommy Kahnle,2 Teams,2.1,2017
+1695,37,0,Tommy Kahnle,White Sox,1.4,    2017
+1696,12,0,Tommy Kahnle,Yankees,0.0,2018
+1697,68,0,Keone Kela,Rangers,1.5,2015
+1698,35,0,Keone Kela,Rangers,0.0,2016
+1699,39,0,Keone Kela,Rangers,0.8,2017
+1700,47,0,Keone Kela,2 Teams,1.1,2018
+1701,38,0,Keone Kela,Rangers,1.0,    2018
+1702,35,14,Brad Keller,Royals,1.4,2018
+1703,41,0,Shawn Kelley,Mariners,0.0,2009
+1704,22,0,Shawn Kelley,Mariners,-0.2,2010
+1705,10,0,Shawn Kelley,Mariners,0.2,2011
+1706,47,0,Shawn Kelley,Mariners,0.4,2012
+1707,57,0,Shawn Kelley,Yankees,0.5,2013
+1708,59,0,Shawn Kelley,Yankees,0.8,2014
+1709,53,0,Shawn Kelley,Padres,0.9,2015
+1710,67,0,Shawn Kelley,Nationals,1.1,2016
+1711,33,0,Shawn Kelley,Nationals,-1.2,2017
+1712,40,0,Shawn Kelley,2 Teams,0.1,2018
+1713,35,0,Shawn Kelley,Nationals,0.0,    2018
+1714,47,48,Joe Kelly,Pirates,-0.2,1914
+1715,18,15,Joe Kelly,Cubs,0.6,1916
+1716,41,36,Joe Kelly,Braves,0.5,1917
+1717,20,15,Joe Kelly,Braves,-0.3,1918
+1718,3,3,Joe Kelly,Braves,-0.7,1919
+1719,24,16,Joe Kelly,Cardinals,0.9,2012
+1720,37,15,Joe Kelly,Cardinals,0.7,2013
+1721,17,17,Joe Kelly,2 Teams,0.4,2014
+1722,7,7,Joe Kelly,Cardinals,0.3,    2014
+1723,25,25,Joe Kelly,Red Sox,1.2,2015
+1724,20,6,Joe Kelly,Red Sox,0.4,2016
+1725,54,0,Joe Kelly,Red Sox,0.7,2017
+1726,56,0,Joe Kelly,Red Sox,0.6,2018
+1727,16,32,Joe Kelly,Cubs,0.5,1926
+1728,3,7,Joe Kelly,Cubs,-0.3,1928
+1729,3,3,Ian Kennedy,Yankees,0.4,2007
+1730,10,9,Ian Kennedy,Yankees,0.0,2008
+1731,1,0,Ian Kennedy,Yankees,-0.1,2009
+1732,32,32,Ian Kennedy,Diamondbacks,1.9,2010
+1733,33,33,Ian Kennedy,Diamondbacks,4.8,2011
+1734,33,33,Ian Kennedy,Diamondbacks,2.5,2012
+1735,31,31,Ian Kennedy,2 Teams,0.6,2013
+1736,21,21,Ian Kennedy,Diamondbacks,0.5,    2013
+1737,33,33,Ian Kennedy,Padres,3.4,2014
+1738,30,30,Ian Kennedy,Padres,0.7,2015
+1739,33,33,Ian Kennedy,Royals,1.6,2016
+1740,30,30,Ian Kennedy,Royals,-0.2,2017
+1741,18,18,Ian Kennedy,Royals,0.5,2018
+1742,22,21,Clayton Kershaw,Dodgers,1.5,2008
+1743,31,30,Clayton Kershaw,Dodgers,4.4,2009
+1744,32,32,Clayton Kershaw,Dodgers,4.7,2010
+1745,33,33,Clayton Kershaw,Dodgers,7.1,2011
+1746,33,33,Clayton Kershaw,Dodgers,5.9,2012
+1747,33,33,Clayton Kershaw,Dodgers,7.1,2013
+1748,27,27,Clayton Kershaw,Dodgers,7.6,2014
+1749,33,33,Clayton Kershaw,Dodgers,8.5,2015
+1750,21,21,Clayton Kershaw,Dodgers,6.5,2016
+1751,27,27,Clayton Kershaw,Dodgers,4.6,2017
+1752,19,19,Clayton Kershaw,Dodgers,3.0,2018
+1753,16,16,Dallas Keuchel,Astros,-0.5,2012
+1754,31,22,Dallas Keuchel,Astros,1.1,2013
+1755,29,29,Dallas Keuchel,Astros,3.6,2014
+1756,33,33,Dallas Keuchel,Astros,5.9,2015
+1757,26,26,Dallas Keuchel,Astros,2.7,2016
+1758,23,23,Dallas Keuchel,Astros,2.5,2017
+1759,26,26,Dallas Keuchel,Astros,2.9,2018
+1760,21,0,Craig Kimbrel,Braves,0.5,2010
+1761,79,0,Craig Kimbrel,Braves,3.2,2011
+1762,63,0,Craig Kimbrel,Braves,3.3,2012
+1763,68,0,Craig Kimbrel,Braves,2.3,2013
+1764,63,0,Craig Kimbrel,Braves,2.3,2014
+1765,61,0,Craig Kimbrel,Padres,1.5,2015
+1766,57,0,Craig Kimbrel,Red Sox,1.2,2016
+1767,67,0,Craig Kimbrel,Red Sox,3.3,2017
+1768,51,0,Craig Kimbrel,Red Sox,1.1,2018
+1769,12,12,Nick Kingham,Pirates,0.0,2018
+1770,4,0,Tyler Kinley,Twins,-0.1,2018
+1771,7,0,Brandon Kintzler,Brewers,-0.1,2010
+1772,9,0,Brandon Kintzler,Brewers,0.0,2011
+1773,14,0,Brandon Kintzler,Brewers,0.1,2012
+1774,71,0,Brandon Kintzler,Brewers,1.5,2013
+1775,64,0,Brandon Kintzler,Brewers,-0.5,2014
+1776,7,0,Brandon Kintzler,Brewers,-0.1,2015
+1777,54,0,Brandon Kintzler,Twins,0.5,2016
+1778,72,0,Brandon Kintzler,2 Teams,0.9,2017
+1779,45,0,Brandon Kintzler,Twins,0.7,    2017
+1780,54,0,Brandon Kintzler,2 Teams,0.2,2018
+1781,45,0,Brandon Kintzler,Nationals,0.5,    2018
+1782,15,0,Andrew Kittredge,Rays,0.0,2017
+1783,18,3,Andrew Kittredge,Rays,-0.3,2018
+1784,3,0,Corey Kluber,Indians,0.0,2011
+1785,12,12,Corey Kluber,Indians,0.6,2012
+1786,26,24,Corey Kluber,Indians,2.8,2013
+1787,34,34,Corey Kluber,Indians,7.4,2014
+1788,32,32,Corey Kluber,Indians,5.6,2015
+1789,32,32,Corey Kluber,Indians,5.0,2016
+1790,29,29,Corey Kluber,Indians,7.3,2017
+1791,26,26,Corey Kluber,Indians,4.2,2018
+1792,8,0,Corey Knebel,Tigers,0.2,2014
+1793,48,0,Corey Knebel,Brewers,0.1,2015
+1794,35,0,Corey Knebel,Brewers,0.4,2016
+1795,76,0,Corey Knebel,Brewers,2.8,2017
+1796,41,0,Corey Knebel,Brewers,0.1,2018
+1797,7,2,Matt Koch,Diamondbacks,0.3,2016
+1798,1,0,Matt Koch,Diamondbacks,0.0,2017
+1799,15,12,Matt Koch,Diamondbacks,-0.5,2018
+1800,12,0,Adam Kolarek,Rays,-0.3,2017
+1801,13,0,Adam Kolarek,Rays,0.5,2018
+1802,7,0,George Kontos,Yankees,0.0,2011
+1803,44,0,George Kontos,Giants,0.5,2012
+1804,52,0,George Kontos,Giants,-0.2,2013
+1805,24,0,George Kontos,Giants,0.3,2014
+1806,73,0,George Kontos,Giants,-0.2,2015
+1807,57,0,George Kontos,Giants,0.2,2016
+1808,65,0,George Kontos,2 Teams,0.5,2017
+1809,50,0,George Kontos,Giants,0.1,    2017
+1810,28,0,George Kontos,3 Teams,-0.5,2018
+1811,21,0,George Kontos,Pirates,-0.5,    2018
+1812,2,0,Joey Krehbiel,Diamondbacks,0.0,2018
+1813,32,0,Ian Krol,Nationals,-0.3,2013
+1814,45,0,Ian Krol,Tigers,-0.6,2014
+1815,33,0,Ian Krol,Tigers,-0.2,2015
+1816,63,0,Ian Krol,Braves,0.9,2016
+1817,51,0,Ian Krol,Braves,-0.2,2017
+1818,1,0,Ian Krol,Angels,0.0,2018
+1819,14,14,Chad Kuhl,Pirates,1.0,2016
+1820,31,31,Chad Kuhl,Pirates,1.9,2017
+1821,16,16,Chad Kuhl,Pirates,0.4,2018
+1822,2,0,Ryan LaMarre,Reds,-0.3,2015
+1823,1,0,Ryan LaMarre,Red Sox,-0.1,2016
+1824,0,0,Ryan LaMarre,Athletics,-0.1,2017
+1825,9,10,Ryan LaMarre,2 Teams,0.0,2018
+1826,7,8,Ryan LaMarre,Twins,-0.1,    2018
+1827,23,0,John Lamb,Pirates,0.2,1970
+1828,2,0,John Lamb,Pirates,0.0,1971
+1829,22,0,John Lamb,Pirates,-0.2,1973
+1830,10,10,John Lamb,Reds,0.6,2015
+1831,14,14,John Lamb,Reds,0.0,2016
+1832,3,3,John Lamb,Angels,-0.2,2018
+1833,18,18,Eric Lauer,Padres,0.4,2018
+1834,61,0,Derek Law,Giants,1.1,2016
+1835,41,0,Derek Law,Giants,0.0,2017
+1836,7,0,Derek Law,Giants,-0.1,2018
+1837,27,2,Casey Lawrence,2 Teams,-0.3,2017
+1838,4,2,Casey Lawrence,Blue Jays,-0.2,    2017
+1839,8,0,Casey Lawrence,Mariners,0.0,2018
+1840,24,22,Mike Leake,Reds,0.8,2010
+1841,29,26,Mike Leake,Reds,1.5,2011
+1842,30,30,Mike Leake,Reds,1.4,2012
+1843,31,31,Mike Leake,Reds,2.0,2013
+1844,33,33,Mike Leake,Reds,2.3,2014
+1845,30,30,Mike Leake,2 Teams,1.6,2015
+1846,21,21,Mike Leake,Reds,1.7,    2015
+1847,30,30,Mike Leake,Cardinals,2.5,2016
+1848,31,31,Mike Leake,2 Teams,3.1,2017
+1849,26,26,Mike Leake,Cardinals,1.8,    2017
+1850,25,25,Mike Leake,Mariners,1.9,2018
+1851,5,4,Wade LeBlanc,Padres,-0.6,2008
+1852,9,9,Wade LeBlanc,Padres,0.2,2009
+1853,26,25,Wade LeBlanc,Padres,0.4,2010
+1854,14,14,Wade LeBlanc,Padres,0.8,2011
+1855,25,9,Wade LeBlanc,Marlins,0.5,2012
+1856,17,7,Wade LeBlanc,2 Teams,0.0,2013
+1857,13,7,Wade LeBlanc,Marlins,0.1,    2013
+1858,11,3,Wade LeBlanc,2 Teams,0.3,2014
+1859,10,3,Wade LeBlanc,Angels,0.3,    2014
+1860,19,8,Wade LeBlanc,2 Teams,0.1,2016
+1861,11,8,Wade LeBlanc,Mariners,-0.2,    2016
+1862,50,0,Wade LeBlanc,Pirates,0.1,2017
+1863,25,20,Wade LeBlanc,Mariners,1.0,2018
+1864,12,0,Jose Leclerc,Rangers,0.1,2016
+1865,47,0,Jose Leclerc,Rangers,0.2,2017
+1866,48,0,Jose Leclerc,Rangers,2.1,2018
+1867,8,3,Mark Leiter,Yankees,-0.1,1990
+1868,38,15,Mark Leiter,Tigers,1.3,1991
+1869,35,14,Mark Leiter,Tigers,1.5,1992
+1870,27,13,Mark Leiter,Tigers,0.3,1993
+1871,40,7,Mark Leiter,Angels,0.7,1994
+1872,30,29,Mark Leiter,Giants,2.5,1995
+1873,35,34,Mark Leiter,2 Teams,0.6,1996
+1874,23,22,Mark Leiter,Giants,0.4,    1996
+1875,31,31,Mark Leiter,Phillies,1.8,1997
+1876,69,0,Mark Leiter,Phillies,0.3,1998
+1877,2,0,Mark Leiter,Mariners,0.0,1999
+1878,20,3,Mark Leiter,Brewers,0.2,2001
+1879,27,11,Mark Leiter,Phillies,0.2,2017
+1880,12,0,Mark Leiter,Phillies,-0.4,2018
+1881,57,0,Dominic Leone,Mariners,0.7,2014
+1882,13,0,Dominic Leone,2 Teams,-0.3,2015
+1883,10,0,Dominic Leone,Mariners,-0.2,    2015
+1884,25,0,Dominic Leone,Diamondbacks,-0.4,2016
+1885,65,0,Dominic Leone,Blue Jays,1.5,2017
+1886,15,0,Dominic Leone,Cardinals,-0.1,2018
+1887,15,15,Jon Lester,Red Sox,1.0,2006
+1888,12,11,Jon Lester,Red Sox,0.2,2007
+1889,33,33,Jon Lester,Red Sox,4.1,2008
+1890,32,32,Jon Lester,Red Sox,5.3,2009
+1891,32,32,Jon Lester,Red Sox,4.8,2010
+1892,31,31,Jon Lester,Red Sox,2.7,2011
+1893,33,33,Jon Lester,Red Sox,2.5,2012
+1894,33,33,Jon Lester,Red Sox,3.5,2013
+1895,32,32,Jon Lester,2 Teams,5.6,2014
+1896,21,21,Jon Lester,Red Sox,4.1,    2014
+1897,32,32,Jon Lester,Cubs,5.0,2015
+1898,32,32,Jon Lester,Cubs,4.4,2016
+1899,32,32,Jon Lester,Cubs,2.7,2017
+1900,25,25,Jon Lester,Cubs,0.6,2018
+1901,4,1,Artie Lewicki,Tigers,0.0,2017
+1902,13,3,Artie Lewicki,Tigers,0.3,2018
+1903,39,0,Adam Liberatore,Dodgers,0.2,2015
+1904,58,0,Adam Liberatore,Dodgers,0.8,2016
+1905,4,0,Adam Liberatore,Dodgers,0.1,2017
+1906,17,0,Adam Liberatore,Dodgers,-0.1,2018
+1907,6,4,Francisco Liriano,Twins,0.5,2005
+1908,28,16,Francisco Liriano,Twins,3.6,2006
+1909,14,14,Francisco Liriano,Twins,1.4,2008
+1910,29,24,Francisco Liriano,Twins,0.7,2009
+1911,31,31,Francisco Liriano,Twins,5.7,2010
+1912,26,24,Francisco Liriano,Twins,0.7,2011
+1913,34,28,Francisco Liriano,2 Teams,1.4,2012
+1914,22,17,Francisco Liriano,Twins,0.9,    2012
+1915,26,26,Francisco Liriano,Pirates,3.3,2013
+1916,29,29,Francisco Liriano,Pirates,1.8,2014
+1917,31,31,Francisco Liriano,Pirates,3.7,2015
+1918,31,29,Francisco Liriano,2 Teams,0.5,2016
+1919,21,21,Francisco Liriano,Pirates,-0.2,    2016
+1920,38,18,Francisco Liriano,2 Teams,0.8,2017
+1921,18,18,Francisco Liriano,Blue Jays,0.8,    2017
+1922,20,19,Francisco Liriano,Tigers,-0.3,2018
+1923,2,1,Zack Littell,Twins,-0.3,2018
+1924,15,15,Ben Lively,Phillies,0.8,2017
+1925,5,5,Ben Lively,Phillies,0.1,2018
+1926,4,4,Jonathan Loaisiga,Yankees,0.5,2018
+1927,4,3,Walker Lockett,Padres,-0.3,2018
+1928,21,0,Boone Logan,White Sox,-0.1,2006
+1929,68,0,Boone Logan,White Sox,0.0,2007
+1930,55,0,Boone Logan,White Sox,0.2,2008
+1931,20,0,Boone Logan,Braves,0.0,2009
+1932,51,0,Boone Logan,Yankees,0.3,2010
+1933,64,0,Boone Logan,Yankees,0.6,2011
+1934,80,0,Boone Logan,Yankees,0.6,2012
+1935,61,0,Boone Logan,Yankees,0.2,2013
+1936,35,0,Boone Logan,Rockies,-0.4,2014
+1937,60,0,Boone Logan,Rockies,0.3,2015
+1938,66,0,Boone Logan,Rockies,0.8,2016
+1939,38,0,Boone Logan,Indians,0.3,2017
+1940,16,0,Boone Logan,Brewers,-0.3,2018
+1941,2,2,Jorge Lopez,Brewers,0.2,2015
+1942,1,0,Jorge Lopez,Brewers,0.0,2017
+1943,12,2,Jorge Lopez,2 Teams,0.0,2018
+1944,10,0,Jorge Lopez,Brewers,0.0,    2018
+1945,9,9,Pablo Lopez,Marlins,0.4,2018
+1946,11,6,Reynaldo Lopez,Nationals,0.5,2016
+1947,8,8,Reynaldo Lopez,White Sox,0.6,2017
+1948,25,25,Reynaldo Lopez,White Sox,0.6,2018
+1949,27,21,Michael Lorenzen,Reds,-0.5,2015
+1950,35,0,Michael Lorenzen,Reds,0.4,2016
+1951,70,0,Michael Lorenzen,Reds,0.6,2017
+1952,33,0,Michael Lorenzen,Reds,0.2,2018
+1953,33,0,Aaron Loup,Blue Jays,0.9,2012
+1954,64,0,Aaron Loup,Blue Jays,0.7,2013
+1955,71,0,Aaron Loup,Blue Jays,0.3,2014
+1956,60,0,Aaron Loup,Blue Jays,0.2,2015
+1957,21,0,Aaron Loup,Blue Jays,0.0,2016
+1958,70,0,Aaron Loup,Blue Jays,0.6,2017
+1959,54,0,Aaron Loup,2 Teams,0.3,2018
+1960,50,0,Aaron Loup,Blue Jays,0.3,    2018
+1961,5,0,Josh Lucas,Cardinals,-0.1,2017
+1962,8,1,Josh Lucas,Athletics,0.0,2018
+1963,19,19,Joey Lucchesi,Padres,0.8,2018
+1964,17,8,Seth Lugo,Mets,0.3,2016
+1965,19,18,Seth Lugo,Mets,1.7,2017
+1966,43,5,Seth Lugo,Mets,1.0,2018
+1967,20,15,Jordan Lyles,Astros,0.5,2011
+1968,25,25,Jordan Lyles,Astros,0.9,2012
+1969,27,25,Jordan Lyles,Astros,0.4,2013
+1970,22,22,Jordan Lyles,Rockies,1.2,2014
+1971,10,10,Jordan Lyles,Rockies,0.9,2015
+1972,40,5,Jordan Lyles,Rockies,0.2,2016
+1973,38,5,Jordan Lyles,2 Teams,-0.3,2017
+1974,33,0,Jordan Lyles,Rockies,-0.3,    2017
+1975,26,8,Jordan Lyles,2 Teams,0.2,2018
+1976,24,8,Jordan Lyles,Padres,0.2,    2018
+1977,18,2,Lance Lynn,Cardinals,0.5,2011
+1978,35,29,Lance Lynn,Cardinals,2.8,2012
+1979,33,33,Lance Lynn,Cardinals,3.7,2013
+1980,33,33,Lance Lynn,Cardinals,3.4,2014
+1981,31,31,Lance Lynn,Cardinals,3.1,2015
+1982,33,33,Lance Lynn,Cardinals,1.4,2017
+1983,24,23,Lance Lynn,2 Teams,1.6,2018
+1984,20,20,Lance Lynn,Twins,0.7,    2018
+1985,12,8,Tyler Lyons,Cardinals,0.5,2013
+1986,11,4,Tyler Lyons,Cardinals,0.3,2014
+1987,17,8,Tyler Lyons,Cardinals,0.1,2015
+1988,30,0,Tyler Lyons,Cardinals,0.0,2016
+1989,50,0,Tyler Lyons,Cardinals,1.0,2017
+1990,27,0,Tyler Lyons,Cardinals,-0.2,2018
+1991,1,0,Ryan Madson,Phillies,0.0,2003
+1992,52,1,Ryan Madson,Phillies,1.3,2004
+1993,78,0,Ryan Madson,Phillies,0.8,2005
+1994,50,17,Ryan Madson,Phillies,0.9,2006
+1995,38,0,Ryan Madson,Phillies,0.4,2007
+1996,76,0,Ryan Madson,Phillies,1.3,2008
+1997,79,0,Ryan Madson,Phillies,1.2,2009
+1998,55,0,Ryan Madson,Phillies,1.2,2010
+1999,62,0,Ryan Madson,Phillies,1.7,2011
+2000,68,0,Ryan Madson,Royals,0.9,2015
+2001,63,0,Ryan Madson,Athletics,0.4,2016
+2002,60,0,Ryan Madson,2 Teams,1.9,2017
+2003,40,0,Ryan Madson,Athletics,1.0,    2017
+2004,48,0,Ryan Madson,Nationals,0.1,2018
+2005,32,32,Kenta Maeda,Dodgers,3.3,2016
+2006,29,25,Kenta Maeda,Dodgers,2.0,2017
+2007,24,20,Kenta Maeda,Dodgers,2.5,2018
+2008,6,6,Matt Magill,Dodgers,-0.7,2013
+2009,5,0,Matt Magill,Reds,-0.1,2016
+2010,28,0,Matt Magill,Twins,0.1,2018
+2011,4,4,Tyler Mahle,Reds,0.3,2017
+2012,22,22,Tyler Mahle,Reds,0.2,2018
+2013,25,0,Kazuhisa Makita,Padres,-0.2,2018
+2014,0,0,Martin Maldonado,Brewers,0.0,2011
+2015,22,30,Martin Maldonado,Brewers,1.3,2012
+2016,13,22,Martin Maldonado,Brewers,-0.5,2013
+2017,14,16,Martin Maldonado,Brewers,0.7,2014
+2018,19,22,Martin Maldonado,Brewers,0.3,2015
+2019,21,21,Martin Maldonado,Brewers,0.9,2016
+2020,43,38,Martin Maldonado,Angels,1.0,2017
+2021,33,38,Martin Maldonado,2 Teams,0.8,2018
+2022,24,32,Martin Maldonado,Angels,0.6,    2018
+2023,25,24,Sean Manaea,Athletics,1.9,2016
+2024,29,29,Sean Manaea,Athletics,2.3,2017
+2025,26,26,Sean Manaea,Athletics,1.7,2018
+2026,6,0,Brandon Mann,Rangers,-0.1,2018
+2027,6,0,Dillon Maples,Cubs,0.1,2017
+2028,3,0,Dillon Maples,Cubs,-0.1,2018
+2029,4,0,Jhan Marinez,Marlins,-0.2,2010
+2030,2,0,Jhan Marinez,White Sox,0.0,2012
+2031,46,0,Jhan Marinez,2 Teams,0.5,2016
+2032,3,0,Jhan Marinez,Rays,0.0,    2016
+2033,43,0,Jhan Marinez,3 Teams,-0.1,2017
+2034,15,0,Jhan Marinez,Brewers,-0.1,    2017
+2035,8,0,Jhan Marinez,Orioles,-0.2,2018
+2036,6,3,German Marquez,Rockies,0.2,2016
+2037,29,29,German Marquez,Rockies,2.4,2017
+2038,25,25,German Marquez,Rockies,2.4,2018
+2039,57,0,Evan Marshall,Diamondbacks,0.6,2014
+2040,13,0,Evan Marshall,Diamondbacks,-0.3,2015
+2041,15,0,Evan Marshall,Diamondbacks,-0.1,2016
+2042,6,0,Evan Marshall,Mariners,-0.1,2017
+2043,10,0,Evan Marshall,Indians,0.1,2018
+2044,16,0,Chris Martin,Rockies,0.0,2014
+2045,24,0,Chris Martin,Yankees,0.1,2015
+2046,34,0,Chris Martin,Rangers,0.4,2018
+2047,2,0,Leonys Martin,Rangers,0.1,2011
+2048,6,6,Leonys Martin,Rangers,-0.3,2012
+2049,66,49,Leonys Martin,Rangers,2.9,2013
+2050,68,40,Leonys Martin,Rangers,3.6,2014
+2051,26,25,Leonys Martin,Rangers,0.7,2015
+2052,72,47,Leonys Martin,Mariners,2.2,2016
+2053,14,9,Leonys Martin,2 Teams,-0.3,2017
+2054,12,8,Leonys Martin,Mariners,-0.4,    2017
+2055,48,33,Leonys Martin,2 Teams,2.5,2018
+2056,45,29,Leonys Martin,Tigers,2.3,    2018
+2057,5,0,Carlos Martinez,White Sox,-0.4,1988
+2058,44,32,Carlos Martinez,White Sox,1.0,1989
+2059,18,24,Carlos Martinez,White Sox,-1.2,1990
+2060,22,30,Carlos Martinez,Indians,-0.3,1991
+2061,23,35,Carlos Martinez,Indians,-0.2,1992
+2062,26,31,Carlos Martinez,Indians,-1.2,1993
+2063,7,9,Carlos Martinez,Angels,-0.2,1995
+2064,21,1,Carlos Martinez,Cardinals,0.3,2013
+2065,57,7,Carlos Martinez,Cardinals,1.3,2014
+2066,31,29,Carlos Martinez,Cardinals,3.4,2015
+2067,31,31,Carlos Martinez,Cardinals,3.3,2016
+2068,32,32,Carlos Martinez,Cardinals,3.3,2017
+2069,19,18,Carlos Martinez,Cardinals,1.8,2018
+2070,12,0,Carlos Martinez,Marlins,0.2,2006
+2071,2,0,Carlos Martinez,Marlins,-0.2,2007
+2072,2,0,Carlos Martinez,Marlins,-0.1,2009
+2073,46,0,Phil Maton,Padres,-0.4,2017
+2074,35,0,Phil Maton,Padres,0.7,2018
+2075,6,6,Steven Matz,Mets,0.6,2015
+2076,22,22,Steven Matz,Mets,2.8,2016
+2077,13,13,Steven Matz,Mets,0.4,2017
+2078,23,23,Steven Matz,Mets,0.3,2018
+2079,22,14,Brandon Maurer,Mariners,-0.2,2013
+2080,38,7,Brandon Maurer,Mariners,0.7,2014
+2081,53,0,Brandon Maurer,Padres,0.6,2015
+2082,71,0,Brandon Maurer,Padres,0.8,2016
+2083,68,0,Brandon Maurer,2 Teams,0.6,2017
+2084,42,0,Brandon Maurer,Padres,0.7,    2017
+2085,26,0,Brandon Maurer,Royals,-0.4,2018
+2086,4,1,Mike Mayers,Cardinals,-0.4,2016
+2087,3,0,Mike Mayers,Cardinals,-0.1,2017
+2088,41,0,Mike Mayers,Cardinals,0.4,2018
+2089,19,0,Tim Mayza,Blue Jays,0.2,2017
+2090,19,0,Tim Mayza,Blue Jays,0.0,2018
+2091,8,0,Cory Mazzoni,Padres,-0.1,2015
+2092,6,0,Cory Mazzoni,Padres,-0.4,2017
+2093,8,0,Cory Mazzoni,Cubs,0.1,2018
+2094,4,4,Zach McAllister,Indians,0.4,2011
+2095,22,22,Zach McAllister,Indians,1.4,2012
+2096,24,24,Zach McAllister,Indians,1.6,2013
+2097,22,15,Zach McAllister,Indians,1.4,2014
+2098,61,1,Zach McAllister,Indians,0.9,2015
+2099,53,2,Zach McAllister,Indians,0.4,2016
+2100,50,0,Zach McAllister,Indians,0.4,2017
+2101,44,0,Zach McAllister,2 Teams,0.0,2018
+2102,41,0,Zach McAllister,Indians,-0.1,    2018
+2103,12,10,Brandon McCarthy,White Sox,0.5,2005
+2104,53,2,Brandon McCarthy,White Sox,0.0,2006
+2105,23,22,Brandon McCarthy,Rangers,1.1,2007
+2106,5,5,Brandon McCarthy,Rangers,0.1,2008
+2107,17,17,Brandon McCarthy,Rangers,1.0,2009
+2108,25,25,Brandon McCarthy,Athletics,4.4,2011
+2109,18,18,Brandon McCarthy,Athletics,1.8,2012
+2110,22,22,Brandon McCarthy,Diamondbacks,1.7,2013
+2111,32,32,Brandon McCarthy,2 Teams,2.9,2014
+2112,18,18,Brandon McCarthy,Diamondbacks,1.1,    2014
+2113,4,4,Brandon McCarthy,Dodgers,-0.3,2015
+2114,10,9,Brandon McCarthy,Dodgers,0.7,2016
+2115,19,16,Brandon McCarthy,Dodgers,2.4,2017
+2116,15,15,Brandon McCarthy,Braves,0.2,2018
+2117,10,0,Kevin McCarthy,Royals,-0.1,2016
+2118,33,0,Kevin McCarthy,Royals,0.2,2017
+2119,48,0,Kevin McCarthy,Royals,-0.2,2018
+2120,8,0,Jake McGee,Rays,0.1,2010
+2121,37,0,Jake McGee,Rays,-0.2,2011
+2122,69,0,Jake McGee,Rays,2.0,2012
+2123,71,0,Jake McGee,Rays,0.6,2013
+2124,73,0,Jake McGee,Rays,2.6,2014
+2125,39,0,Jake McGee,Rays,1.1,2015
+2126,57,0,Jake McGee,Rockies,-0.3,2016
+2127,62,0,Jake McGee,Rockies,1.5,2017
+2128,49,0,Jake McGee,Rockies,-0.1,2018
+2129,17,0,Kyle McGrath,Padres,0.1,2017
+2130,4,0,Kyle McGrath,Padres,-0.2,2018
+2131,6,2,Deck McGuire,Reds,0.3,2017
+2132,13,4,Deck McGuire,2 Teams,-0.7,2018
+2133,4,0,Deck McGuire,Blue Jays,-0.1,    2018
+2134,8,4,Collin McHugh,Mets,-0.2,2012
+2135,7,5,Collin McHugh,2 Teams,-0.1,2013
+2136,3,1,Collin McHugh,Mets,-0.1,    2013
+2137,25,25,Collin McHugh,Astros,3.2,2014
+2138,32,32,Collin McHugh,Astros,3.7,2015
+2139,33,33,Collin McHugh,Astros,3.1,2016
+2140,12,12,Collin McHugh,Astros,1.1,2017
+2141,43,0,Collin McHugh,Astros,1.1,2018
+2142,37,4,Kris Medlen,Braves,0.9,2009
+2143,31,14,Kris Medlen,Braves,1.2,2010
+2144,2,0,Kris Medlen,Braves,0.2,2011
+2145,50,12,Kris Medlen,Braves,3.6,2012
+2146,32,31,Kris Medlen,Braves,2.6,2013
+2147,15,8,Kris Medlen,Royals,0.5,2015
+2148,6,6,Kris Medlen,Royals,0.0,2016
+2149,1,1,Kris Medlen,Diamondbacks,0.1,2018
+2150,6,0,Ryan Meisinger,Orioles,-0.2,2018
+2151,1,0,Adalberto Mejia,Twins,0.0,2016
+2152,21,21,Adalberto Mejia,Twins,1.0,2017
+2153,5,4,Adalberto Mejia,Twins,0.3,2018
+2154,13,0,Mark Melancon,Yankees,0.0,2009
+2155,22,0,Mark Melancon,2 Teams,0.3,2010
+2156,2,0,Mark Melancon,Yankees,0.0,    2010
+2157,71,0,Mark Melancon,Astros,0.8,2011
+2158,41,0,Mark Melancon,Red Sox,-0.2,2012
+2159,72,0,Mark Melancon,Pirates,2.5,2013
+2160,72,0,Mark Melancon,Pirates,2.0,2014
+2161,78,0,Mark Melancon,Pirates,1.6,2015
+2162,75,0,Mark Melancon,2 Teams,1.8,2016
+2163,45,0,Mark Melancon,Pirates,0.9,    2016
+2164,32,0,Mark Melancon,Giants,0.4,2017
+2165,27,0,Mark Melancon,Giants,0.3,2018
+2166,2,0,Yohander Mendez,Rangers,0.0,2016
+2167,7,0,Yohander Mendez,Rangers,-0.1,2017
+2168,2,1,Yohander Mendez,Rangers,-0.1,2018
+2169,14,14,Daniel Mengden,Athletics,0.7,2016
+2170,7,7,Daniel Mengden,Athletics,0.6,2017
+2171,16,16,Daniel Mengden,Athletics,0.5,2018
+2172,9,0,Ben Meyer,Marlins,0.0,2018
+2173,64,0,Keynan Middleton,Angels,0.2,2017
+2174,16,0,Keynan Middleton,Angels,0.2,2018
+2175,25,0,Miles Mikolas,Padres,-0.3,2012
+2176,2,0,Miles Mikolas,Padres,0.0,2013
+2177,10,10,Miles Mikolas,Rangers,0.1,2014
+2178,25,25,Miles Mikolas,Cardinals,3.2,2018
+2179,8,7,Wade Miley,Diamondbacks,-0.1,2011
+2180,32,29,Wade Miley,Diamondbacks,4.1,2012
+2181,33,33,Wade Miley,Diamondbacks,1.8,2013
+2182,33,33,Wade Miley,Diamondbacks,1.6,2014
+2183,32,32,Wade Miley,Red Sox,2.6,2015
+2184,30,30,Wade Miley,2 Teams,1.5,2016
+2185,19,19,Wade Miley,Mariners,0.6,    2016
+2186,32,32,Wade Miley,Orioles,0.8,2017
+2187,9,9,Wade Miley,Brewers,0.6,2018
+2188,8,0,Andrew Miller,Tigers,-0.1,2006
+2189,13,13,Andrew Miller,Tigers,0.3,2007
+2190,29,20,Andrew Miller,Marlins,1.6,2008
+2191,20,14,Andrew Miller,Marlins,0.7,2009
+2192,9,7,Andrew Miller,Marlins,-0.4,2010
+2193,17,12,Andrew Miller,Red Sox,-0.2,2011
+2194,53,0,Andrew Miller,Red Sox,0.6,2012
+2195,37,0,Andrew Miller,Red Sox,0.3,2013
+2196,73,0,Andrew Miller,2 Teams,2.3,2014
+2197,50,0,Andrew Miller,Red Sox,1.3,    2014
+2198,60,0,Andrew Miller,Yankees,2.0,2015
+2199,70,0,Andrew Miller,2 Teams,3.0,2016
+2200,44,0,Andrew Miller,Yankees,1.9,    2016
+2201,57,0,Andrew Miller,Indians,2.3,2017
+2202,25,0,Andrew Miller,Indians,0.4,2018
+2203,8,0,Justin Miller,Tigers,-0.1,2014
+2204,34,0,Justin Miller,Rockies,0.7,2015
+2205,40,0,Justin Miller,Rockies,0.1,2016
+2206,36,0,Justin Miller,Nationals,-0.1,2018
+2207,25,18,Justin Miller,Blue Jays,0.2,2002
+2208,19,15,Justin Miller,Blue Jays,-0.1,2004
+2209,1,0,Justin Miller,Blue Jays,-0.4,2005
+2210,62,0,Justin Miller,Marlins,1.2,2007
+2211,46,0,Justin Miller,Marlins,0.3,2008
+2212,44,0,Justin Miller,Giants,-0.4,2009
+2213,19,0,Justin Miller,Dodgers,0.0,2010
+2214,37,0,Hoby Milner,Phillies,0.1,2017
+2215,12,0,Hoby Milner,2 Teams,-0.4,2018
+2216,10,0,Hoby Milner,Phillies,-0.1,    2018
+2217,11,0,Juan Minaya,White Sox,0.0,2016
+2218,40,0,Juan Minaya,White Sox,0.1,2017
+2219,35,0,Juan Minaya,White Sox,0.3,2018
+2220,9,8,Mike Minor,Braves,0.6,2010
+2221,15,15,Mike Minor,Braves,1.3,2011
+2222,30,30,Mike Minor,Braves,1.2,2012
+2223,32,32,Mike Minor,Braves,3.5,2013
+2224,25,25,Mike Minor,Braves,0.2,2014
+2225,65,0,Mike Minor,Royals,2.1,2017
+2226,22,22,Mike Minor,Rangers,1.5,2018
+2227,12,10,Ariel Miranda,2 Teams,0.1,2016
+2228,1,0,Ariel Miranda,Orioles,0.1,    2016
+2229,31,29,Ariel Miranda,Mariners,0.1,2017
+2230,1,1,Ariel Miranda,Mariners,0.1,2018
+2231,7,2,Frankie Montas,White Sox,0.2,2015
+2232,23,0,Frankie Montas,Athletics,-0.7,2017
+2233,10,10,Frankie Montas,Athletics,0.9,2018
+2234,29,29,Jordan Montgomery,Yankees,2.7,2017
+2235,6,6,Jordan Montgomery,Yankees,0.5,2018
+2236,16,16,Mike Montgomery,Mariners,0.3,2015
+2237,49,7,Mike Montgomery,2 Teams,0.9,2016
+2238,32,2,Mike Montgomery,Mariners,0.9,    2016
+2239,44,14,Mike Montgomery,Cubs,1.3,2017
+2240,32,13,Mike Montgomery,Cubs,1.1,2018
+2241,3,1,Matt Moore,Rays,0.4,2011
+2242,31,31,Matt Moore,Rays,2.7,2012
+2243,27,27,Matt Moore,Rays,1.8,2013
+2244,2,2,Matt Moore,Rays,0.0,2014
+2245,12,12,Matt Moore,Rays,0.3,2015
+2246,33,33,Matt Moore,2 Teams,2.3,2016
+2247,21,21,Matt Moore,Rays,1.1,    2016
+2248,32,31,Matt Moore,Giants,1.0,2017
+2249,28,12,Matt Moore,Rangers,0.2,2018
+2250,15,15,Adam Morgan,Phillies,0.4,2015
+2251,23,21,Adam Morgan,Phillies,0.6,2016
+2252,37,0,Adam Morgan,Phillies,0.3,2017
+2253,53,0,Adam Morgan,Phillies,0.3,2018
+2254,60,0,Mike Morin,Angels,0.6,2014
+2255,47,0,Mike Morin,Angels,0.6,2015
+2256,60,0,Mike Morin,Angels,0.6,2016
+2257,16,0,Mike Morin,2 Teams,0.0,2017
+2258,10,0,Mike Morin,Angels,-0.1,    2017
+2259,3,0,Mike Morin,Mariners,0.1,2018
+2260,7,0,Reyes Moronta,Giants,0.1,2017
+2261,59,0,Reyes Moronta,Giants,1.2,2018
+2262,1,0,Akeel Morris,Mets,-0.1,2015
+2263,8,0,Akeel Morris,Braves,0.1,2017
+2264,9,0,Akeel Morris,Angels,-0.2,2018
+2265,60,0,Brandon Morrow,Mariners,0.3,2007
+2266,45,5,Brandon Morrow,Mariners,0.4,2008
+2267,26,10,Brandon Morrow,Mariners,0.1,2009
+2268,26,26,Brandon Morrow,Blue Jays,3.6,2010
+2269,30,30,Brandon Morrow,Blue Jays,3.2,2011
+2270,21,21,Brandon Morrow,Blue Jays,2.4,2012
+2271,10,10,Brandon Morrow,Blue Jays,-0.1,2013
+2272,13,6,Brandon Morrow,Blue Jays,0.3,2014
+2273,5,5,Brandon Morrow,Padres,0.5,2015
+2274,18,0,Brandon Morrow,Padres,0.0,2016
+2275,45,0,Brandon Morrow,Dodgers,1.7,2017
+2276,35,0,Brandon Morrow,Cubs,0.6,2018
+2277,14, ,Charlie Morton,2 Teams,0.1,1882
+2278,12, ,Charlie Morton,Alleghenys,0.4,    1882
+2279,11,0,Charlie Morton,Blue Stockings,-0.2,1884
+2280,9,3,Charlie Morton,Wolverines,-0.2,1885
+2281,16,15,Charlie Morton,Braves,0.2,2008
+2282,18,18,Charlie Morton,Pirates,1.3,2009
+2283,17,17,Charlie Morton,Pirates,-0.3,2010
+2284,29,29,Charlie Morton,Pirates,1.8,2011
+2285,9,9,Charlie Morton,Pirates,0.3,2012
+2286,20,20,Charlie Morton,Pirates,1.5,2013
+2287,26,26,Charlie Morton,Pirates,1.6,2014
+2288,23,23,Charlie Morton,Pirates,1.0,2015
+2289,4,4,Charlie Morton,Phillies,0.4,2016
+2290,25,25,Charlie Morton,Astros,3.3,2017
+2291,24,24,Charlie Morton,Astros,3.0,2018
+2292,11,9,Taylor Motter,Rays,-0.1,2016
+2293,29,26,Taylor Motter,Mariners,-0.6,2017
+2294,2,2,Taylor Motter,2 Teams,-0.3,2018
+2295,2,1,Taylor Motter,Mariners,0.1,    2018
+2296,7,0,Gabriel Moya,Twins,-0.1,2017
+2297,19,0,Gabriel Moya,Twins,0.1,2018
+2298,15,0,Peter Moylan,Braves,0.2,2006
+2299,80,0,Peter Moylan,Braves,0.5,2007
+2300,7,0,Peter Moylan,Braves,0.0,2008
+2301,87,0,Peter Moylan,Braves,1.4,2009
+2302,85,0,Peter Moylan,Braves,-0.3,2010
+2303,13,0,Peter Moylan,Braves,0.2,2011
+2304,8,0,Peter Moylan,Braves,-0.1,2012
+2305,14,0,Peter Moylan,Dodgers,-0.4,2013
+2306,22,0,Peter Moylan,Braves,0.2,2015
+2307,50,0,Peter Moylan,Royals,0.2,2016
+2308,79,0,Peter Moylan,Royals,0.3,2017
+2309,39,0,Peter Moylan,Braves,-0.4,2018
+2310,24,0,Harrison Musgrave,Rockies,-0.4,2018
+2311,11,10,Joe Musgrove,Astros,0.8,2016
+2312,38,15,Joe Musgrove,Astros,1.1,2017
+2313,14,14,Joe Musgrove,Pirates,1.7,2018
+2314,24,6,Zach Neal,Athletics,0.3,2016
+2315,6,0,Zach Neal,Athletics,-0.2,2017
+2316,1,0,Zach Neal,Dodgers,-0.1,2018
+2317,1,0,Hector Neris,Phillies,0.1,2014
+2318,32,0,Hector Neris,Phillies,-0.2,2015
+2319,79,0,Hector Neris,Phillies,1.2,2016
+2320,74,0,Hector Neris,Phillies,1.1,2017
+2321,37,0,Hector Neris,Phillies,-0.5,2018
+2322,32,0,Pat Neshek,Twins,0.8,2006
+2323,74,0,Pat Neshek,Twins,0.9,2007
+2324,15,0,Pat Neshek,Twins,0.1,2008
+2325,11,0,Pat Neshek,Twins,-0.1,2010
+2326,25,0,Pat Neshek,Padres,-0.6,2011
+2327,24,0,Pat Neshek,Athletics,0.0,2012
+2328,45,0,Pat Neshek,Athletics,-0.2,2013
+2329,71,0,Pat Neshek,Cardinals,1.9,2014
+2330,66,0,Pat Neshek,Astros,0.2,2015
+2331,60,0,Pat Neshek,Astros,0.5,2016
+2332,71,0,Pat Neshek,2 Teams,2.5,2017
+2333,43,0,Pat Neshek,Phillies,1.5,    2017
+2334,17,0,Pat Neshek,Phillies,0.5,2018
+2335,24,0,Dovydas Neverauskas,Pirates,-0.1,2017
+2336,15,0,Dovydas Neverauskas,Pirates,-0.4,2018
+2337,19,19,Sean Newcomb,Braves,1.3,2017
+2338,24,24,Sean Newcomb,Braves,1.6,2018
+2339,13,13,Juan Nicasio,Rockies,1.2,2011
+2340,11,11,Juan Nicasio,Rockies,0.8,2012
+2341,31,31,Juan Nicasio,Rockies,1.8,2013
+2342,33,14,Juan Nicasio,Rockies,-0.4,2014
+2343,53,1,Juan Nicasio,Dodgers,0.9,2015
+2344,52,12,Juan Nicasio,Pirates,1.4,2016
+2345,76,0,Juan Nicasio,3 Teams,1.4,2017
+2346,65,0,Juan Nicasio,Pirates,1.2,    2017
+2347,46,0,Juan Nicasio,Mariners,0.8,2018
+2348,13,13,Aaron Nola,Phillies,0.9,2015
+2349,20,20,Aaron Nola,Phillies,2.8,2016
+2350,27,27,Aaron Nola,Phillies,4.3,2017
+2351,25,25,Aaron Nola,Phillies,5.0,2018
+2352,11,10,Bud Norris,Astros,0.5,2009
+2353,27,27,Bud Norris,Astros,1.7,2010
+2354,31,31,Bud Norris,Astros,2.0,2011
+2355,29,29,Bud Norris,Astros,1.7,2012
+2356,32,30,Bud Norris,2 Teams,2.7,2013
+2357,21,21,Bud Norris,Astros,1.8,    2013
+2358,28,28,Bud Norris,Orioles,1.4,2014
+2359,38,11,Bud Norris,2 Teams,0.0,2015
+2360,18,11,Bud Norris,Orioles,-0.3,    2015
+2361,35,19,Bud Norris,2 Teams,0.7,2016
+2362,22,10,Bud Norris,Braves,0.8,    2016
+2363,60,3,Bud Norris,Angels,0.6,2017
+2364,54,0,Bud Norris,Cardinals,1.1,2018
+2365,5,1,Daniel Norris,Blue Jays,-0.1,2014
+2366,13,13,Daniel Norris,2 Teams,0.5,2015
+2367,5,5,Daniel Norris,Blue Jays,0.1,    2015
+2368,14,13,Daniel Norris,Tigers,1.1,2016
+2369,22,18,Daniel Norris,Tigers,1.3,2017
+2370,5,2,Daniel Norris,Tigers,-0.1,2018
+2371,4,0,James Norwood,Cubs,0.1,2018
+2372,10,7,Ivan Nova,Yankees,0.4,2010
+2373,28,27,Ivan Nova,Yankees,2.3,2011
+2374,28,28,Ivan Nova,Yankees,1.5,2012
+2375,23,20,Ivan Nova,Yankees,2.5,2013
+2376,4,4,Ivan Nova,Yankees,-0.4,2014
+2377,17,17,Ivan Nova,Yankees,0.5,2015
+2378,32,26,Ivan Nova,2 Teams,2.3,2016
+2379,21,15,Ivan Nova,Yankees,0.4,    2016
+2380,31,31,Ivan Nova,Pirates,1.9,2017
+2381,24,24,Ivan Nova,Pirates,1.0,2018
+2382,5,3,Vidal Nuno,Yankees,0.2,2013
+2383,31,28,Vidal Nuno,2 Teams,0.8,2014
+2384,17,14,Vidal Nuno,Yankees,0.0,    2014
+2385,35,10,Vidal Nuno,2 Teams,0.4,2015
+2386,3,0,Vidal Nuno,Diamondbacks,0.3,    2015
+2387,55,1,Vidal Nuno,Mariners,0.0,2016
+2388,12,0,Vidal Nuno,Orioles,-0.5,2017
+2389,9,0,Vidal Nuno,Rays,-0.1,2018
+2390,30,0,Darren O'Day,Angels,0.3,2008
+2391,68,0,Darren O'Day,2 Teams,1.3,2009
+2392,4,0,Darren O'Day,Mets,0.0,    2009
+2393,72,0,Darren O'Day,Rangers,1.1,2010
+2394,16,0,Darren O'Day,Rangers,-0.5,2011
+2395,69,0,Darren O'Day,Orioles,1.5,2012
+2396,68,0,Darren O'Day,Orioles,0.7,2013
+2397,68,0,Darren O'Day,Orioles,0.9,2014
+2398,68,0,Darren O'Day,Orioles,1.8,2015
+2399,34,0,Darren O'Day,Orioles,0.1,2016
+2400,64,0,Darren O'Day,Orioles,0.8,2017
+2401,20,0,Darren O'Day,Orioles,0.4,2018
+2402,13,6,Chris O'Grady,Marlins,0.2,2017
+2403,8,0,Chris O'Grady,Marlins,-0.2,2018
+2404,4,2,Trevor Oaks,Royals,0.2,2018
+2405,64,0,Scott Oberg,Rockies,-0.9,2015
+2406,24,0,Scott Oberg,Rockies,0.1,2016
+2407,66,0,Scott Oberg,Rockies,0.8,2017
+2408,37,0,Scott Oberg,Rockies,0.4,2018
+2409,2,2,Jake Odorizzi,Royals,0.0,2012
+2410,7,4,Jake Odorizzi,Rays,0.3,2013
+2411,31,31,Jake Odorizzi,Rays,2.0,2014
+2412,28,28,Jake Odorizzi,Rays,2.9,2015
+2413,33,33,Jake Odorizzi,Rays,2.1,2016
+2414,28,28,Jake Odorizzi,Rays,0.1,2017
+2415,26,26,Jake Odorizzi,Twins,1.9,2018
+2416,44,0,Alexi Ogando,Rangers,0.8,2010
+2417,31,29,Alexi Ogando,Rangers,3.3,2011
+2418,58,1,Alexi Ogando,Rangers,0.8,2012
+2419,23,18,Alexi Ogando,Rangers,0.9,2013
+2420,27,0,Alexi Ogando,Rangers,0.1,2014
+2421,64,0,Alexi Ogando,Red Sox,-0.9,2015
+2422,36,0,Alexi Ogando,Braves,0.0,2016
+2423,1,0,Alexi Ogando,Indians,-0.1,2018
+2424,76,0,Seunghwan Oh,Cardinals,2.6,2016
+2425,62,0,Seunghwan Oh,Cardinals,0.1,2017
+2426,59,0,Seunghwan Oh,2 Teams,1.0,2018
+2427,48,0,Seunghwan Oh,Blue Jays,0.9,    2018
+2428,35,38,Shohei Ohtani,Angels,1.5,2018
+2429,11,0,Tyler Olson,Mariners,-0.4,2015
+2430,1,0,Tyler Olson,Yankees,0.0,2016
+2431,30,0,Tyler Olson,Indians,0.5,2017
+2432,32,0,Tyler Olson,Indians,0.1,2018
+2433,35,0,Josh Osich,Giants,0.0,2015
+2434,59,0,Josh Osich,Giants,-1.1,2016
+2435,54,0,Josh Osich,Giants,-0.4,2017
+2436,12,0,Josh Osich,Giants,-0.2,2018
+2437,68,0,Roberto Osuna,Blue Jays,1.3,2015
+2438,72,0,Roberto Osuna,Blue Jays,1.8,2016
+2439,66,0,Roberto Osuna,Blue Jays,3.0,2017
+2440,21,0,Roberto Osuna,2 Teams,0.8,2018
+2441,15,0,Roberto Osuna,Blue Jays,0.5,    2018
+2442,10,8,Corey Oswalt,Mets,-0.3,2018
+2443,12,0,Dan Otero,Giants,0.1,2012
+2444,33,0,Dan Otero,Athletics,0.8,2013
+2445,72,0,Dan Otero,Athletics,0.6,2014
+2446,41,0,Dan Otero,Athletics,-0.2,2015
+2447,62,0,Dan Otero,Indians,1.6,2016
+2448,52,0,Dan Otero,Indians,0.4,2017
+2449,47,0,Dan Otero,Indians,0.0,2018
+2450,5,3,Adam Ottavino,Cardinals,-0.3,2010
+2451,53,0,Adam Ottavino,Rockies,0.5,2012
+2452,51,0,Adam Ottavino,Rockies,1.1,2013
+2453,75,0,Adam Ottavino,Rockies,1.1,2014
+2454,10,0,Adam Ottavino,Rockies,0.4,2015
+2455,34,0,Adam Ottavino,Rockies,0.6,2016
+2456,63,0,Adam Ottavino,Rockies,-0.1,2017
+2457,58,0,Adam Ottavino,Rockies,2.1,2018
+2458,34,0,Emilio Pagan,Mariners,0.8,2017
+2459,45,0,Emilio Pagan,Athletics,0.0,2018
+2460,18,0,Eduardo Paredes,Angels,0.1,2017
+2461,14,0,Eduardo Paredes,Angels,-0.3,2018
+2462,10,0,Edward Paredes,Dodgers,0.2,2017
+2463,15,0,Edward Paredes,Dodgers,-0.1,2018
+2464,7,0,Blake Parker,Cubs,-0.3,2012
+2465,49,0,Blake Parker,Cubs,0.6,2013
+2466,18,0,Blake Parker,Cubs,0.1,2014
+2467,17,0,Blake Parker,2 Teams,0.1,2016
+2468,1,0,Blake Parker,Mariners,0.0,    2016
+2469,71,0,Blake Parker,Angels,1.6,2017
+2470,55,0,Blake Parker,Angels,0.0,2018
+2471,4,4,James Paxton,Mariners,0.4,2013
+2472,13,13,James Paxton,Mariners,1.2,2014
+2473,13,13,James Paxton,Mariners,0.5,2015
+2474,20,20,James Paxton,Mariners,3.5,2016
+2475,24,24,James Paxton,Mariners,4.6,2017
+2476,24,24,James Paxton,Mariners,3.4,2018
+2477,11,0,James Pazos,Yankees,0.0,2015
+2478,7,0,James Pazos,Yankees,-0.2,2016
+2479,59,0,James Pazos,Mariners,0.3,2017
+2480,49,0,James Pazos,Mariners,0.6,2018
+2481,3,2,Brad Peacock,Nationals,0.1,2011
+2482,18,14,Brad Peacock,Astros,0.1,2013
+2483,28,24,Brad Peacock,Astros,-0.2,2014
+2484,1,1,Brad Peacock,Astros,0.1,2015
+2485,10,5,Brad Peacock,Astros,0.0,2016
+2486,34,21,Brad Peacock,Astros,3.4,2017
+2487,50,1,Brad Peacock,Astros,0.6,2018
+2488,11,0,Felix Pena,Cubs,0.2,2016
+2489,25,0,Felix Pena,Cubs,-0.2,2017
+2490,13,11,Felix Pena,Angels,0.6,2018
+2491,14,9,Cliff Pennington,Athletics,-0.3,2008
+2492,27,21,Cliff Pennington,Athletics,0.6,2009
+2493,64,46,Cliff Pennington,Athletics,3.5,2010
+2494,57,58,Cliff Pennington,Athletics,1.3,2011
+2495,50,28,Cliff Pennington,Athletics,1.0,2012
+2496,25,18,Cliff Pennington,Diamondbacks,0.4,2013
+2497,21,10,Cliff Pennington,Diamondbacks,1.4,2014
+2498,24,21,Cliff Pennington,2 Teams,-0.6,2015
+2499,15,10,Cliff Pennington,Diamondbacks,-0.4,    2015
+2500,18,10,Cliff Pennington,Angels,-0.1,2016
+2501,23,21,Cliff Pennington,Angels,0.4,2017
+2502,1,0,Cliff Pennington,Reds,-0.4,2018
+2503,12,12,Freddy Peralta,Brewers,1.1,2018
+2504,10,0,Wandy Peralta,Reds,-0.2,2016
+2505,69,0,Wandy Peralta,Reds,0.4,2017
+2506,47,0,Wandy Peralta,Reds,-0.1,2018
+2507,6,5,Wily Peralta,Brewers,0.8,2012
+2508,32,32,Wily Peralta,Brewers,1.4,2013
+2509,32,32,Wily Peralta,Brewers,1.8,2014
+2510,20,20,Wily Peralta,Brewers,0.3,2015
+2511,23,23,Wily Peralta,Brewers,0.9,2016
+2512,19,8,Wily Peralta,Brewers,0.0,2017
+2513,22,0,Wily Peralta,Royals,0.2,2018
+2514,35,20,Luis Perdomo,Padres,0.2,2016
+2515,29,29,Luis Perdomo,Padres,1.6,2017
+2516,9,9,Luis Perdomo,Padres,0.2,2018
+2517,35,0,Luis Perdomo,Padres,-0.6,2009
+2518,1,0,Luis Perdomo,Padres,-0.1,2010
+2519,15,0,Luis Perdomo,Twins,-0.1,2012
+2520,6,0,Cionel Perez,Astros,0.0,2018
+2521,1,0,Hernan Perez,Tigers,0.0,2012
+2522,13,5,Hernan Perez,Tigers,-0.4,2013
+2523,1,0,Hernan Perez,Tigers,0.0,2014
+2524,14,21,Hernan Perez,2 Teams,-0.3,2015
+2525,1,0,Hernan Perez,Tigers,-0.7,    2015
+2526,50,56,Hernan Perez,Brewers,1.1,2016
+2527,47,51,Hernan Perez,Brewers,0.6,2017
+2528,27,28,Hernan Perez,Brewers,0.6,2018
+2529,12,6,Martin Perez,Rangers,0.4,2012
+2530,20,20,Martin Perez,Rangers,1.3,2013
+2531,8,8,Martin Perez,Rangers,0.6,2014
+2532,14,14,Martin Perez,Rangers,1.7,2015
+2533,33,33,Martin Perez,Rangers,1.9,2016
+2534,32,32,Martin Perez,Rangers,1.9,2017
+2535,12,12,Martin Perez,Rangers,-0.4,2018
+2536,16,15,Oliver Perez,Padres,0.6,2002
+2537,24,24,Oliver Perez,2 Teams,0.4,2003
+2538,19,19,Oliver Perez,Padres,0.0,    2003
+2539,30,30,Oliver Perez,Pirates,4.5,2004
+2540,20,20,Oliver Perez,Pirates,-0.8,2005
+2541,22,22,Oliver Perez,2 Teams,0.1,2006
+2542,15,15,Oliver Perez,Pirates,-0.1,    2006
+2543,29,29,Oliver Perez,Mets,2.7,2007
+2544,34,34,Oliver Perez,Mets,1.7,2008
+2545,14,14,Oliver Perez,Mets,-0.7,2009
+2546,17,7,Oliver Perez,Mets,-1.1,2010
+2547,33,0,Oliver Perez,Mariners,0.6,2012
+2548,61,0,Oliver Perez,Mariners,0.7,2013
+2549,68,0,Oliver Perez,Diamondbacks,0.6,2014
+2550,70,0,Oliver Perez,2 Teams,0.5,2015
+2551,48,0,Oliver Perez,Diamondbacks,0.4,    2015
+2552,64,0,Oliver Perez,Nationals,0.1,2016
+2553,50,0,Oliver Perez,Nationals,0.3,2017
+2554,32,0,Oliver Perez,Indians,0.6,2018
+2555,6,6,Dillon Peters,Marlins,0.2,2017
+2556,7,5,Dillon Peters,Marlins,-0.1,2018
+2557,19,0,Tim Peterson,Mets,-0.6,2018
+2558,15,1,Yusmeiro Petit,Marlins,-0.1,2006
+2559,14,10,Yusmeiro Petit,Diamondbacks,0.2,2007
+2560,19,8,Yusmeiro Petit,Diamondbacks,0.2,2008
+2561,23,17,Yusmeiro Petit,Diamondbacks,0.2,2009
+2562,1,1,Yusmeiro Petit,Giants,0.0,2012
+2563,8,7,Yusmeiro Petit,Giants,0.9,2013
+2564,39,12,Yusmeiro Petit,Giants,1.8,2014
+2565,42,1,Yusmeiro Petit,Giants,-0.1,2015
+2566,36,1,Yusmeiro Petit,Nationals,-0.2,2016
+2567,60,1,Yusmeiro Petit,Angels,2.2,2017
+2568,58,0,Yusmeiro Petit,Athletics,0.3,2018
+2569,16,0,Jake Petricka,White Sox,0.1,2013
+2570,67,0,Jake Petricka,White Sox,0.5,2014
+2571,62,0,Jake Petricka,White Sox,0.5,2015
+2572,9,0,Jake Petricka,White Sox,-0.1,2016
+2573,27,0,Jake Petricka,White Sox,-0.1,2017
+2574,28,0,Jake Petricka,Blue Jays,0.0,2018
+2575,8,0,Evan Phillips,2 Teams,-0.4,2018
+2576,4,0,Evan Phillips,Braves,-0.2,    2018
+2577,26,26,Nick Pivetta,Phillies,1.1,2017
+2578,26,25,Nick Pivetta,Phillies,2.8,2018
+2579,18,21,Kevin Plawecki,Mets,0.1,2015
+2580,6,11,Kevin Plawecki,Mets,-0.1,2016
+2581,11,13,Kevin Plawecki,Mets,0.6,2017
+2582,26,24,Kevin Plawecki,Mets,0.7,2018
+2583,2,0,Adam Plutko,Indians,0.0,2016
+2584,10,7,Adam Plutko,Indians,0.0,2018
+2585,4,4,Drew Pomeranz,Rockies,0.7,2011
+2586,22,22,Drew Pomeranz,Rockies,0.7,2012
+2587,8,4,Drew Pomeranz,Rockies,-0.3,2013
+2588,20,10,Drew Pomeranz,Athletics,0.6,2014
+2589,53,9,Drew Pomeranz,Athletics,1.3,2015
+2590,31,30,Drew Pomeranz,2 Teams,2.9,2016
+2591,17,17,Drew Pomeranz,Padres,2.4,    2016
+2592,32,32,Drew Pomeranz,Red Sox,3.1,2017
+2593,16,11,Drew Pomeranz,Red Sox,-0.4,2018
+2594,31,31,Rick Porcello,Tigers,1.3,2009
+2595,27,27,Rick Porcello,Tigers,1.7,2010
+2596,31,31,Rick Porcello,Tigers,2.2,2011
+2597,31,31,Rick Porcello,Tigers,2.8,2012
+2598,32,29,Rick Porcello,Tigers,2.9,2013
+2599,32,31,Rick Porcello,Tigers,2.8,2014
+2600,28,28,Rick Porcello,Red Sox,1.6,2015
+2601,33,33,Rick Porcello,Red Sox,5.1,2016
+2602,33,33,Rick Porcello,Red Sox,2.0,2017
+2603,26,26,Rick Porcello,Red Sox,2.4,2018
+2604,13,0,Brooks Pounders,Royals,-0.5,2016
+2605,11,0,Brooks Pounders,Angels,-0.2,2017
+2606,14,0,Brooks Pounders,Rockies,0.0,2018
+2607,10,0,Bobby Poyner,Red Sox,0.3,2018
+2608,49,0,Ryan Pressly,Twins,0.3,2013
+2609,25,0,Ryan Pressly,Twins,-0.2,2014
+2610,27,0,Ryan Pressly,Twins,0.5,2015
+2611,72,0,Ryan Pressly,Twins,0.9,2016
+2612,57,0,Ryan Pressly,Twins,0.1,2017
+2613,60,0,Ryan Pressly,2 Teams,1.1,2018
+2614,51,0,Ryan Pressly,Twins,0.8,    2018
+2615,5,1,David Price,Rays,0.2,2008
+2616,23,23,David Price,Rays,1.3,2009
+2617,32,31,David Price,Rays,4.2,2010
+2618,34,34,David Price,Rays,4.4,2011
+2619,31,31,David Price,Rays,5.0,2012
+2620,27,27,David Price,Rays,4.4,2013
+2621,34,34,David Price,2 Teams,6.0,2014
+2622,23,23,David Price,Rays,3.8,    2014
+2623,32,32,David Price,2 Teams,6.5,2015
+2624,21,21,David Price,Tigers,3.8,    2015
+2625,35,35,David Price,Red Sox,4.4,2016
+2626,16,11,David Price,Red Sox,1.5,2017
+2627,24,24,David Price,Red Sox,2.2,2018
+2628,30,8,Austin Pruitt,Rays,0.6,2017
+2629,20,0,Austin Pruitt,Rays,0.0,2018
+2630,56,0,Kevin Quackenbush,Padres,0.9,2014
+2631,57,0,Kevin Quackenbush,Padres,0.2,2015
+2632,60,0,Kevin Quackenbush,Padres,-0.2,2016
+2633,20,0,Kevin Quackenbush,Padres,-0.3,2017
+2634,10,0,Kevin Quackenbush,Reds,-0.3,2018
+2635,25,22,Jose Quintana,White Sox,1.6,2012
+2636,33,33,Jose Quintana,White Sox,3.5,2013
+2637,32,32,Jose Quintana,White Sox,5.1,2014
+2638,32,32,Jose Quintana,White Sox,4.7,2015
+2639,32,32,Jose Quintana,White Sox,4.7,2016
+2640,32,32,Jose Quintana,2 Teams,3.9,2017
+2641,18,18,Jose Quintana,White Sox,1.9,    2017
+2642,24,24,Jose Quintana,Cubs,0.6,2018
+2643,8,0,Tanner Rainey,Reds,-0.5,2018
+2644,12,0,Carlos Ramirez,Blue Jays,0.1,2017
+2645,5,0,Carlos Ramirez,2 Teams,-0.1,2018
+2646,2,0,Carlos Ramirez,Blue Jays,0.0,    2018
+2647,34,0,Erasmo Ramirez,Rangers,0.5,2003
+2648,34,0,Erasmo Ramirez,Rangers,0.2,2004
+2649,16,0,Erasmo Ramirez,Rangers,-0.1,2005
+2650,7,0,Erasmo Ramirez,2 Teams,0.0,2007
+2651,3,0,Erasmo Ramirez,Athletics,0.0,    2007
+2652,16,8,Erasmo Ramirez,Mariners,1.0,2012
+2653,14,13,Erasmo Ramirez,Mariners,0.0,2013
+2654,17,14,Erasmo Ramirez,Mariners,-0.5,2014
+2655,34,27,Erasmo Ramirez,Rays,2.3,2015
+2656,64,1,Erasmo Ramirez,Rays,-0.4,2016
+2657,37,19,Erasmo Ramirez,2 Teams,1.1,2017
+2658,26,8,Erasmo Ramirez,Rays,0.6,    2017
+2659,4,4,Erasmo Ramirez,Mariners,-0.4,2018
+2660,8,0,Jose Ramirez,Yankees,-0.2,2014
+2661,8,0,Jose Ramirez,2 Teams,-0.1,2015
+2662,3,0,Jose Ramirez,Yankees,0.0,    2015
+2663,33,0,Jose Ramirez,Braves,0.1,2016
+2664,68,0,Jose Ramirez,Braves,-0.4,2017
+2665,7,0,Jose Ramirez,Braves,0.0,2018
+2666,5,0,Jose Ramirez,Indians,0.2,2013
+2667,50,0,Neil Ramirez,Cubs,0.8,2014
+2668,19,0,Neil Ramirez,Cubs,0.1,2015
+2669,18,0,Neil Ramirez,3 Teams,-0.6,2016
+2670,8,0,Neil Ramirez,Cubs,0.0,    2016
+2671,29,0,Neil Ramirez,2 Teams,-0.1,2017
+2672,9,0,Neil Ramirez,Giants,0.1,    2017
+2673,36,0,Neil Ramirez,Indians,-0.4,2018
+2674,17,0,Noe Ramirez,Red Sox,-0.3,2015
+2675,14,0,Noe Ramirez,Red Sox,-0.4,2016
+2676,12,0,Noe Ramirez,2 Teams,0.1,2017
+2677,2,0,Noe Ramirez,Red Sox,-0.1,    2017
+2678,57,0,Noe Ramirez,Angels,-0.3,2018
+2679,10,9,Yefry Ramirez,Orioles,0.2,2018
+2680,11,0,AJ Ramos,Marlins,-0.1,2012
+2681,68,0,AJ Ramos,Marlins,0.6,2013
+2682,68,0,AJ Ramos,Marlins,0.5,2014
+2683,71,0,AJ Ramos,Marlins,1.2,2015
+2684,67,0,AJ Ramos,Marlins,1.4,2016
+2685,61,0,AJ Ramos,2 Teams,0.4,2017
+2686,40,0,AJ Ramos,Marlins,0.3,    2017
+2687,28,0,AJ Ramos,Mets,-0.2,2018
+2688,42,0,Edubray Ramos,Phillies,0.5,2016
+2689,59,0,Edubray Ramos,Phillies,1.2,2017
+2690,42,0,Edubray Ramos,Phillies,0.5,2018
+2691,9,0,Josh Ravin,Dodgers,-0.2,2015
+2692,10,0,Josh Ravin,Dodgers,0.1,2016
+2693,14,0,Josh Ravin,Dodgers,-0.2,2017
+2694,2,0,Josh Ravin,Braves,-0.1,2018
+2695,9,6,Robbie Ray,Tigers,-0.1,2014
+2696,23,23,Robbie Ray,Diamondbacks,2.2,2015
+2697,32,32,Robbie Ray,Diamondbacks,3.1,2016
+2698,28,28,Robbie Ray,Diamondbacks,3.2,2017
+2699,16,16,Robbie Ray,Diamondbacks,0.6,2018
+2700,6,0,Addison Reed,White Sox,0.1,2011
+2701,62,0,Addison Reed,White Sox,0.8,2012
+2702,68,0,Addison Reed,White Sox,1.6,2013
+2703,62,0,Addison Reed,Diamondbacks,-0.1,2014
+2704,55,0,Addison Reed,2 Teams,1.0,2015
+2705,38,0,Addison Reed,Diamondbacks,0.6,    2015
+2706,80,0,Addison Reed,Mets,2.6,2016
+2707,77,0,Addison Reed,2 Teams,1.0,2017
+2708,48,0,Addison Reed,Mets,0.9,    2017
+2709,47,0,Addison Reed,Twins,-0.1,2018
+2710,10,10,Cody Reed,Reds,-0.4,2016
+2711,12,1,Cody Reed,Reds,-0.3,2017
+2712,9,1,Cody Reed,Reds,-0.1,2018
+2713,10,0,Zac Reininger,Tigers,-0.2,2017
+2714,10,0,Zac Reininger,Tigers,-0.3,2018
+2715,12,5,Alex Reyes,Cardinals,1.4,2016
+2716,1,1,Alex Reyes,Cardinals,0.0,2018
+2717,62,62,Mark Reynolds,Diamondbacks,1.8,2007
+2718,87,97,Mark Reynolds,Diamondbacks,1.3,2008
+2719,98,102,Mark Reynolds,Diamondbacks,3.3,2009
+2720,79,85,Mark Reynolds,Diamondbacks,1.7,2010
+2721,84,86,Mark Reynolds,Orioles,0.1,2011
+2722,65,69,Mark Reynolds,Orioles,0.6,2012
+2723,55,67,Mark Reynolds,2 Teams,0.6,2013
+2724,40,48,Mark Reynolds,Indians,0.2,    2013
+2725,47,45,Mark Reynolds,Brewers,1.0,2014
+2726,35,48,Mark Reynolds,Cardinals,0.0,2015
+2727,61,53,Mark Reynolds,Rockies,0.3,2016
+2728,82,97,Mark Reynolds,Rockies,0.8,2017
+2729,21,30,Mark Reynolds,Nationals,0.2,2018
+2730,9,0,Jacob Rhame,Mets,-0.2,2017
+2731,21,0,Jacob Rhame,Mets,-0.5,2018
+2732,13,8,Clayton Richard,White Sox,0.7,2008
+2733,38,26,Clayton Richard,2 Teams,1.5,2009
+2734,26,14,Clayton Richard,White Sox,1.1,    2009
+2735,33,33,Clayton Richard,Padres,2.4,2010
+2736,18,18,Clayton Richard,Padres,0.6,2011
+2737,33,33,Clayton Richard,Padres,0.4,2012
+2738,12,11,Clayton Richard,Padres,-1.0,2013
+2739,23,3,Clayton Richard,Cubs,0.4,2015
+2740,36,9,Clayton Richard,2 Teams,0.5,2016
+2741,25,0,Clayton Richard,Cubs,0.0,    2016
+2742,32,32,Clayton Richard,Padres,2.3,2017
+2743,26,26,Clayton Richard,Padres,0.8,2018
+2744,7,3,Garrett Richards,Angels,-0.3,2011
+2745,30,9,Garrett Richards,Angels,0.2,2012
+2746,47,17,Garrett Richards,Angels,1.4,2013
+2747,26,26,Garrett Richards,Angels,4.3,2014
+2748,32,32,Garrett Richards,Angels,2.7,2015
+2749,6,6,Garrett Richards,Angels,0.7,2016
+2750,6,6,Garrett Richards,Angels,1.0,2017
+2751,16,16,Garrett Richards,Angels,1.0,2018
+2752,18,18,Trevor Richards,Marlins,1.1,2018
+2753,13,0,Yacksel Rios,Phillies,-0.1,2017
+2754,29,0,Yacksel Rios,Phillies,0.0,2018
+2755,14,5,Tanner Roark,Nationals,1.4,2013
+2756,31,31,Tanner Roark,Nationals,3.2,2014
+2757,40,12,Tanner Roark,Nationals,-0.2,2015
+2758,34,33,Tanner Roark,Nationals,3.2,2016
+2759,32,30,Tanner Roark,Nationals,2.4,2017
+2760,26,25,Tanner Roark,Nationals,1.7,2018
+2761,25,0,David Robertson,Yankees,0.3,2008
+2762,45,0,David Robertson,Yankees,0.7,2009
+2763,64,0,David Robertson,Yankees,0.6,2010
+2764,70,0,David Robertson,Yankees,2.6,2011
+2765,65,0,David Robertson,Yankees,1.7,2012
+2766,70,0,David Robertson,Yankees,1.6,2013
+2767,63,0,David Robertson,Yankees,1.6,2014
+2768,60,0,David Robertson,White Sox,1.8,2015
+2769,62,0,David Robertson,White Sox,1.0,2016
+2770,61,0,David Robertson,2 Teams,1.9,2017
+2771,31,0,David Robertson,White Sox,0.8,    2017
+2772,54,0,David Robertson,Yankees,1.3,2018
+2773,1,1,Shane Robinson,Cardinals,-0.2,2009
+2774,0,0,Shane Robinson,Cardinals,-0.2,2011
+2775,20,16,Shane Robinson,Cardinals,0.6,2012
+2776,22,16,Shane Robinson,Cardinals,0.8,2013
+2777,3,4,Shane Robinson,Cardinals,-0.4,2014
+2778,28,16,Shane Robinson,Twins,0.1,2015
+2779,16,10,Shane Robinson,Angels,-0.1,2016
+2780,7,1,Shane Robinson,Angels,0.0,2017
+2781,5,2,Shane Robinson,Yankees,0.0,2018
+2782,57,0,Hansel Robles,Mets,0.2,2015
+2783,68,0,Hansel Robles,Mets,1.0,2016
+2784,46,0,Hansel Robles,Mets,-0.3,2017
+2785,40,0,Hansel Robles,2 Teams,-0.6,2018
+2786,16,0,Hansel Robles,Mets,-0.7,    2018
+2787,20,0,Fernando Rodney,Tigers,0.0,2002
+2788,27,0,Fernando Rodney,Tigers,0.5,2003
+2789,39,0,Fernando Rodney,Tigers,0.4,2005
+2790,63,0,Fernando Rodney,Tigers,0.5,2006
+2791,48,0,Fernando Rodney,Tigers,0.6,2007
+2792,38,0,Fernando Rodney,Tigers,0.3,2008
+2793,73,0,Fernando Rodney,Tigers,0.1,2009
+2794,72,0,Fernando Rodney,Angels,0.2,2010
+2795,39,0,Fernando Rodney,Angels,-0.4,2011
+2796,76,0,Fernando Rodney,Rays,2.4,2012
+2797,68,0,Fernando Rodney,Rays,1.3,2013
+2798,69,0,Fernando Rodney,Mariners,1.2,2014
+2799,68,0,Fernando Rodney,2 Teams,-0.7,2015
+2800,54,0,Fernando Rodney,Mariners,-0.8,    2015
+2801,67,0,Fernando Rodney,2 Teams,0.4,2016
+2802,28,0,Fernando Rodney,Padres,0.9,    2016
+2803,61,0,Fernando Rodney,Diamondbacks,1.4,2017
+2804,51,0,Fernando Rodney,2 Teams,0.7,2018
+2805,46,0,Fernando Rodney,Twins,0.5,    2018
+2806,26,23,Carlos Rodon,White Sox,2.0,2015
+2807,28,28,Carlos Rodon,White Sox,2.6,2016
+2808,12,12,Carlos Rodon,White Sox,0.6,2017
+2809,12,12,Carlos Rodon,White Sox,1.2,2018
+2810,14,12,Dereck Rodriguez,Giants,1.8,2018
+2811,21,21,Eduardo Rodriguez,Red Sox,1.7,2015
+2812,20,20,Eduardo Rodriguez,Red Sox,1.2,2016
+2813,25,24,Eduardo Rodriguez,Red Sox,2.1,2017
+2814,19,19,Eduardo Rodriguez,Red Sox,1.9,2018
+2815,30,6,Eduardo Rodriguez,Brewers,0.2,1973
+2816,43,6,Eduardo Rodriguez,Brewers,0.2,1974
+2817,43,1,Eduardo Rodriguez,Brewers,-0.1,1975
+2818,45,12,Eduardo Rodriguez,Brewers,0.0,1976
+2819,42,5,Eduardo Rodriguez,Brewers,0.9,1977
+2820,32,8,Eduardo Rodriguez,Brewers,0.9,1978
+2821,29,1,Eduardo Rodriguez,Royals,-0.6,1979
+2822,7,5,Jefry Rodriguez,Nationals,-0.1,2018
+2823,7,7,Ricardo Rodriguez,Indians,0.1,2002
+2824,15,15,Ricardo Rodriguez,Indians,-0.1,2003
+2825,5,4,Ricardo Rodriguez,Rangers,0.6,2004
+2826,12,10,Ricardo Rodriguez,Rangers,-0.1,2005
+2827,16,0,Ricardo Rodriguez,Rangers,-0.2,2017
+2828,4,0,Ricardo Rodriguez,Rangers,0.1,2018
+2829,5,0,Richard Rodriguez,Orioles,-0.3,2017
+2830,46,0,Richard Rodriguez,Pirates,0.6,2018
+2831,21,0,Chaz Roe,Diamondbacks,-0.1,2013
+2832,3,0,Chaz Roe,Yankees,0.0,2014
+2833,36,0,Chaz Roe,Orioles,0.2,2015
+2834,30,0,Chaz Roe,2 Teams,0.5,2016
+2835,9,0,Chaz Roe,Orioles,-0.1,    2016
+2836,12,0,Chaz Roe,2 Teams,0.1,2017
+2837,3,0,Chaz Roe,Braves,0.0,    2017
+2838,45,0,Chaz Roe,Rays,0.4,2018
+2839,57,0,Taylor Rogers,Twins,0.6,2016
+2840,69,0,Taylor Rogers,Twins,0.4,2017
+2841,57,0,Taylor Rogers,Twins,1.3,2018
+2842,16,16,Sal Romano,Reds,1.3,2017
+2843,26,24,Sal Romano,Reds,0.3,2018
+2844,1,1,Enny Romero,Rays,0.0,2013
+2845,23,0,Enny Romero,Rays,0.4,2015
+2846,52,0,Enny Romero,Rays,-0.1,2016
+2847,53,0,Enny Romero,Nationals,0.3,2017
+2848,8,0,Enny Romero,3 Teams,-0.4,2018
+2849,2,0,Enny Romero,Nationals,-0.1,    2018
+2850,11,11,Fernando Romero,Twins,0.7,2018
+2851,29,0,Sergio Romo,Giants,0.5,2008
+2852,45,0,Sergio Romo,Giants,1.2,2009
+2853,68,0,Sergio Romo,Giants,1.2,2010
+2854,65,0,Sergio Romo,Giants,2.1,2011
+2855,69,0,Sergio Romo,Giants,1.1,2012
+2856,65,0,Sergio Romo,Giants,1.2,2013
+2857,64,0,Sergio Romo,Giants,-0.1,2014
+2858,70,0,Sergio Romo,Giants,1.8,2015
+2859,40,0,Sergio Romo,Giants,0.2,2016
+2860,55,0,Sergio Romo,2 Teams,0.3,2017
+2861,30,0,Sergio Romo,Dodgers,-0.3,    2017
+2862,60,5,Sergio Romo,Rays,0.9,2018
+2863,30,0,Bruce Rondon,Tigers,0.4,2013
+2864,35,0,Bruce Rondon,Tigers,0.0,2015
+2865,37,0,Bruce Rondon,Tigers,0.4,2016
+2866,21,0,Bruce Rondon,Tigers,0.3,2017
+2867,35,0,Bruce Rondon,White Sox,0.2,2018
+2868,45,0,Hector Rondon,Cubs,-0.3,2013
+2869,64,0,Hector Rondon,Cubs,1.6,2014
+2870,72,0,Hector Rondon,Cubs,1.6,2015
+2871,54,0,Hector Rondon,Cubs,0.6,2016
+2872,61,0,Hector Rondon,Cubs,0.3,2017
+2873,49,0,Hector Rondon,Astros,1.2,2018
+2874,2,0,Randy Rosario,Twins,-0.1,2017
+2875,29,0,Randy Rosario,Cubs,-0.5,2018
+2876,26,2,Tyson Ross,Athletics,0.0,2010
+2877,9,6,Tyson Ross,Athletics,0.8,2011
+2878,18,13,Tyson Ross,Athletics,0.2,2012
+2879,35,16,Tyson Ross,Padres,1.9,2013
+2880,31,31,Tyson Ross,Padres,3.2,2014
+2881,33,33,Tyson Ross,Padres,4.3,2015
+2882,1,1,Tyson Ross,Padres,0.1,2016
+2883,12,10,Tyson Ross,Rangers,-0.2,2017
+2884,25,23,Tyson Ross,2 Teams,0.8,2018
+2885,22,22,Tyson Ross,Padres,0.7,    2018
+2886,10,0,Zac Rosscup,Cubs,-0.1,2013
+2887,18,0,Zac Rosscup,Cubs,-0.1,2014
+2888,33,0,Zac Rosscup,Cubs,-0.3,2015
+2889,10,0,Zac Rosscup,2 Teams,0.1,2017
+2890,1,0,Zac Rosscup,Cubs,0.0,    2017
+2891,8,0,Zac Rosscup,Dodgers,-0.2,2018
+2892,6,3,Chris Rowley,Blue Jays,-0.1,2017
+2893,2,0,Chris Rowley,Blue Jays,-0.2,2018
+2894,3,0,Drew Rucinski,Angels,0.1,2014
+2895,4,1,Drew Rucinski,Angels,-0.2,2015
+2896,2,0,Drew Rucinski,Twins,-0.1,2017
+2897,19,0,Drew Rucinski,Marlins,0.3,2018
+2898,17,0,Nick Rumbelow,Yankees,0.1,2015
+2899,8,0,Nick Rumbelow,Mariners,-0.4,2018
+2900,7,7,Chris Rusin,Cubs,0.1,2012
+2901,13,13,Chris Rusin,Cubs,0.1,2013
+2902,4,0,Chris Rusin,Cubs,0.0,2014
+2903,24,22,Chris Rusin,Rockies,0.8,2015
+2904,29,7,Chris Rusin,Rockies,1.6,2016
+2905,60,0,Chris Rusin,Rockies,1.1,2017
+2906,37,0,Chris Rusin,Rockies,-0.3,2018
+2907,30,30,Hyun-Jin Ryu,Dodgers,3.6,2013
+2908,26,26,Hyun-Jin Ryu,Dodgers,3.8,2014
+2909,1,1,Hyun-Jin Ryu,Dodgers,0.0,2016
+2910,25,24,Hyun-Jin Ryu,Dodgers,0.8,2017
+2911,8,8,Hyun-Jin Ryu,Dodgers,0.9,2018
+2912,11,11,Marc Rzepczynski,Blue Jays,0.8,2009
+2913,14,12,Marc Rzepczynski,Blue Jays,0.4,2010
+2914,71,0,Marc Rzepczynski,2 Teams,0.7,2011
+2915,43,0,Marc Rzepczynski,Blue Jays,0.4,    2011
+2916,70,0,Marc Rzepczynski,Cardinals,-0.6,2012
+2917,38,0,Marc Rzepczynski,2 Teams,0.2,2013
+2918,11,0,Marc Rzepczynski,Cardinals,0.0,    2013
+2919,73,0,Marc Rzepczynski,Indians,0.6,2014
+2920,72,0,Marc Rzepczynski,2 Teams,0.3,2015
+2921,45,0,Marc Rzepczynski,Indians,0.3,    2015
+2922,70,0,Marc Rzepczynski,2 Teams,0.4,2016
+2923,56,0,Marc Rzepczynski,Athletics,0.3,    2016
+2924,64,0,Marc Rzepczynski,Mariners,0.0,2017
+2925,23,0,Marc Rzepczynski,2 Teams,-0.3,2018
+2926,18,0,Marc Rzepczynski,Mariners,-0.3,    2018
+2927,33,33,CC Sabathia,Indians,2.7,2001
+2928,33,33,CC Sabathia,Indians,3.6,2002
+2929,30,30,CC Sabathia,Indians,3.5,2003
+2930,30,30,CC Sabathia,Indians,2.8,2004
+2931,31,31,CC Sabathia,Indians,3.6,2005
+2932,28,28,CC Sabathia,Indians,5.0,2006
+2933,34,34,CC Sabathia,Indians,6.4,2007
+2934,35,35,CC Sabathia,2 Teams,7.3,2008
+2935,18,18,CC Sabathia,Indians,2.6,    2008
+2936,34,34,CC Sabathia,Yankees,5.9,2009
+2937,34,34,CC Sabathia,Yankees,5.1,2010
+2938,33,33,CC Sabathia,Yankees,6.4,2011
+2939,28,28,CC Sabathia,Yankees,4.7,2012
+2940,32,32,CC Sabathia,Yankees,2.6,2013
+2941,8,8,CC Sabathia,Yankees,0.1,2014
+2942,29,29,CC Sabathia,Yankees,1.2,2015
+2943,30,30,CC Sabathia,Yankees,2.6,2016
+2944,27,27,CC Sabathia,Yankees,1.9,2017
+2945,22,22,CC Sabathia,Yankees,1.5,2018
+2946,27,0,Fernando Salas,Cardinals,0.0,2010
+2947,68,0,Fernando Salas,Cardinals,1.0,2011
+2948,65,0,Fernando Salas,Cardinals,0.4,2012
+2949,27,0,Fernando Salas,Cardinals,0.1,2013
+2950,57,0,Fernando Salas,Angels,0.6,2014
+2951,72,0,Fernando Salas,Angels,0.8,2015
+2952,75,0,Fernando Salas,2 Teams,0.1,2016
+2953,58,0,Fernando Salas,Angels,-0.2,    2016
+2954,61,0,Fernando Salas,2 Teams,0.4,2017
+2955,48,0,Fernando Salas,Mets,0.1,    2017
+2956,41,0,Fernando Salas,Diamondbacks,0.0,2018
+2957,21,0,Chris Sale,White Sox,0.6,2010
+2958,58,0,Chris Sale,White Sox,1.2,2011
+2959,30,29,Chris Sale,White Sox,4.7,2012
+2960,30,30,Chris Sale,White Sox,4.9,2013
+2961,26,26,Chris Sale,White Sox,5.2,2014
+2962,31,31,Chris Sale,White Sox,6.1,2015
+2963,32,32,Chris Sale,White Sox,5.1,2016
+2964,32,32,Chris Sale,Red Sox,7.7,2017
+2965,23,23,Chris Sale,Red Sox,6.1,2018
+2966,26,0,Jeff Samardzija,Cubs,0.5,2008
+2967,20,2,Jeff Samardzija,Cubs,-0.4,2009
+2968,7,3,Jeff Samardzija,Cubs,-0.5,2010
+2969,75,0,Jeff Samardzija,Cubs,0.6,2011
+2970,28,28,Jeff Samardzija,Cubs,2.7,2012
+2971,33,33,Jeff Samardzija,Cubs,2.7,2013
+2972,33,33,Jeff Samardzija,2 Teams,4.1,2014
+2973,17,17,Jeff Samardzija,Cubs,2.0,    2014
+2974,32,32,Jeff Samardzija,White Sox,2.5,2015
+2975,32,32,Jeff Samardzija,Giants,2.7,2016
+2976,32,32,Jeff Samardzija,Giants,3.8,2017
+2977,10,10,Jeff Samardzija,Giants,-0.2,2018
+2978,24,0,Aaron Sanchez,Blue Jays,0.5,2014
+2979,41,11,Aaron Sanchez,Blue Jays,0.3,2015
+2980,30,30,Aaron Sanchez,Blue Jays,3.8,2016
+2981,8,8,Aaron Sanchez,Blue Jays,0.0,2017
+2982,15,15,Aaron Sanchez,Blue Jays,0.6,2018
+2983,18,17,Anibal Sanchez,Marlins,1.9,2006
+2984,6,6,Anibal Sanchez,Marlins,0.0,2007
+2985,10,10,Anibal Sanchez,Marlins,0.3,2008
+2986,16,16,Anibal Sanchez,Marlins,0.7,2009
+2987,32,32,Anibal Sanchez,Marlins,3.9,2010
+2988,32,32,Anibal Sanchez,Marlins,3.5,2011
+2989,31,31,Anibal Sanchez,2 Teams,3.4,2012
+2990,19,19,Anibal Sanchez,Marlins,2.1,    2012
+2991,29,29,Anibal Sanchez,Tigers,6.0,2013
+2992,22,21,Anibal Sanchez,Tigers,3.2,2014
+2993,25,25,Anibal Sanchez,Tigers,1.0,2015
+2994,35,26,Anibal Sanchez,Tigers,0.9,2016
+2995,28,17,Anibal Sanchez,Tigers,0.5,2017
+2996,18,17,Anibal Sanchez,Braves,1.3,2018
+2997,24,24,Pablo Sandoval,Giants,0.9,2008
+2998,79,90,Pablo Sandoval,Giants,5.2,2009
+2999,61,63,Pablo Sandoval,Giants,1.2,2010
+3000,55,70,Pablo Sandoval,Giants,5.3,2011
+3001,59,63,Pablo Sandoval,Giants,2.4,2012
+3002,52,79,Pablo Sandoval,Giants,2.0,2013
+3003,68,73,Pablo Sandoval,Giants,3.2,2014
+3004,43,47,Pablo Sandoval,Red Sox,-1.2,2015
+3005,0,0,Pablo Sandoval,Red Sox,-0.2,2016
+3006,27,32,Pablo Sandoval,2 Teams,-0.8,2017
+3007,10,12,Pablo Sandoval,Red Sox,-0.4,    2017
+3008,22,40,Pablo Sandoval,Giants,0.1,2018
+3009,1,0,Dennis Santana,Dodgers,0.1,2018
+3010,19,0,Edgar Santana,Pirates,0.0,2017
+3011,58,0,Edgar Santana,Pirates,0.9,2018
+3012,2,0,Hector Santiago,White Sox,0.0,2011
+3013,42,4,Hector Santiago,White Sox,0.0,2012
+3014,34,23,Hector Santiago,White Sox,1.3,2013
+3015,30,24,Hector Santiago,Angels,0.7,2014
+3016,33,32,Hector Santiago,Angels,0.8,2015
+3017,33,33,Hector Santiago,2 Teams,0.5,2016
+3018,22,22,Hector Santiago,Angels,0.6,    2016
+3019,15,14,Hector Santiago,Twins,-0.2,2017
+3020,39,7,Hector Santiago,White Sox,-0.3,2018
+3021,10,0,Luis Santos,Blue Jays,-0.1,2017
+3022,15,1,Luis Santos,Blue Jays,-0.1,2018
+3023,6,0,Warwick Saupold,Tigers,0.2,2016
+3024,45,0,Warwick Saupold,Tigers,-0.3,2017
+3025,31,0,Warwick Saupold,Tigers,-0.6,2018
+3026,16,7,Max Scherzer,Diamondbacks,1.1,2008
+3027,30,30,Max Scherzer,Diamondbacks,2.9,2009
+3028,31,31,Max Scherzer,Tigers,3.7,2010
+3029,33,33,Max Scherzer,Tigers,2.2,2011
+3030,32,32,Max Scherzer,Tigers,4.4,2012
+3031,32,32,Max Scherzer,Tigers,6.1,2013
+3032,33,33,Max Scherzer,Tigers,5.2,2014
+3033,33,33,Max Scherzer,Nationals,6.4,2015
+3034,34,34,Max Scherzer,Nationals,5.6,2016
+3035,31,31,Max Scherzer,Nationals,6.0,2017
+3036,26,26,Max Scherzer,Nationals,5.9,2018
+3037,12,0,Jaime Schultz,Rays,-0.1,2018
+3038,7,0,Robby Scott,Red Sox,0.1,2016
+3039,57,0,Robby Scott,Red Sox,-0.4,2017
+3040,2,0,Robby Scott,Red Sox,-0.2,2018
+3041,2,0,Tanner Scott,Orioles,0.0,2017
+3042,39,0,Tanner Scott,Orioles,0.4,2018
+3043,10,4,Troy Scribner,Angels,-0.3,2017
+3044,1,1,Troy Scribner,Diamondbacks,0.0,2018
+3045,36,20,Antonio Senzatela,Rockies,1.4,2017
+3046,16,6,Antonio Senzatela,Rockies,0.9,2018
+3047,11,11,Luis Severino,Yankees,0.7,2015
+3048,22,11,Luis Severino,Yankees,0.6,2016
+3049,31,31,Luis Severino,Yankees,5.7,2017
+3050,26,26,Luis Severino,Yankees,4.3,2018
+3051,57,0,Paul Sewald,Mets,0.6,2017
+3052,36,0,Paul Sewald,Mets,0.1,2018
+3053,26,0,Kevin Shackelford,Reds,0.0,2017
+3054,5,0,Kevin Shackelford,Reds,0.1,2018
+3055,33,0,Bryan Shaw,Diamondbacks,0.2,2011
+3056,64,0,Bryan Shaw,Diamondbacks,0.1,2012
+3057,70,0,Bryan Shaw,Indians,1.0,2013
+3058,80,0,Bryan Shaw,Indians,0.5,2014
+3059,74,0,Bryan Shaw,Indians,0.2,2015
+3060,75,0,Bryan Shaw,Indians,0.4,2016
+3061,79,0,Bryan Shaw,Indians,1.6,2017
+3062,53,0,Bryan Shaw,Rockies,-0.2,2018
+3063,11,0,Jimmie Sherfy,Diamondbacks,0.3,2017
+3064,4,0,Jimmie Sherfy,Diamondbacks,-0.2,2018
+3065,13,0,Ryan Sherriff,Cardinals,0.1,2017
+3066,5,0,Ryan Sherriff,Cardinals,-0.1,2018
+3067,21,21,James Shields,Devil Rays,1.7,2006
+3068,31,31,James Shields,Devil Rays,4.0,2007
+3069,33,33,James Shields,Rays,3.8,2008
+3070,33,33,James Shields,Rays,3.5,2009
+3071,34,33,James Shields,Rays,2.0,2010
+3072,33,33,James Shields,Rays,4.5,2011
+3073,33,33,James Shields,Rays,4.2,2012
+3074,34,34,James Shields,Royals,4.0,2013
+3075,34,34,James Shields,Royals,3.2,2014
+3076,33,33,James Shields,Padres,1.0,2015
+3077,33,33,James Shields,2 Teams,-1.1,2016
+3078,11,11,James Shields,Padres,0.5,    2016
+3079,21,21,James Shields,White Sox,-0.2,2017
+3080,27,26,James Shields,White Sox,1.4,2018
+3081,13,11,Braden Shipley,Diamondbacks,-0.4,2016
+3082,10,3,Braden Shipley,Diamondbacks,-0.2,2017
+3083,3,0,Braden Shipley,Diamondbacks,0.0,2018
+3084,1,1,Matt Shoemaker,Angels,0.2,2013
+3085,27,20,Matt Shoemaker,Angels,2.1,2014
+3086,25,24,Matt Shoemaker,Angels,0.8,2015
+3087,27,27,Matt Shoemaker,Angels,3.4,2016
+3088,14,14,Matt Shoemaker,Angels,0.3,2017
+3089,1,1,Matt Shoemaker,Angels,0.1,2018
+3090,15,0,Chasen Shreve,Braves,0.3,2014
+3091,59,0,Chasen Shreve,Yankees,-0.2,2015
+3092,37,0,Chasen Shreve,Yankees,-0.4,2016
+3093,44,0,Chasen Shreve,Yankees,0.2,2017
+3094,48,0,Chasen Shreve,2 Teams,-0.3,2018
+3095,40,0,Chasen Shreve,Yankees,-0.2,    2018
+3096,14,10,Lucas Sims,Braves,0.2,2017
+3097,6,0,Lucas Sims,Braves,-0.2,2018
+3098,6,6,Tyler Skaggs,Diamondbacks,-0.1,2012
+3099,7,7,Tyler Skaggs,Diamondbacks,0.1,2013
+3100,18,18,Tyler Skaggs,Angels,1.5,2014
+3101,10,10,Tyler Skaggs,Angels,0.7,2016
+3102,16,16,Tyler Skaggs,Angels,0.9,2017
+3103,21,21,Tyler Skaggs,Angels,2.5,2018
+3104,7,5,Eric Skoglund,Royals,0.1,2017
+3105,9,9,Eric Skoglund,Royals,-0.1,2018
+3106,4,3,Aaron Slegers,Twins,0.0,2017
+3107,3,2,Aaron Slegers,Twins,-0.1,2018
+3108,10,7,Burch Smith,Padres,-0.3,2013
+3109,33,6,Burch Smith,Royals,-0.6,2018
+3110,9,2,Caleb Smith,Yankees,0.0,2017
+3111,16,16,Caleb Smith,Marlins,1.2,2018
+3112,9,0,Carson Smith,Mariners,0.2,2014
+3113,70,0,Carson Smith,Mariners,2.1,2015
+3114,3,0,Carson Smith,Red Sox,0.0,2016
+3115,8,0,Carson Smith,Red Sox,0.2,2017
+3116,18,0,Carson Smith,Red Sox,0.1,2018
+3117,10,0,Drew Smith,Mets,0.2,2018
+3118,1,2,Joe Smith,Yankees,-0.4,1913
+3119,54,0,Joe Smith,Mets,0.2,2007
+3120,82,0,Joe Smith,Mets,0.3,2008
+3121,37,0,Joe Smith,Indians,0.2,2009
+3122,53,0,Joe Smith,Indians,-0.2,2010
+3123,71,0,Joe Smith,Indians,1.0,2011
+3124,72,0,Joe Smith,Indians,0.6,2012
+3125,70,0,Joe Smith,Indians,0.5,2013
+3126,76,0,Joe Smith,Angels,1.0,2014
+3127,70,0,Joe Smith,Angels,0.9,2015
+3128,54,0,Joe Smith,2 Teams,-0.3,2016
+3129,38,0,Joe Smith,Angels,-0.1,    2016
+3130,59,0,Joe Smith,2 Teams,1.8,2017
+3131,38,0,Joe Smith,Blue Jays,1.0,    2017
+3132,42,0,Joe Smith,Astros,0.4,2018
+3133,16,16,Will Smith,Royals,0.6,2012
+3134,19,1,Will Smith,Royals,0.4,2013
+3135,78,0,Will Smith,Brewers,0.7,2014
+3136,76,0,Will Smith,Brewers,1.4,2015
+3137,53,0,Will Smith,2 Teams,0.7,2016
+3138,27,0,Will Smith,Brewers,0.1,    2016
+3139,42,0,Will Smith,Giants,1.8,2018
+3140,20,0,Josh Smoker,Mets,0.0,2016
+3141,54,0,Josh Smoker,Mets,-0.2,2017
+3142,7,0,Josh Smoker,Pirates,-0.3,2018
+3143,12,12,Jake Smolinski,Rangers,0.9,2014
+3144,24,26,Jake Smolinski,2 Teams,0.4,2015
+3145,12,6,Jake Smolinski,Rangers,-0.2,    2015
+3146,28,27,Jake Smolinski,Athletics,-0.4,2016
+3147,1,0,Jake Smolinski,Athletics,-0.1,2017
+3148,2,2,Jake Smolinski,Athletics,-0.3,2018
+3149,19,19,Blake Snell,Rays,1.9,2016
+3150,24,24,Blake Snell,Rays,1.9,2017
+3151,24,24,Blake Snell,Rays,3.0,2018
+3152,12,0,Miguel Socolovich,2 Teams,-0.2,2012
+3153,6,0,Miguel Socolovich,Orioles,-0.2,    2012
+3154,28,0,Miguel Socolovich,Cardinals,0.4,2015
+3155,15,0,Miguel Socolovich,Cardinals,0.1,2016
+3156,15,0,Miguel Socolovich,Cardinals,-0.1,2017
+3157,4,0,Miguel Socolovich,Braves,0.1,2018
+3158,18,0,Sammy Solis,Nationals,0.1,2015
+3159,37,0,Sammy Solis,Nationals,0.8,2016
+3160,30,0,Sammy Solis,Nationals,0.0,2017
+3161,50,0,Sammy Solis,Nationals,0.0,2018
+3162,62,0,Joakim Soria,Royals,2.1,2007
+3163,63,0,Joakim Soria,Royals,1.3,2008
+3164,47,0,Joakim Soria,Royals,1.6,2009
+3165,66,0,Joakim Soria,Royals,1.9,2010
+3166,60,0,Joakim Soria,Royals,0.9,2011
+3167,26,0,Joakim Soria,Rangers,0.2,2013
+3168,48,0,Joakim Soria,2 Teams,1.4,2014
+3169,35,0,Joakim Soria,Rangers,1.6,    2014
+3170,72,0,Joakim Soria,2 Teams,0.4,2015
+3171,43,0,Joakim Soria,Tigers,-0.4,    2015
+3172,70,0,Joakim Soria,Royals,0.0,2016
+3173,59,0,Joakim Soria,Royals,1.7,2017
+3174,47,0,Joakim Soria,2 Teams,1.3,2018
+3175,40,0,Joakim Soria,White Sox,1.4,    2018
+3176,5,5,Mike Soroka,Braves,0.6,2018
+3177,2,0,Glenn Sparkman,Blue Jays,0.0,2017
+3178,10,2,Glenn Sparkman,Royals,0.0,2018
+3179,19,19,Craig Stammen,Nationals,0.8,2009
+3180,35,19,Craig Stammen,Nationals,1.1,2010
+3181,7,0,Craig Stammen,Nationals,0.4,2011
+3182,59,0,Craig Stammen,Nationals,0.8,2012
+3183,55,0,Craig Stammen,Nationals,1.1,2013
+3184,49,0,Craig Stammen,Nationals,0.6,2014
+3185,5,0,Craig Stammen,Nationals,0.0,2015
+3186,60,0,Craig Stammen,Padres,0.0,2017
+3187,57,0,Craig Stammen,Padres,1.9,2018
+3188,21,0,Ryne Stanek,Rays,-0.3,2017
+3189,42,20,Ryne Stanek,Rays,0.9,2018
+3190,37,0,Drew Steckenrider,Marlins,0.6,2017
+3191,58,0,Drew Steckenrider,Marlins,0.8,2018
+3192,7,4,Jackson Stephens,Reds,-0.1,2017
+3193,18,0,Jackson Stephens,Reds,-0.3,2018
+3194,7,5,Brock Stewart,Dodgers,-0.2,2016
+3195,17,4,Brock Stewart,Dodgers,0.0,2017
+3196,9,2,Brock Stewart,Dodgers,-0.3,2018
+3197,16,0,Robert Stock,Padres,0.4,2018
+3198,3,0,Eric Stout,Royals,-0.2,2018
+3199,21,0,Matt Strahm,Royals,0.8,2016
+3200,24,3,Matt Strahm,Royals,-0.2,2017
+3201,29,5,Matt Strahm,Padres,0.7,2018
+3202,7,7,Dan Straily,Athletics,-0.4,2012
+3203,27,27,Dan Straily,Athletics,1.8,2013
+3204,14,8,Dan Straily,2 Teams,-0.3,2014
+3205,7,7,Dan Straily,Athletics,-0.3,    2014
+3206,4,3,Dan Straily,Astros,0.1,2015
+3207,34,31,Dan Straily,Reds,1.1,2016
+3208,33,33,Dan Straily,Marlins,2.0,2017
+3209,20,20,Dan Straily,Marlins,-0.4,2018
+3210,12,12,Stephen Strasburg,Nationals,2.5,2010
+3211,5,5,Stephen Strasburg,Nationals,1.1,2011
+3212,28,28,Stephen Strasburg,Nationals,4.0,2012
+3213,30,30,Stephen Strasburg,Nationals,3.3,2013
+3214,34,34,Stephen Strasburg,Nationals,4.5,2014
+3215,23,23,Stephen Strasburg,Nationals,3.4,2015
+3216,24,24,Stephen Strasburg,Nationals,3.9,2016
+3217,28,28,Stephen Strasburg,Nationals,5.6,2017
+3218,14,14,Stephen Strasburg,Nationals,1.5,2018
+3219,7,0,Chris Stratton,Giants,-0.1,2016
+3220,13,10,Chris Stratton,Giants,0.6,2017
+3221,21,20,Chris Stratton,Giants,0.3,2018
+3222,9,0,Hunter Strickland,Giants,0.2,2014
+3223,55,0,Hunter Strickland,Giants,0.8,2015
+3224,72,0,Hunter Strickland,Giants,0.8,2016
+3225,68,0,Hunter Strickland,Giants,0.8,2017
+3226,36,0,Hunter Strickland,Giants,0.4,2018
+3227,22,14,Ross Stripling,Dodgers,1.1,2016
+3228,49,2,Ross Stripling,Dodgers,0.7,2017
+3229,28,17,Ross Stripling,Dodgers,2.5,2018
+3230,26,20,Marcus Stroman,Blue Jays,3.0,2014
+3231,4,4,Marcus Stroman,Blue Jays,0.4,2015
+3232,32,32,Marcus Stroman,Blue Jays,3.6,2016
+3233,33,33,Marcus Stroman,Blue Jays,3.4,2017
+3234,18,18,Marcus Stroman,Blue Jays,1.5,2018
+3235,7,0,Daniel Stumpf,Phillies,-0.1,2016
+3236,55,0,Daniel Stumpf,Tigers,0.1,2017
+3237,42,0,Daniel Stumpf,Tigers,-0.1,2018
+3238,22,22,Andrew Suarez,Giants,0.9,2018
+3239,1,3,Jesus Sucre,Mariners,-0.2,2013
+3240,4,5,Jesus Sucre,Mariners,0.0,2014
+3241,9,7,Jesus Sucre,Mariners,-0.4,2015
+3242,4,5,Jesus Sucre,Mariners,0.5,2016
+3243,20,29,Jesus Sucre,Rays,0.8,2017
+3244,6,15,Jesus Sucre,Rays,-0.6,2018
+3245,25,0,Wander Suero,Nationals,0.2,2018
+3246,14,2,Brent Suter,Brewers,0.2,2016
+3247,22,14,Brent Suter,Brewers,1.6,2017
+3248,20,18,Brent Suter,Brewers,1.0,2018
+3249,127,69,Ichiro Suzuki,Mariners,6.0,2001
+3250,111,51,Ichiro Suzuki,Mariners,4.7,2002
+3251,111,62,Ichiro Suzuki,Mariners,5.7,2003
+3252,101,60,Ichiro Suzuki,Mariners,7.1,2004
+3253,111,68,Ichiro Suzuki,Mariners,3.6,2005
+3254,110,49,Ichiro Suzuki,Mariners,5.6,2006
+3255,111,68,Ichiro Suzuki,Mariners,6.1,2007
+3256,103,42,Ichiro Suzuki,Mariners,4.2,2008
+3257,88,46,Ichiro Suzuki,Mariners,5.4,2009
+3258,74,43,Ichiro Suzuki,Mariners,4.7,2010
+3259,80,47,Ichiro Suzuki,Mariners,0.0,2011
+3260,77,55,Ichiro Suzuki,2 Teams,2.2,2012
+3261,49,28,Ichiro Suzuki,Mariners,1.4,    2012
+3262,57,35,Ichiro Suzuki,Yankees,1.1,2013
+3263,42,22,Ichiro Suzuki,Yankees,1.1,2014
+3264,45,21,Ichiro Suzuki,Marlins,-0.8,2015
+3265,48,22,Ichiro Suzuki,Marlins,1.3,2016
+3266,19,20,Ichiro Suzuki,Marlins,-0.2,2017
+3267,5,0,Ichiro Suzuki,Mariners,-0.4,2018
+3268,12,12,Anthony Swarzak,Twins,-0.2,2009
+3269,27,11,Anthony Swarzak,Twins,0.8,2011
+3270,44,5,Anthony Swarzak,Twins,-0.4,2012
+3271,48,0,Anthony Swarzak,Twins,0.8,2013
+3272,50,4,Anthony Swarzak,Twins,0.4,2014
+3273,10,0,Anthony Swarzak,Indians,0.1,2015
+3274,26,0,Anthony Swarzak,Yankees,-0.4,2016
+3275,70,0,Anthony Swarzak,2 Teams,2.2,2017
+3276,41,0,Anthony Swarzak,White Sox,1.7,    2017
+3277,22,0,Anthony Swarzak,Mets,-0.3,2018
+3278,24,24,Noah Syndergaard,Mets,3.1,2015
+3279,31,30,Noah Syndergaard,Mets,6.4,2016
+3280,7,7,Noah Syndergaard,Mets,1.4,2017
+3281,17,17,Noah Syndergaard,Mets,2.9,2018
+3282,18,18,Jameson Taillon,Pirates,1.7,2016
+3283,25,25,Jameson Taillon,Pirates,2.9,2017
+3284,25,25,Jameson Taillon,Pirates,2.6,2018
+3285,20,20,Masahiro Tanaka,Yankees,3.1,2014
+3286,24,24,Masahiro Tanaka,Yankees,2.3,2015
+3287,31,31,Masahiro Tanaka,Yankees,4.6,2016
+3288,30,30,Masahiro Tanaka,Yankees,2.7,2017
+3289,21,21,Masahiro Tanaka,Yankees,1.3,2018
+3290,14,0,Ben Taylor,Red Sox,-0.1,2017
+3291,6,0,Ben Taylor,Indians,0.0,2018
+3292,2,0,Ben Taylor,Reds,0.0,1912
+3293,14,6,Ben Taylor,Browns,-0.1,1951
+3294,0,0,Ben Taylor,Tigers,-0.2,1952
+3295,2,0,Ben Taylor,Braves,-0.1,1955
+3296,6,4,Junichi Tazawa,Red Sox,-0.1,2009
+3297,3,0,Junichi Tazawa,Red Sox,0.0,2011
+3298,37,0,Junichi Tazawa,Red Sox,1.1,2012
+3299,71,0,Junichi Tazawa,Red Sox,0.9,2013
+3300,71,0,Junichi Tazawa,Red Sox,0.9,2014
+3301,61,0,Junichi Tazawa,Red Sox,1.1,2015
+3302,53,0,Junichi Tazawa,Red Sox,0.1,2016
+3303,55,0,Junichi Tazawa,Marlins,-0.3,2017
+3304,22,0,Junichi Tazawa,Marlins,-0.4,2018
+3305,5,3,Julio Teheran,Braves,-0.2,2011
+3306,2,1,Julio Teheran,Braves,0.2,2012
+3307,30,30,Julio Teheran,Braves,2.5,2013
+3308,33,33,Julio Teheran,Braves,3.2,2014
+3309,33,33,Julio Teheran,Braves,1.1,2015
+3310,30,30,Julio Teheran,Braves,3.2,2016
+3311,32,32,Julio Teheran,Braves,1.1,2017
+3312,24,24,Julio Teheran,Braves,0.1,2018
+3313,32,0,Ryan Tepera,Blue Jays,-0.4,2015
+3314,20,0,Ryan Tepera,Blue Jays,0.1,2016
+3315,73,0,Ryan Tepera,Blue Jays,1.0,2017
+3316,54,0,Ryan Tepera,Blue Jays,0.5,2018
+3317,10,10,Jake Thompson,Phillies,-0.3,2016
+3318,11,8,Jake Thompson,Phillies,-0.1,2017
+3319,9,0,Jake Thompson,Phillies,0.0,2018
+3320,8,3,Tyler Thornburg,Brewers,-0.4,2012
+3321,18,7,Tyler Thornburg,Brewers,1.3,2013
+3322,27,0,Tyler Thornburg,Brewers,0.1,2014
+3323,24,0,Tyler Thornburg,Brewers,-0.3,2015
+3324,67,0,Tyler Thornburg,Brewers,2.0,2016
+3325,18,0,Tyler Thornburg,Red Sox,0.0,2018
+3326,12,12,Chris Tillman,Orioles,-0.2,2009
+3327,11,11,Chris Tillman,Orioles,-0.2,2010
+3328,13,13,Chris Tillman,Orioles,1.1,2011
+3329,15,15,Chris Tillman,Orioles,1.3,2012
+3330,33,33,Chris Tillman,Orioles,1.9,2013
+3331,34,34,Chris Tillman,Orioles,2.3,2014
+3332,31,31,Chris Tillman,Orioles,1.8,2015
+3333,30,30,Chris Tillman,Orioles,2.4,2016
+3334,24,19,Chris Tillman,Orioles,-1.0,2017
+3335,7,7,Chris Tillman,Orioles,-0.5,2018
+3336,12,12,Josh Tomlin,Indians,0.7,2010
+3337,26,26,Josh Tomlin,Indians,1.6,2011
+3338,21,16,Josh Tomlin,Indians,0.1,2012
+3339,1,0,Josh Tomlin,Indians,0.0,2013
+3340,25,16,Josh Tomlin,Indians,1.0,2014
+3341,10,10,Josh Tomlin,Indians,0.5,2015
+3342,30,29,Josh Tomlin,Indians,1.0,2016
+3343,26,26,Josh Tomlin,Indians,2.2,2017
+3344,23,6,Josh Tomlin,Indians,-1.4,2018
+3345,8,5,Carlos Torres,White Sox,-0.1,2009
+3346,5,1,Carlos Torres,White Sox,0.0,2010
+3347,31,0,Carlos Torres,Rockies,0.4,2012
+3348,33,9,Carlos Torres,Mets,0.2,2013
+3349,73,1,Carlos Torres,Mets,0.1,2014
+3350,59,0,Carlos Torres,Mets,0.4,2015
+3351,72,0,Carlos Torres,Brewers,0.7,2016
+3352,67,0,Carlos Torres,Brewers,-0.2,2017
+3353,10,0,Carlos Torres,Nationals,-0.2,2018
+3354,15,7,Blake Treinen,Nationals,0.7,2014
+3355,60,0,Blake Treinen,Nationals,0.4,2015
+3356,73,0,Blake Treinen,Nationals,0.5,2016
+3357,72,0,Blake Treinen,2 Teams,1.3,2017
+3358,37,0,Blake Treinen,Nationals,0.3,    2017
+3359,52,0,Blake Treinen,Athletics,3.2,2018
+3360,24,6,Andrew Triggs,Athletics,0.9,2016
+3361,12,12,Andrew Triggs,Athletics,0.7,2017
+3362,9,9,Andrew Triggs,Athletics,0.2,2018
+3363,53,0,Lou Trivino,Athletics,1.0,2018
+3364,4,4,Nick Tropeano,Astros,0.4,2014
+3365,8,7,Nick Tropeano,Angels,1.1,2015
+3366,13,13,Nick Tropeano,Angels,0.1,2016
+3367,14,14,Nick Tropeano,Angels,-0.2,2018
+3368,2,1,Jen-Ho Tseng,Cubs,0.0,2017
+3369,1,1,Jen-Ho Tseng,Cubs,0.0,2018
+3370,2,0,Sam Tuivailala,Cardinals,-0.3,2014
+3371,14,0,Sam Tuivailala,Cardinals,0.1,2015
+3372,12,0,Sam Tuivailala,Cardinals,0.0,2016
+3373,37,0,Sam Tuivailala,Cardinals,0.2,2017
+3374,36,0,Sam Tuivailala,2 Teams,0.2,2018
+3375,31,0,Sam Tuivailala,Cardinals,0.1,    2018
+3376,3,3,Jacob Turner,Tigers,-0.1,2011
+3377,10,10,Jacob Turner,2 Teams,0.2,2012
+3378,3,3,Jacob Turner,Tigers,-0.3,    2012
+3379,20,20,Jacob Turner,Marlins,0.2,2013
+3380,28,18,Jacob Turner,2 Teams,0.3,2014
+3381,20,12,Jacob Turner,Marlins,0.3,    2014
+3382,18,2,Jacob Turner,White Sox,-0.5,2016
+3383,18,2,Jacob Turner,Nationals,-0.5,2017
+3384,5,1,Jacob Turner,2 Teams,-0.3,2018
+3385,4,0,Jacob Turner,Marlins,-0.2,    2018
+3386,20,9,Jose Urena,Marlins,0.1,2015
+3387,28,12,Jose Urena,Marlins,0.2,2016
+3388,34,28,Jose Urena,Marlins,0.2,2017
+3389,25,25,Jose Urena,Marlins,1.5,2018
+3390,7,0,Jose Valdez,Tigers,-0.2,2015
+3391,25,0,Jose Valdez,Angels,-0.3,2016
+3392,14,0,Jose Valdez,2 Teams,-0.5,2017
+3393,1,0,Jose Valdez,Angels,-0.1,    2017
+3394,4,0,Jose Valdez,Giants,-0.2,2018
+3395,12,0,Jose Valdez,Astros,-0.1,2011
+3396,12,0,Jose Valdez,Astros,0.0,2012
+3397,8,6,Jesmuel Valentin,Phillies,-0.4,2018
+3398,17,13,Jason Vargas,Marlins,1.7,2005
+3399,12,5,Jason Vargas,Marlins,-0.6,2006
+3400,2,2,Jason Vargas,Mets,-0.2,2007
+3401,23,14,Jason Vargas,Mariners,0.3,2009
+3402,31,31,Jason Vargas,Mariners,3.0,2010
+3403,32,32,Jason Vargas,Mariners,2.3,2011
+3404,33,33,Jason Vargas,Mariners,1.1,2012
+3405,24,24,Jason Vargas,Angels,1.4,2013
+3406,30,30,Jason Vargas,Royals,2.2,2014
+3407,9,9,Jason Vargas,Royals,0.4,2015
+3408,3,3,Jason Vargas,Royals,0.3,2016
+3409,32,32,Jason Vargas,Royals,1.6,2017
+3410,14,14,Jason Vargas,Mets,-0.4,2018
+3411,1,0,Jerry Vasto,Rockies,0.0,2018
+3412,49,0,Felipe Vazquez,Nationals,0.9,2015
+3413,75,0,Felipe Vazquez,2 Teams,0.8,2016
+3414,47,0,Felipe Vazquez,Nationals,0.7,    2016
+3415,73,0,Felipe Vazquez,Pirates,2.1,2017
+3416,54,0,Felipe Vazquez,Pirates,1.8,2018
+3417,8,3,Hector Velazquez,Red Sox,0.1,2017
+3418,36,5,Hector Velazquez,Red Sox,0.2,2018
+3419,26,0,Pat Venditte,Athletics,0.1,2015
+3420,15,0,Pat Venditte,2 Teams,-0.2,2016
+3421,8,0,Pat Venditte,Blue Jays,0.0,    2016
+3422,5,0,Pat Venditte,Dodgers,0.0,2018
+3423,79,0,Jonny Venters,Braves,1.5,2010
+3424,85,0,Jonny Venters,Braves,1.4,2011
+3425,66,0,Jonny Venters,Braves,0.1,2012
+3426,32,1,Jonny Venters,2 Teams,0.2,2018
+3427,22,1,Jonny Venters,Rays,0.1,    2018
+3428,1,1,Drew VerHagen,Tigers,0.1,2014
+3429,20,0,Drew VerHagen,Tigers,0.0,2015
+3430,19,0,Drew VerHagen,Tigers,-0.2,2016
+3431,24,2,Drew VerHagen,Tigers,-0.5,2017
+3432,27,1,Drew VerHagen,Tigers,0.4,2018
+3433,2,2,Justin Verlander,Tigers,0.1,2005
+3434,30,30,Justin Verlander,Tigers,2.8,2006
+3435,32,32,Justin Verlander,Tigers,3.7,2007
+3436,33,33,Justin Verlander,Tigers,3.0,2008
+3437,35,35,Justin Verlander,Tigers,7.7,2009
+3438,33,33,Justin Verlander,Tigers,6.3,2010
+3439,34,34,Justin Verlander,Tigers,6.4,2011
+3440,33,33,Justin Verlander,Tigers,6.8,2012
+3441,34,34,Justin Verlander,Tigers,4.9,2013
+3442,32,32,Justin Verlander,Tigers,2.9,2014
+3443,20,20,Justin Verlander,Tigers,2.9,2015
+3444,34,34,Justin Verlander,Tigers,5.3,2016
+3445,33,33,Justin Verlander,2 Teams,4.1,2017
+3446,28,28,Justin Verlander,Tigers,3.0,    2017
+3447,27,27,Justin Verlander,Astros,4.5,2018
+3448,27,0,Nick Vincent,Padres,0.5,2012
+3449,45,0,Nick Vincent,Padres,1.2,2013
+3450,63,0,Nick Vincent,Padres,0.9,2014
+3451,26,0,Nick Vincent,Padres,0.3,2015
+3452,60,0,Nick Vincent,Mariners,0.3,2016
+3453,69,0,Nick Vincent,Mariners,1.8,2017
+3454,46,1,Nick Vincent,Mariners,0.4,2018
+3455,17,0,Arodys Vizcaino,Braves,0.1,2011
+3456,5,0,Arodys Vizcaino,Cubs,0.0,2014
+3457,36,0,Arodys Vizcaino,Braves,0.8,2015
+3458,43,0,Arodys Vizcaino,Braves,0.3,2016
+3459,62,0,Arodys Vizcaino,Braves,0.7,2017
+3460,33,0,Arodys Vizcaino,Braves,0.5,2018
+3461,15,14,Chris Volstad,Marlins,1.5,2008
+3462,29,29,Chris Volstad,Marlins,-0.1,2009
+3463,30,30,Chris Volstad,Marlins,1.1,2010
+3464,29,29,Chris Volstad,Marlins,0.7,2011
+3465,21,21,Chris Volstad,Cubs,-0.1,2012
+3466,6,0,Chris Volstad,Rockies,-0.1,2013
+3467,1,0,Chris Volstad,Pirates,0.0,2015
+3468,6,2,Chris Volstad,White Sox,-0.1,2017
+3469,33,1,Chris Volstad,White Sox,-0.4,2018
+3470,1,1,Austin Voth,Nationals,-0.1,2018
+3471,15,9,Michael Wacha,Cardinals,1.2,2013
+3472,19,19,Michael Wacha,Cardinals,2.0,2014
+3473,30,30,Michael Wacha,Cardinals,2.3,2015
+3474,27,24,Michael Wacha,Cardinals,1.9,2016
+3475,30,30,Michael Wacha,Cardinals,3.2,2017
+3476,15,15,Michael Wacha,Cardinals,0.8,2018
+3477,2,0,Adam Wainwright,Cardinals,-0.1,2005
+3478,61,0,Adam Wainwright,Cardinals,1.2,2006
+3479,32,32,Adam Wainwright,Cardinals,3.7,2007
+3480,20,20,Adam Wainwright,Cardinals,2.6,2008
+3481,34,34,Adam Wainwright,Cardinals,5.7,2009
+3482,33,33,Adam Wainwright,Cardinals,5.6,2010
+3483,32,32,Adam Wainwright,Cardinals,4.1,2012
+3484,34,34,Adam Wainwright,Cardinals,6.6,2013
+3485,32,32,Adam Wainwright,Cardinals,4.9,2014
+3486,7,4,Adam Wainwright,Cardinals,0.9,2015
+3487,33,33,Adam Wainwright,Cardinals,2.9,2016
+3488,24,23,Adam Wainwright,Cardinals,1.5,2017
+3489,4,4,Adam Wainwright,Cardinals,0.0,2018
+3490,8,0,Marcus Walden,Red Sox,0.2,2018
+3491,3,3,Taijuan Walker,Mariners,0.5,2013
+3492,8,5,Taijuan Walker,Mariners,0.3,2014
+3493,29,29,Taijuan Walker,Mariners,2.0,2015
+3494,25,25,Taijuan Walker,Mariners,0.6,2016
+3495,28,28,Taijuan Walker,Diamondbacks,2.5,2017
+3496,3,3,Taijuan Walker,Diamondbacks,0.2,2018
+3497,1,1,Adam Warren,Yankees,-0.2,2012
+3498,34,2,Adam Warren,Yankees,0.1,2013
+3499,69,0,Adam Warren,Yankees,1.4,2014
+3500,43,17,Adam Warren,Yankees,2.2,2015
+3501,58,1,Adam Warren,2 Teams,-0.5,2016
+3502,29,1,Adam Warren,Cubs,-0.6,    2016
+3503,46,0,Adam Warren,Yankees,1.2,2017
+3504,33,0,Adam Warren,2 Teams,0.3,2018
+3505,24,0,Adam Warren,Yankees,0.4,    2018
+3506,43,0,Tony Watson,Pirates,-0.4,2011
+3507,68,0,Tony Watson,Pirates,0.4,2012
+3508,67,0,Tony Watson,Pirates,0.6,2013
+3509,78,0,Tony Watson,Pirates,1.4,2014
+3510,77,0,Tony Watson,Pirates,1.5,2015
+3511,70,0,Tony Watson,Pirates,0.0,2016
+3512,71,0,Tony Watson,2 Teams,0.1,2017
+3513,47,0,Tony Watson,Pirates,-0.1,    2017
+3514,59,0,Tony Watson,Giants,1.1,2018
+3515,9,8,Luke Weaver,Cardinals,0.5,2016
+3516,13,10,Luke Weaver,Cardinals,1.4,2017
+3517,25,24,Luke Weaver,Cardinals,1.5,2018
+3518,9,0,Tyler Webb,2 Teams,-0.1,2017
+3519,7,0,Tyler Webb,Yankees,-0.1,    2017
+3520,10,0,Tyler Webb,2 Teams,-0.1,2018
+3521,4,0,Tyler Webb,Padres,-0.3,    2018
+3522,5,5,Ryan Weber,Braves,0.2,2015
+3523,16,2,Ryan Weber,Braves,-0.2,2016
+3524,1,1,Ryan Weber,Mariners,0.1,2017
+3525,2,0,Ryan Weber,Rays,0.0,2018
+3526,1,0,Zack Weiss,Reds,0.0,2018
+3527,24,28,Tyler White,Astros,-0.3,2016
+3528,7,10,Tyler White,Astros,0.2,2017
+3529,11,15,Tyler White,Astros,0.9,2018
+3530,24,12,Chase Whitley,Yankees,0.6,2014
+3531,4,4,Chase Whitley,Yankees,0.1,2015
+3532,5,1,Chase Whitley,Rays,0.2,2016
+3533,41,0,Chase Whitley,Rays,0.7,2017
+3534,1,0,Chase Whitley,Braves,-0.1,2018
+3535,3,2,Aaron Wilkerson,Brewers,0.2,2017
+3536,3,1,Aaron Wilkerson,Brewers,-0.1,2018
+3537,5,0,Taylor Williams,Brewers,0.0,2017
+3538,45,0,Taylor Williams,Brewers,0.5,2018
+3539,7,1,Trevor Williams,Pirates,-0.3,2016
+3540,31,25,Trevor Williams,Pirates,2.2,2017
+3541,24,24,Trevor Williams,Pirates,1.3,2018
+3542,26,0,Alex Wilson,Red Sox,0.2,2013
+3543,18,0,Alex Wilson,Red Sox,0.0,2014
+3544,59,1,Alex Wilson,Tigers,0.7,2015
+3545,62,0,Alex Wilson,Tigers,0.9,2016
+3546,66,0,Alex Wilson,Tigers,0.4,2017
+3547,45,0,Alex Wilson,Tigers,-0.1,2018
+3548,8,0,Justin Wilson,Pirates,0.1,2012
+3549,58,0,Justin Wilson,Pirates,0.6,2013
+3550,70,0,Justin Wilson,Pirates,0.2,2014
+3551,74,0,Justin Wilson,Yankees,1.5,2015
+3552,66,0,Justin Wilson,Tigers,1.1,2016
+3553,65,0,Justin Wilson,2 Teams,1.1,2017
+3554,42,0,Justin Wilson,Tigers,0.9,    2017
+3555,53,0,Justin Wilson,Cubs,0.4,2018
+3556,2,0,Dan Winkler,Braves,-0.1,2015
+3557,3,0,Dan Winkler,Braves,0.1,2016
+3558,16,0,Dan Winkler,Braves,0.3,2017
+3559,56,0,Dan Winkler,Braves,1.3,2018
+3560,20,19,Matt Wisler,Braves,0.1,2015
+3561,27,26,Matt Wisler,Braves,0.5,2016
+3562,20,1,Matt Wisler,Braves,-0.1,2017
+3563,7,3,Matt Wisler,Braves,0.0,2018
+3564,48,0,Nick Wittgren,Marlins,0.3,2016
+3565,38,0,Nick Wittgren,Marlins,0.4,2017
+3566,22,0,Nick Wittgren,Marlins,0.3,2018
+3567,31,11,Alex Wood,Braves,1.6,2013
+3568,35,24,Alex Wood,Braves,2.6,2014
+3569,32,32,Alex Wood,2 Teams,2.6,2015
+3570,20,20,Alex Wood,Braves,2.0,    2015
+3571,14,10,Alex Wood,Dodgers,1.3,2016
+3572,27,25,Alex Wood,Dodgers,3.4,2017
+3573,24,24,Alex Wood,Dodgers,2.2,2018
+3574,51,0,Blake Wood,Royals,-0.4,2010
+3575,55,0,Blake Wood,Royals,0.4,2011
+3576,2,0,Blake Wood,Indians,0.0,2013
+3577,7,0,Blake Wood,Indians,0.0,2014
+3578,70,0,Blake Wood,Reds,0.3,2016
+3579,72,0,Blake Wood,2 Teams,0.7,2017
+3580,55,0,Blake Wood,Reds,0.5,    2017
+3581,13,0,Blake Wood,Angels,0.0,2018
+3582,1,0,Hunter Wood,Rays,0.0,2017
+3583,17,8,Hunter Wood,Rays,0.3,2018
+3584,8,8,Brandon Woodruff,Brewers,0.6,2017
+3585,12,4,Brandon Woodruff,Brewers,0.2,2018
+3586,20,3,Brandon Workman,Red Sox,0.5,2013
+3587,19,15,Brandon Workman,Red Sox,0.3,2014
+3588,33,0,Brandon Workman,Red Sox,0.0,2017
+3589,28,0,Brandon Workman,Red Sox,0.1,2018
+3590,12,9,Mike Wright,Orioles,-0.4,2015
+3591,18,12,Mike Wright,Orioles,0.2,2016
+3592,13,0,Mike Wright,Orioles,0.0,2017
+3593,37,2,Mike Wright,Orioles,0.0,2018
+3594,4,1,Steven Wright,Red Sox,0.0,2013
+3595,6,1,Steven Wright,Red Sox,0.2,2014
+3596,16,9,Steven Wright,Red Sox,-0.2,2015
+3597,24,24,Steven Wright,Red Sox,2.7,2016
+3598,5,5,Steven Wright,Red Sox,-0.5,2017
+3599,10,4,Steven Wright,Red Sox,0.1,2018
+3600,14,0,Jimmy Yacabonis,Orioles,-0.1,2017
+3601,5,3,Jimmy Yacabonis,Orioles,-0.1,2018
+3602,31,5,Ryan Yarbrough,Rays,0.4,2018
+3603,37,0,Kirby Yates,Rays,0.1,2014
+3604,20,0,Kirby Yates,Rays,-0.7,2015
+3605,41,0,Kirby Yates,Yankees,0.3,2016
+3606,62,0,Kirby Yates,2 Teams,0.4,2017
+3607,1,0,Kirby Yates,Angels,-0.2,    2017
+3608,50,0,Kirby Yates,Padres,1.3,2018
+3609,25,0,Mike Zagurski,Phillies,0.0,2007
+3610,8,0,Mike Zagurski,Phillies,-0.1,2010
+3611,4,0,Mike Zagurski,Phillies,-0.1,2011
+3612,45,0,Mike Zagurski,Diamondbacks,-0.2,2012
+3613,7,0,Mike Zagurski,2 Teams,-0.2,2013
+3614,6,0,Mike Zagurski,Pirates,-0.2,    2013
+3615,2,0,Mike Zagurski,Brewers,0.0,2018
+3616,8,1,Rob Zastryzny,Cubs,0.5,2016
+3617,4,0,Rob Zastryzny,Cubs,-0.1,2017
+3618,6,0,Rob Zastryzny,Cubs,0.0,2018
+3619,47,0,Brad Ziegler,Athletics,0.5,2008
+3620,69,0,Brad Ziegler,Athletics,1.0,2009
+3621,64,0,Brad Ziegler,Athletics,0.1,2010
+3622,66,0,Brad Ziegler,2 Teams,1.0,2011
+3623,43,0,Brad Ziegler,Athletics,0.6,    2011
+3624,77,0,Brad Ziegler,Diamondbacks,0.6,2012
+3625,78,0,Brad Ziegler,Diamondbacks,0.6,2013
+3626,68,0,Brad Ziegler,Diamondbacks,0.1,2014
+3627,66,0,Brad Ziegler,Diamondbacks,0.6,2015
+3628,69,0,Brad Ziegler,2 Teams,1.3,2016
+3629,36,0,Brad Ziegler,Diamondbacks,0.5,    2016
+3630,53,0,Brad Ziegler,Marlins,0.5,2017
+3631,63,0,Brad Ziegler,2 Teams,-0.3,2018
+3632,53,0,Brad Ziegler,Marlins,-0.4,    2018
+3633,16,16,Jordan Zimmermann,Nationals,1.9,2009
+3634,7,7,Jordan Zimmermann,Nationals,-0.3,2010
+3635,26,26,Jordan Zimmermann,Nationals,3.4,2011
+3636,32,32,Jordan Zimmermann,Nationals,3.3,2012
+3637,32,32,Jordan Zimmermann,Nationals,3.7,2013
+3638,32,32,Jordan Zimmermann,Nationals,5.3,2014
+3639,33,33,Jordan Zimmermann,Nationals,3.0,2015
+3640,19,18,Jordan Zimmermann,Tigers,1.3,2016
+3641,29,29,Jordan Zimmermann,Tigers,1.1,2017
+3642,18,18,Jordan Zimmermann,Tigers,1.3,2018

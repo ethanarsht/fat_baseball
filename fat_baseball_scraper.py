@@ -601,7 +601,7 @@ df_player_saved.to_csv('~/Downloads/pitcher_war.csv')
 # In[59]:
 
 
-df_pwar = pd.read_csv('pitcher_war.csv', index_col = 0)
+df_pwar = pd.read_csv('~/fat_baseball/pitcher_war.csv', index_col = 0)
 
 
 # In[31]:
@@ -729,38 +729,23 @@ df_yoc.dropna(subset = ['yoc'], inplace = True)
 
 df_co = df_yoc[df_yoc.bmi >= 25]
 
-df_co_starters = df_co[df_co['starter'] == 'sp']
-# In[227]:
-
-
-len(df_co_starters)
-
 
 # In[228]:
 
 
 df_sv = df_yoc[df_yoc.bmi < 25]
 
-df_sv_starters = df_sv[df_sv.starter == 'sp']
-
-
-# In[229]:
-
-
-len(df_sv_starters)
-
 
 # In[230]:
 
 
 sv_year_counts = pd.DataFrame(df_sv.yoc.value_counts())
-svstarter_year_counts = pd.DataFrame(df_sv_starters.yoc.value_counts())
+
 
 # In[231]:
 
 
 co_year_counts = pd.DataFrame(df_co.yoc.value_counts())
-costarter_year_counts = pd.DataFrame(df_co_starters.yoc.value_counts())
 
 
 # In[232]:
@@ -774,8 +759,6 @@ co_year_counts
 
 co_war = []
 sv_war = []
-cos_war = []
-svs_war = []
 
 # In[234]:
 
@@ -796,28 +779,27 @@ def war_means(df, war_list):
 
 
 co_war = war_means(df_co, co_war)
-cos_war = war_means(df_co_starters, cos_war)
+
 
 # In[236]:
 
 
 sv_war = war_means(df_sv, sv_war)
-svs_war = war_means(df_sv_starters, svs_war)
+
 
 # In[237]:
 
-sv_war = [x for x in sv_war if x > 0]
+#sv_war = [x for x in sv_war if x > 0]
+#sv_year_counts = [x for x in sv_year_counts if x > 0]
+print(len(sv_war))
+len(sv_year_counts)
 
-len(sv_war)
 
 # In[245]:
 
 
 co_year_counts['war'] = co_war
 sv_year_counts['war'] = sv_war
-svstarter_year_counts['war'] = svs_war
-costarter_year_counts['war'] = cos_war
-
 
 
 # In[248]:
@@ -830,13 +812,12 @@ sv_year_counts = sv_year_counts[sv_year_counts.index > 0]
 
 
 sv_year_counts['ar'] = sv_year_counts['yoc'].pct_change()
-svstarter_year_counts['ar'] = svstarter_year_counts['yoc'].pct_change()
+
 
 # In[250]:
 
 
 co_year_counts['ar'] = co_year_counts['yoc'].pct_change()
-costarter_year_counts['ar'] = costarter_year_counts['yoc'].pct_change()
 
 
 # In[251]:
@@ -846,12 +827,12 @@ co_year_counts
 
 
 # In[260]:
-
+sv_year_counts.reset_index(drop = True, inplace = True)
+co_year_counts.reset_index(drop = True, inplace = True)
 
 df_sv_plot = sv_year_counts.loc[:15]
 df_co_plot = co_year_counts.loc[:15]
-df_svs_plot = svstarter_year_counts.loc[:15]
-df_cos_plot = costarter_year_counts.loc[:15]
+
 
 # In[261]:
 
@@ -867,14 +848,10 @@ plt.plot(df_sv_plot['war'])
 plt.plot(df_co_plot['war'])
 
 #%%
-plt.plot(df_svs_plot['ar'], label = 'thin')
-plt.plot(df_cos_plot['ar'], label = 'fat')
 plt.legend()
 
 #%%
-plt.plot(df_svs_plot['war'], label = 'thin')
-plt.plot(df_cos_plot['war'], label = 'fat')
-plt.legend()
+
 #%%
 df_yoc.reset_index(drop = True, inplace = True)
 

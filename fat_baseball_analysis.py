@@ -16,10 +16,7 @@ from sklearn.metrics import roc_curve, confusion_matrix
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-from bokeh.io import output_file, show
-from bokeh.layouts import widgetbox
-from bokeh.models import ColumnDataSource
-from bokeh.models.widgets import DataTable, DateFormatter, TableColumn
+
 #%%
 df_data = pd.read_csv('~/fat_baseball/full_data.csv', index_col = 0)
 df_data.reset_index(drop = True, inplace = True)
@@ -120,13 +117,14 @@ sns.heatmap(df_cm, annot = True, cbar = None, cmap = "Blues")
 
 #%%
 active_pitcher_preds = lr.predict_proba(Xa)
-df_ap = pd.concat([df_active[['name', 'year',]], pd.DataFrame(active_pitcher_preds)], axis = 1)
+df_ap = pd.concat([df_active[['name', 'year', 'bmi']], pd.DataFrame(active_pitcher_preds)], axis = 1)
 #%%
 
 df_thisyear = df_ap[df_ap.year == 2018]
 #%%
-
-
+df_bokeh_c = df_ap
+#%%
+df_bokeh_c.to_csv('bokeh_chart.csv')
 
 
 
